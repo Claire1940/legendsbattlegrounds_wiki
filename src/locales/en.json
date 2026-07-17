@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Legends Battlegrounds Wiki - Characters, Combos & Updates",
+      "description": "Explore Legends Battlegrounds characters, tier lists, movesets, combos, controls, gamepasses, modes, and the latest Roblox updates in one clear guide.",
+      "keywords": "Legends Battlegrounds, Roblox, characters, tier list, combos, movesets, controls, updates",
+      "ogTitle": "Legends Battlegrounds Wiki - Characters, Combos & Updates",
+      "ogDescription": "Explore Legends Battlegrounds characters, tier lists, movesets, combos, controls, gamepasses, modes, and the latest Roblox updates in one clear guide.",
+      "twitterTitle": "Legends Battlegrounds Wiki - Characters, Combos & Updates",
+      "twitterDescription": "Explore Legends Battlegrounds characters, tier lists, movesets, combos, and the latest Roblox updates in one clear guide."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Fast-Paced Stickman PvP Fighter",
+    "title": "Legends Battlegrounds Wiki",
+    "description": "Master fast-paced stickman PvP with character movesets, awakenings, combos, counters, controls, gamepasses, duels, and update guides.",
+    "getFreeCodesCTA": "Check Latest Updates",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "466.8M+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "3.9K+",
+        "label": "Players Online"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "56.7K",
+        "label": "Peak CCU"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "86.8%",
+        "label": "User Rating"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Master Legends Battlegrounds?",
+    "description": "Join the Legends Battlegrounds community for character guides, combo tips, tier lists, and the latest Roblox updates from Arts of Vermillion!",
+    "joinCommunity": "Join Roblox Group",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Legends Battlegrounds Wiki",
+    "description": "Your complete resource hub for Legends Battlegrounds characters, movesets, combos, tier lists, techniques, gamepasses, and update guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
+    "discord": "Roblox Group",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "steamCommunity": "YouTube",
+    "steamStore": "Play on Roblox",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Legends Battlegrounds Wiki. Not affiliated with Arts of Vermillion or Roblox Corporation.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {

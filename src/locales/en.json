@@ -14,7 +14,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -52,696 +52,939 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Legends Battlegrounds Gameplay",
+    "description": "Dash, block, ragdoll-escape and awaken across fast Roblox stickman PvP duels featuring Martial Legend, Jun and Shinji."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Legends Battlegrounds",
+    "titleHighlight": "Guides",
+    "subtitle": "Jump straight to the characters, combos, movesets, and update guides you need to win more duels.",
     "cards": [
       {
-        "icon": "BookOpen",
+        "icon": "Compass",
         "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "description": "Controls, first fighter, movement and defensive rules"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "Trophy",
+        "title": "Tier List",
+        "description": "Beginner and competitive PvP fighter rankings"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "Swords",
+        "title": "Best Combos",
+        "description": "Beginner, advanced and high-damage routes per fighter"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "PersonStanding",
+        "title": "Martial Legend",
+        "description": "Base moves, awakening and matchup counters"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "Sword",
+        "title": "Jun Guide",
+        "description": "Base kit, move variants, wall routes and awakening"
       },
       {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
+        "icon": "Wind",
+        "title": "Shinji Guide",
+        "description": "Nunchuck pressure, lightning resets and matchups"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
+        "icon": "Crown",
+        "title": "Gamepasses",
+        "description": "Emotes, cosmetics and gameplay-access passes"
       },
       {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "Newspaper",
+        "title": "Updates",
+        "description": "New characters, awakenings and developer previews"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+    "legendsBattlegroundsBeginnerGuide": {
+      "title": "Legends Battlegrounds Beginner Guide",
+      "eyebrow": "Start Here",
+      "subtitle": "Build reliable movement, defense and combo habits before chasing long damage strings. This first-session route uses Martial Legend as the simplest starting fighter.",
+      "intro": "Legends Battlegrounds is a fast Roblox arena fighter built around light attacks, dashes, blocking, ragdoll escapes and awakening moves. Start by learning when to stop attacking: blocked pressure and a wasted evasive are two of the fastest ways to lose a fight.",
+      "controlsTitle": "Official Controls",
+      "controls": [
+        { "input": "Left Click", "action": "Light attack or M1" },
+        { "input": "Q", "action": "Dash" },
+        { "input": "Q while ragdolled", "action": "Evasive or ragdoll cancel" },
+        { "input": "F", "action": "Block" },
+        { "input": "G", "action": "Activate awakening" },
+        { "input": "B", "action": "Open the emote wheel" }
+      ],
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Choose a First Fighter",
+          "duration": "2 min",
+          "points": [
+            "Select Martial Legend for a direct, balanced kit with a counter, a guard-breaking palm strike and clear combo extenders.",
+            "Move to Jun after you can consistently dash around blocks and track an opponent's evasive.",
+            "Use Shinji once you are comfortable with rushdown timing, because most of his base moves can be blocked."
+          ]
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Drill the Core Controls",
+          "duration": "3 min",
+          "points": [
+            "Memorize the official controls card so dash, block, evasive and awakening are always one key away.",
+            "Perform ten dashes, ten blocks and five ragdoll cancels until they feel automatic.",
+            "Keep one finger near Q and F so you can react to pressure the moment it starts."
+          ]
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Practice Movement Before Attacking",
+          "duration": "4 min",
+          "points": [
+            "Use side dashes to change angle instead of repeatedly dashing straight into an opponent's block.",
+            "Save the forward dash for closing distance after a knockback or catching a missed move.",
+            "Circle at medium range and watch whether the opponent spends Q first."
+          ]
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Build One Defensive Rule",
+          "duration": "4 min",
+          "points": [
+            "Hold F against predictable M1 pressure, then release block before repositioning.",
+            "Use Q while ragdolled only when the opponent still has moves ready to extend the combo.",
+            "After spending evasive, play farther away until it returns instead of immediately re-engaging."
+          ]
+        },
+        {
+          "title": "Learn Two Universal Starters",
+          "duration": "5 min",
+          "points": [
+            "Uppercut starter: 3 M1 into Uppercut into a character move keeps the target close for launch-catch options.",
+            "Downslam starter: 3 M1 into Downslam into a ground-hitting move tests whether the opponent will spend evasive.",
+            "Run each starter three times without mashing the next move early."
+          ]
+        },
+        {
+          "title": "Run a First Martial Legend Route",
+          "duration": "5 min",
+          "points": [
+            "Sequence: Forward Dash, 3 M1, Uppercut, Panther Combo, Dragon Rush, Forward Dash, 3 M1, Uppercut, Tiger Palm.",
+            "Pause briefly after launchers so Dragon Rush and the next forward dash meet the opponent as they fall.",
+            "If the opponent evades after Panther Combo or an uppercut, stop the route, block and punish the next approach."
+          ]
+        },
+        {
+          "title": "Activate Awakening With a Plan",
+          "duration": "2 min",
+          "points": [
+            "Press G only when the awakening bar is ready.",
+            "Create space with a knockback before activating so the opponent cannot immediately pressure you.",
+            "Use awakening to secure a fight, not as a panic button after every cooldown has been spent."
+          ]
+        },
+        {
+          "title": "Avoid Common Beginner Mistakes",
+          "duration": "Ongoing",
+          "points": [
+            "Forward-dashing into block: side dash, wait for a swing, then start M1s.",
+            "Spending evasive on the first knockdown: check whether the opponent can still extend before pressing Q.",
+            "Using every move at once: keep one move ready to punish a missed dash or failed combo.",
+            "Repeating the same opener: alternate block pressure, side-dash M1 and a delayed counter bait."
+          ]
         }
       ],
       "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
+        "Stop attacking into a held block and look for a side dash instead.",
+        "Track the opponent's evasive before committing a long string.",
+        "Keep one cooldown ready to punish a missed move.",
+        "Practice one route until it is reliable before learning the next."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
+    "legendsBattlegroundsTierList": {
+      "title": "Legends Battlegrounds Tier List",
+      "eyebrow": "Fighter Rankings",
+      "subtitle": "The standard roster centers on Martial Legend, Jun and Shinji. The rankings below separate ease of use from maximum PvP potential.",
+      "intro": "Martial Legend is the cleanest character for learning neutral play, Jun has the highest technical combo ceiling, and Shinji specializes in mobility, multi-target pressure and Flashstep Fury resets. Matchup knowledge matters more than raw tier placement once both players can track evasive and cooldowns.",
+      "rankings": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "name": "Beginner Tier List",
+          "entries": [
+            {
+              "tier": "S",
+              "fighter": "Martial Legend",
+              "tag": "Free",
+              "summary": "The kit is straightforward: Dragon Rush chases, Tiger Palm bypasses guard and hits ragdolled targets, Panther Combo launches, and Triple Kick Counter punishes predictable attacks.",
+              "stats": [
+                { "label": "Ease of Use", "value": "Excellent" },
+                { "label": "Defense", "value": "Excellent" },
+                { "label": "Combo", "value": "High" }
+              ]
+            },
+            {
+              "tier": "A",
+              "fighter": "Jun",
+              "tag": "Free",
+              "summary": "Glimpse of Power bypasses guard, Fang Dance closes distance and Virgule Cascade has multiple routes, but Jun loses value when spacing and variant timing are not controlled.",
+              "stats": [
+                { "label": "Ease of Use", "value": "Medium" },
+                { "label": "Combo", "value": "Excellent" },
+                { "label": "Damage", "value": "Very High" }
+              ]
+            },
+            {
+              "tier": "B",
+              "fighter": "Shinji",
+              "tag": "Early Access",
+              "summary": "Body Flicker and Flashstep Fury create strong chase pressure, but most base moves are blockable and Body Flicker can send the target in an awkward direction.",
+              "stats": [
+                { "label": "Ease of Use", "value": "Low" },
+                { "label": "Mobility", "value": "Excellent" },
+                { "label": "Combo", "value": "High" }
+              ]
+            }
+          ]
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
-        {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
-        },
-        {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
-        },
-        {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
-        },
-        {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
+          "name": "Experienced PvP Tier List",
+          "entries": [
+            {
+              "tier": "S",
+              "fighter": "Jun",
+              "tag": "Free",
+              "summary": "Jun can convert one clean opening into layered pressure through Fang Dance, Wolf Fang Flash movement tech and the Glimpse of Power into Virgule Cascade variant.",
+              "stats": [
+                { "label": "Combo", "value": "Excellent" },
+                { "label": "Damage", "value": "Very High" },
+                { "label": "Execution", "value": "High" }
+              ]
+            },
+            {
+              "tier": "A+",
+              "fighter": "Martial Legend",
+              "tag": "Free",
+              "summary": "Triple Kick Counter can interrupt committed offense, while Tiger Palm and strong wall routes keep the character dependable against passive and aggressive opponents.",
+              "stats": [
+                { "label": "Defense", "value": "Excellent" },
+                { "label": "Combo", "value": "High" },
+                { "label": "Execution", "value": "Medium" }
+              ]
+            },
+            {
+              "tier": "A",
+              "fighter": "Shinji",
+              "tag": "Early Access",
+              "summary": "Nunchuck Flurry or Body Flicker can refresh Flashstep Fury through the reset mechanic, creating repeated pressure, but disciplined blocking limits several openers.",
+              "stats": [
+                { "label": "Mobility", "value": "Excellent" },
+                { "label": "Combo", "value": "Very High" },
+                { "label": "Execution", "value": "High" }
+              ]
+            }
+          ]
         }
       ]
     },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
+    "legendsBattlegroundsBestCombos": {
+      "title": "Legends Battlegrounds Best Combos",
+      "eyebrow": "Combo Lab",
+      "subtitle": "Use the shorter routes in live matches first, then add movement tech and reset mechanics. Every long string becomes safer after the opponent has already spent evasive.",
+      "intro": "M1 means a light attack. Uppercuts keep targets airborne, downslams test ragdoll escape timing, and side dashes help realign after launchers. Do not force the next move when the target uses Q while ragdolled; reset to block and punish instead.",
+      "notation": "M1 = light attack. Stop the route and block if the target uses evasive.",
+      "fighters": [
         {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
+          "name": "Martial Legend",
+          "combos": [
+            {
+              "difficulty": "Beginner",
+              "name": "Basic Launch Route",
+              "sequence": ["Forward Dash", "3 M1", "Uppercut", "Panther Combo", "Dragon Rush", "Forward Dash", "3 M1", "Uppercut", "Tiger Palm"],
+              "timing": "Let the target begin falling after Panther Combo before Dragon Rush connects, then forward dash just before the Dragon Rush knockback ends.",
+              "useCase": "Open-space 1v1 damage with all four base moves available."
+            },
+            {
+              "difficulty": "Advanced",
+              "name": "Counter Conversion",
+              "sequence": ["Triple Kick Counter", "Side Dash", "Dragon Rush", "Forward Dash", "3 M1", "Uppercut", "Panther Combo", "3 M1", "Downslam", "Tiger Palm"],
+              "timing": "Side dash immediately after the counter's final kick, then aim Dragon Rush at the target's landing path.",
+              "useCase": "Punishing predictable Fang Dance, M1 pressure or an aggressive dash."
+            },
+            {
+              "difficulty": "High Damage",
+              "name": "Wall Carry Route",
+              "sequence": ["Forward Dash", "3 M1", "Uppercut", "Panther Combo", "Dash toward wall", "Wall Combo", "Tiger Palm"],
+              "timing": "Start near a wall or tree and dash as Panther Combo finishes so the target reaches the wall-combo trigger.",
+              "useCase": "Short arenas and fights near solid map geometry."
+            }
+          ]
         },
         {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
+          "name": "Jun",
+          "combos": [
+            {
+              "difficulty": "Beginner",
+              "name": "Fang Dance Confirm",
+              "sequence": ["3 M1", "Wolf Fang Flash", "Fang Dance", "Side Dash", "Forward Dash", "3 M1", "Glimpse of Power"],
+              "timing": "Use the side dash to line up the forward dash after Fang Dance sends the opponent away.",
+              "useCase": "A stable route that teaches Jun's chase spacing."
+            },
+            {
+              "difficulty": "Advanced",
+              "name": "Wolf Fang Miss Tech",
+              "sequence": ["3 M1", "Downslam", "Wolf Fang Flash miss tech", "Side Dash", "3 M1", "Uppercut", "Fang Dance"],
+              "timing": "Angle slightly sideways during the flip so Wolf Fang Flash passes beside the opponent, then side dash back into M1 range.",
+              "useCase": "Keeping pressure without taking Wolf Fang Flash's normal knockback."
+            },
+            {
+              "difficulty": "High Damage",
+              "name": "Glimpse Cascade Route",
+              "sequence": ["Forward Dash", "3 M1", "Downslam", "Fang Dance", "Side Dash", "Forward Dash", "3 M1", "Uppercut", "Glimpse of Power", "Virgule Cascade during Glimpse", "3 M1", "Downslam", "Wolf Fang Flash"],
+              "timing": "Trigger Virgule Cascade during Glimpse of Power's second section to activate the combined kick variant.",
+              "useCase": "Maximum conversion from a clean opening with key cooldowns ready."
+            }
+          ]
         },
         {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
+          "name": "Shinji",
+          "combos": [
+            {
+              "difficulty": "Beginner",
+              "name": "Nunchuck Knockdown Route",
+              "sequence": ["Forward Dash", "3 M1", "Downslam", "Nunchuck Flurry", "Downslam", "Lightning Flash"],
+              "timing": "Use Nunchuck Flurry while the target is down, then aim Lightning Flash as the second downslam lands.",
+              "useCase": "A simple route ending with Shinji's guard-bypassing base move."
+            },
+            {
+              "difficulty": "Advanced",
+              "name": "Body Flicker Follow-Up",
+              "sequence": ["3 M1", "Downslam", "Nunchuck Flurry", "Body Flicker on landing", "2 M1", "Downslam", "Flashstep Fury"],
+              "timing": "Body Flicker can catch the brief floating state after Nunchuck Flurry, but its random roll direction means you must turn quickly.",
+              "useCase": "Practicing camera correction and Shinji's two-M1 limit after Body Flicker."
+            },
+            {
+              "difficulty": "High Damage",
+              "name": "Flashstep Reset Route",
+              "sequence": ["Forward Dash", "3 M1", "Downslam", "Flashstep Fury", "Downslam", "Nunchuck Flurry", "Downslam", "Flashstep Fury", "Downslam", "Lightning Flash"],
+              "timing": "Using Nunchuck Flurry while Flashstep Fury is unavailable refreshes it through Lightning Rage, allowing the second cast.",
+              "useCase": "Extended pressure that uses Shinji's signature cooldown-reset mechanic."
+            }
+          ]
         }
       ]
     },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
+    "legendsBattlegroundsMartialLegend": {
+      "title": "Legends Battlegrounds Martial Legend Guide",
+      "eyebrow": "Character Guide",
+      "subtitle": "Martial Legend combines simple launchers, a reliable guard break and a punish counter. The character is strongest when you save one move for the opponent's evasive or missed approach.",
+      "intro": "Use Dragon Rush and Panther Combo to carry opponents, Tiger Palm to punish blocking or grounded targets, and Triple Kick Counter against committed attacks. Near walls, Panther Combo can feed directly into Martial Legend's wall sequence for efficient damage.",
       "groups": [
         {
-          "name": "Exploration",
-          "achievements": [
+          "name": "Base Moves",
+          "moves": [
             {
-              "title": "Angel α",
-              "description": "Enter a qualia."
+              "name": "M1 Chain",
+              "role": "Starter",
+              "properties": ["Four-hit light-attack chain", "Final low kick knocks the target away"],
+              "bestUse": "Stop at three M1s before an uppercut or downslam when starting a combo."
             },
             {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
+              "name": "Dragon Rush",
+              "role": "Chase and launcher",
+              "properties": ["Forward rush", "Grabs and launches on hit", "Blockable"],
+              "bestUse": "Catch the opponent as they fall from Panther Combo, then dash into the landing."
             },
             {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
+              "name": "Tiger Palm",
+              "role": "Guard break and finisher",
+              "properties": ["Fast palm strike", "Bypasses block", "Hits ragdolled targets", "Low recovery on miss"],
+              "bestUse": "End a combo, punish passive blocking or side dash behind the reduced knockback."
             },
             {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
+              "name": "Panther Combo",
+              "role": "Combo extender",
+              "properties": ["Multi-hit punch sequence", "Ends with a launching backflip kick", "Blockable"],
+              "bestUse": "Confirm after an uppercut, then delay Dragon Rush until the target begins to fall."
+            },
+            {
+              "name": "Triple Kick Counter",
+              "role": "Defensive punish",
+              "properties": ["Counter stance", "Three-kick retaliation", "Long recovery if nothing triggers it"],
+              "bestUse": "Read Fang Dance, an obvious forward dash or repeated M1 pressure."
             }
           ]
         },
         {
-          "name": "Crafting and Summoning",
-          "achievements": [
+          "name": "System and Awakening",
+          "moves": [
             {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
+              "name": "Draconic Instinct",
+              "role": "Passive",
+              "properties": ["Activates after a successful Triple Kick Counter", "Boosts movement and attack speed"],
+              "bestUse": "Use the speed increase to side dash into Dragon Rush or force a fast M1 re-entry."
             },
             {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
+              "name": "Wall Combo",
+              "role": "Map conversion",
+              "properties": ["Knee, body kick, punches and tornado-kick sequence", "Needs the opponent carried into solid geometry"],
+              "bestUse": "Near a wall, connect Panther Combo and dash toward the target as the launcher ends."
             },
             {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
+              "name": "Dragon's Fury",
+              "role": "Awakening activation",
+              "properties": ["Yin-yang windstorm", "Creates space around Martial Legend", "Unlocks four awakening attacks"],
+              "bestUse": "Activate after a knockback so the opponent cannot freely pressure the startup."
             },
             {
-              "title": "Archangel β",
-              "description": "Summon your faith."
+              "name": "Dragon Blitz",
+              "role": "Rushdown",
+              "properties": ["Fast directional blitz", "Long strike sequence on hit"],
+              "bestUse": "Punish a missed move or catch an opponent trying to create distance."
+            },
+            {
+              "name": "Dropping Fang",
+              "role": "Vertical area attack",
+              "properties": ["Launches the target", "Follows with a diving stomp"],
+              "bestUse": "Catch grounded targets or punish opponents grouped near the landing point."
+            },
+            {
+              "name": "Skyfall Bomb",
+              "role": "Grab and slam",
+              "properties": ["Launches upward", "Air grab", "Head-first ground impact"],
+              "bestUse": "Use after a confirmed opening rather than into block or a side dash."
+            },
+            {
+              "name": "Draconic Honor",
+              "role": "Ultimate rush",
+              "properties": ["Summons a charging black dragon", "Carries the target across the ground", "Deals reduced impact when blocked"],
+              "bestUse": "Aim down a clear lane after the opponent has committed their dash."
             }
           ]
         },
         {
-          "name": "Mobility and Utility",
-          "achievements": [
+          "name": "Matchups",
+          "moves": [
             {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
+              "name": "Against Jun",
+              "role": "Counter the combo specialist",
+              "properties": ["Hold Triple Kick Counter for Fang Dance", "Save evasive for Glimpse of Power into Virgule Cascade", "Close with Dragon Rush after a missed Wolf Fang Flash or Fang Dance"],
+              "bestUse": "Force Jun to spend a movement tool first, then take the cleaner close-range exchange."
             },
             {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
+              "name": "Against Shinji",
+              "role": "Stop rushdown",
+              "properties": ["Block Nunchuck Flurry, Body Flicker and Flashstep Fury used as raw openers", "Respect Lightning Flash because it bypasses block", "Punish Body Flicker's recovery or Flashstep Fury's startup"],
+              "bestUse": "Stay patient behind block, then convert Shinji's failed rush into Panther Combo pressure."
             }
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
+    "legendsBattlegroundsJunGuide": {
+      "title": "Legends Battlegrounds Jun Guide",
+      "eyebrow": "Character Guide",
+      "subtitle": "Learn Jun's complete base kit, move variants, wall routes and No More Games awakening. Use confirmed combos to preserve cooldowns and avoid punishable openings.",
+      "intro": "Jun is a technical close-range fighter built around confirmed rushes, special move variants and high-damage awakening sequences. His strongest routes come from landing an M1 knockdown or wall combo before committing Fang Dance, Virgule Cascade or Piercing Tempest.",
+      "groups": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "name": "Base Moves",
+          "moves": [
+            {
+              "name": "Glimpse of Power",
+              "input": "1",
+              "role": "Close-range starter and combo extender",
+              "guard": "Unblockable",
+              "description": "Jun drives forward with a body strike, rushes through the target and finishes with a kick. The opening hit can catch multiple nearby opponents.",
+              "bestUse": "Confirm it after an M1 string or downslam instead of throwing it from maximum range."
+            },
+            {
+              "name": "Wolf Fang Flash",
+              "input": "2",
+              "role": "Chase tool and repositioning attack",
+              "guard": "Flip blockable, charged strike bypasses block",
+              "description": "Jun opens with a flipping kick and then launches a fast charged punch with an area hitbox.",
+              "bestUse": "Save it for chasing an evasive, extending a knockdown or returning to melee range."
+            },
+            {
+              "name": "Fang Dance",
+              "input": "3",
+              "role": "High-damage confirmed rush",
+              "guard": "Rushing entry can break through guard",
+              "description": "Jun rushes into a long martial-arts sequence that carries the opponent before launching them away.",
+              "bestUse": "Use it after an M1 downslam, wall stun or another confirmed hit; a missed attempt leaves Jun open."
+            },
+            {
+              "name": "Virgule Cascade",
+              "input": "4",
+              "role": "Sequence finisher and variant move",
+              "guard": "Blockable",
+              "description": "Jun starts with dagger strikes, teleports around the target and ends with a downward area attack. The opening knife hit must connect to trigger the full sequence.",
+              "bestUse": "Confirm the first hit through an M1 string, wall combo or Glimpse of Power."
+            }
+          ]
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "name": "Move Variants and Wall Combo",
+          "moves": [
+            {
+              "name": "Airborne Virgule Cascade",
+              "input": "Uppercut or wall launch, then 4",
+              "role": "Air-combo extension",
+              "guard": "Blockable",
+              "description": "Using Virgule Cascade after an uppercut or wall launch turns it into an aerial slash sequence.",
+              "bestUse": "Position the opponent near a wall, finish Jun's wall combo and activate Virgule Cascade as the target is launched."
+            },
+            {
+              "name": "Glimpse Cascade",
+              "input": "1, then 4 during Glimpse of Power",
+              "role": "Combined base-move route",
+              "guard": "Confirmed through Glimpse of Power",
+              "description": "Jun transitions from Glimpse of Power into a unique martial-arts and dagger sequence instead of the standard Virgule Cascade.",
+              "bestUse": "Keep both moves available when preparing this route rather than spending them separately."
+            },
+            {
+              "name": "Jun Wall Sequence",
+              "input": "M1 knockback beside a wall",
+              "role": "Environmental combo starter",
+              "description": "Jun pins the opponent against the wall, follows with close strikes and finishes with an upward sword slash that launches them.",
+              "bestUse": "Use the launch to confirm Airborne Virgule Cascade or dash forward for continued M1 pressure."
+            }
+          ]
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "name": "No More Games Awakening",
+          "moves": [
+            {
+              "name": "No More Games",
+              "input": "G with a full meter",
+              "role": "Jun awakening",
+              "description": "Jun draws his sword and replaces his base kit with four cinematic burst and counter abilities.",
+              "bestUse": "Activate after creating distance or knocking the opponent away so the transformation cannot be interrupted."
+            },
+            {
+              "name": "Savage Fangs",
+              "input": "1 while awakened",
+              "role": "Single-target burst",
+              "guard": "Approaching grab blockable when used raw",
+              "description": "Jun opens with sword slashes and transitions into a long cinematic attack when the grab connects.",
+              "bestUse": "Confirm it after the opponent spends their evasive or is recovering from a knockdown."
+            },
+            {
+              "name": "Phantom Sever",
+              "input": "2 while awakened",
+              "role": "Tracking slash and chase",
+              "guard": "Blockable",
+              "description": "Jun rushes forward and performs a rapid displacement slash that can be redirected with its follow-up activation.",
+              "bestUse": "Punish movement, close distance or force defense before another awakening move."
+            },
+            {
+              "name": "Piercing Tempest",
+              "input": "3 while awakened",
+              "role": "Ranged confirm into cinematic barrage",
+              "guard": "Opening knives blockable",
+              "description": "Jun throws a spread of knives. A successful hit causes him to teleport around the target with a multi-angle barrage.",
+              "bestUse": "Throw it after a knockdown, wall interaction or forced defensive action, not at a stationary blocking opponent."
+            },
+            {
+              "name": "One Inch Punch",
+              "input": "4 while awakened",
+              "role": "Counter and finisher",
+              "guard": "Counter stance",
+              "description": "Jun enters a counter stance and retaliates with a powerful close-range strike when attacked.",
+              "bestUse": "Read a predictable dash, M1 attack or immediate retaliation. Using it during Piercing Tempest converts the sequence into a combined finisher."
+            }
+          ]
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "name": "Combos and Resources",
+          "moves": [
+            {
+              "name": "Reliable Ground Combo",
+              "input": "3 M1, downslam, Fang Dance, dash, 3 M1, Glimpse, Virgule Cascade",
+              "description": "The downslam confirms Fang Dance, while the Glimpse-to-Virgule transition uses Jun's strongest base variant.",
+              "tip": "Track the opponent's evasive before committing the second half of the route."
+            },
+            {
+              "name": "Wall Variant Route",
+              "input": "3 M1, downslam near wall, wall combo, Airborne Virgule Cascade",
+              "description": "The wall launch creates the height needed for the airborne Virgule variant and avoids using the move as an unsafe raw opener."
+            },
+            {
+              "name": "Awakening Variant Route",
+              "input": "Piercing Tempest hit, then One Inch Punch",
+              "description": "A confirmed knife hit starts Piercing Tempest and lets One Inch Punch replace its standard ending with the combined variant."
+            },
+            {
+              "name": "Resource Management",
+              "input": "Neutral strategy",
+              "description": "Keep Glimpse of Power and Virgule Cascade together for their combined variant. Confirm Fang Dance before using it, preserve Wolf Fang Flash as a chase option and avoid spending all four base moves during one unconfirmed attack."
+            }
+          ]
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
+    "legendsBattlegroundsShinjiGuide": {
+      "title": "Legends Battlegrounds Shinji Guide",
+      "eyebrow": "Early Access Character",
+      "subtitle": "Master Shinji's nunchuck pressure, lightning movement and Flashstep Fury reset mechanic. Learn how his aggressive playstyle compares with Martial Legend and Jun.",
+      "intro": "Shinji is a fast pressure fighter whose base kit combines nunchuck barrages, electric movement and repeated Flashstep Fury attacks. He is available through Early Access, while the official FREE SHINJI event is scheduled to make the character publicly available on a date announced by the developers.",
+      "groups": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "name": "Access and Basics",
+          "cards": [
+            {
+              "name": "Shinji Access",
+              "tag": "Early Access",
+              "description": "Shinji can be selected through the Early Access gamepass. The official FREE SHINJI Roblox event will mark his wider public release."
+            },
+            {
+              "name": "Nunchuck M1 Chain",
+              "input": "Left Click",
+              "description": "Shinji's basic chain combines punches, a multi-hit figure-eight nunchuck swing and a spinning hook kick.",
+              "bestUse": "Stop at three attacks when preparing an uppercut or downslam, then confirm a special move."
+            },
+            {
+              "name": "Lightning Rage",
+              "tag": "Passive",
+              "description": "When Flashstep Fury is unavailable, landing Nunchuck Flurry or Body Flicker can refresh it once. A separate passive meter must recharge before another reset becomes available.",
+              "bestUse": "Spend Flashstep Fury first, trigger the reset with another move and use the refreshed Fury to continue pressure."
+            }
+          ]
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "name": "Base Moves",
+          "cards": [
+            {
+              "name": "Nunchuck Flurry",
+              "input": "1",
+              "tag": "Blockable",
+              "description": "Shinji performs a rising multi-hit nunchuck barrage followed by a downward strike. It can catch grounded targets and multiple nearby opponents.",
+              "bestUse": "Confirm it after a downslam and use it to activate Lightning Rage's Flashstep Fury refresh."
+            },
+            {
+              "name": "Body Flicker",
+              "input": "2",
+              "tag": "Blockable",
+              "description": "Shinji crouches before dashing through nearby targets with electricity and displacing them to a new position.",
+              "bestUse": "Use it as a pressure reset or group attack after forcing the opponent to stop blocking.",
+              "risk": "A missed dash or awkward landing can leave Shinji open to punishment."
+            },
+            {
+              "name": "Lightning Flash",
+              "input": "3",
+              "tag": "Bypasses block",
+              "description": "Shinji launches the target, disappears through a sequence of flash-step kicks and finishes with a powerful dropkick.",
+              "bestUse": "Shinji's main answer to blocking opponents or as a grounded-target punish."
+            },
+            {
+              "name": "Flashstep Fury",
+              "input": "4",
+              "tag": "Blockable",
+              "description": "Shinji rapidly circles the target with a multi-hit electric barrage. It can strike grounded opponents and several enemies in the area.",
+              "bestUse": "Spend it early in a confirmed route, then refresh it through Lightning Rage for a second use."
+            }
+          ]
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "name": "Wall Combo and Awakening",
+          "cards": [
+            {
+              "name": "Electric Wall Sequence",
+              "input": "M1 knockback beside a wall",
+              "description": "Shinji pins the opponent, delivers a rapid electric punch sequence and ends with a spinning kick.",
+              "bestUse": "Follow the wall sequence with Lightning Flash for a stable hit or Body Flicker to continue pressure."
+            },
+            {
+              "name": "Warrior's Grief",
+              "input": "G with a full meter",
+              "tag": "Awakening",
+              "description": "Shinji releases an electric wave during his transformation and gains large-scale lightning attacks for burst damage and team fights.",
+              "bestUse": "The activation wave can interrupt nearby opponents and create space for the first awakening move."
+            },
+            {
+              "name": "Iron Onslaught",
+              "input": "1 while awakened",
+              "description": "Shinji lunges forward and starts a long single-target nunchuck and lightning sequence when the opening attack connects.",
+              "bestUse": "Confirm it after a stun, knockdown or evasive use."
+            },
+            {
+              "name": "Lightning Rampage",
+              "input": "2 while awakened",
+              "description": "Shinji charges an electric shockwave, rushes through the target in a zigzag pattern and finishes with an aerial barrage.",
+              "bestUse": "Use the charge after creating distance or when several opponents are already recovering."
+            },
+            {
+              "name": "Draco Meteor",
+              "input": "3 while awakened",
+              "description": "Shinji launches into the air with an electric dragon effect, selects a landing point and crashes down with a large area explosion.",
+              "bestUse": "Aim the direct impact at grouped or knocked-down opponents for stronger damage than the outer blast."
+            }
+          ]
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "name": "Combo Routes",
+          "cards": [
+            {
+              "name": "Flashstep Reset Loop",
+              "input": "Front dash, 3 M1, downslam, Flashstep Fury, downslam, Nunchuck Flurry, refreshed Flashstep Fury, Lightning Flash",
+              "description": "This route spends Flashstep Fury before Nunchuck Flurry activates Lightning Rage and restores Fury for another pressure sequence."
+            },
+            {
+              "name": "Safer Confirm Route",
+              "input": "3 M1, downslam, Nunchuck Flurry, track landing, Lightning Flash",
+              "description": "A shorter route that preserves Flashstep Fury as a chase tool in case the opponent escapes."
+            },
+            {
+              "name": "Wall Pressure Route",
+              "input": "M1 knockback, wall combo, Lightning Flash, dash chase",
+              "description": "The wall sequence stabilizes Lightning Flash and leaves Shinji close enough to chase the target's landing."
+            }
+          ]
         },
         {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "name": "Matchups and Strategy",
+          "cards": [
+            {
+              "name": "Shinji vs Martial Legend",
+              "tag": "Matchup",
+              "description": "Shinji brings faster chase, stronger multi-target pressure and repeatable Flashstep Fury offense, while Martial Legend has more stable counter-based control.",
+              "recommendation": "Choose Shinji for aggressive movement and team-fight pressure."
+            },
+            {
+              "name": "Shinji vs Jun",
+              "tag": "Matchup",
+              "description": "Shinji offers more mobility and faster pressure resets, while Jun has more unblockable options, confirmed move variants and stronger cinematic burst routes.",
+              "recommendation": "Choose Shinji for constant pressure; choose Jun for technical confirms and punish damage."
+            },
+            {
+              "name": "Pressure Without Overcommitting",
+              "tag": "Strategy",
+              "description": "Most of Shinji's base specials can be blocked, so alternate dash pressure, M1 attacks and Lightning Flash instead of using every ability in sequence. Preserve either Body Flicker or Flashstep Fury to chase an evasive."
+            }
+          ]
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
+    "legendsBattlegroundsGamepasses": {
+      "title": "Legends Battlegrounds Gamepasses and Cosmetics",
+      "eyebrow": "Customization and Passes",
+      "subtitle": "Compare character-access passes, private-server tools and cosmetic upgrades. See which purchases unlock gameplay content and which only change appearance or social features.",
+      "intro": "Legends Battlegrounds separates character access from combat power. Early Access unlocks developing fighters, while most other passes add private-server controls, emote capacity, custom effects, outfits or profile features without increasing public-match damage.",
+      "headers": {
+        "name": "Item",
+        "category": "Type",
+        "effect": "What It Does",
+        "impact": "Gameplay Impact",
+        "classification": "Classification"
+      },
+      "items": [
         {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
+          "name": "Early Access",
+          "category": "Character Access",
+          "effect": "Unlocks characters still in their Early Access development period, including Shinji before his public release.",
+          "impact": "Unlocks additional playable movesets",
+          "classification": "Gameplay access",
+          "boost": true
         },
         {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
+          "name": "Private Server+",
+          "category": "Private Server",
+          "effect": "Adds practice and administration settings such as disabling cooldowns, granting awakening, forcing finishers, enabling dual movesets and managing players.",
+          "impact": "Changes training and custom private-server sessions",
+          "classification": "Private-server utility",
+          "boost": false
         },
         {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
+          "name": "VIP",
+          "category": "Premium",
+          "effect": "Adds a customizable cape, VIP title, optional arrival message, kill-count hiding, VIP server access and a discount on Gold purchases.",
+          "impact": "Convenience, social and economy benefits",
+          "classification": "Cosmetic and convenience",
+          "boost": false
         },
         {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
+          "name": "Awakening Outfit",
+          "category": "Cosmetic",
+          "effect": "Lets the player assign a saved Roblox outfit that appears while their character is awakened.",
+          "impact": "Visual change during awakening",
+          "classification": "Cosmetic only",
+          "boost": false
+        },
+        {
+          "name": "Extra Emote Slots",
+          "category": "Cosmetic",
+          "effect": "Expands the equipped emote wheel from four slots to eight.",
+          "impact": "More equipped social animations",
+          "classification": "Cosmetic only",
+          "boost": false
+        },
+        {
+          "name": "Skill Text",
+          "category": "Customization",
+          "effect": "Adds customizable text bubbles or messages to selected skills and awakening actions.",
+          "impact": "Changes how attacks are presented to others",
+          "classification": "Cosmetic and social",
+          "boost": false
+        },
+        {
+          "name": "Kill Sound",
+          "category": "Audio",
+          "effect": "Plays a selected custom sound after the player earns an elimination.",
+          "impact": "Audio feedback only",
+          "classification": "Cosmetic only",
+          "boost": false
+        },
+        {
+          "name": "Kill Message+",
+          "category": "Social",
+          "effect": "Displays a customized message when the player earns an elimination.",
+          "impact": "Chat and presentation only",
+          "classification": "Cosmetic and social",
+          "boost": false
+        },
+        {
+          "name": "Standard Emotes",
+          "category": "Gold Cosmetic",
+          "effect": "Emotes can be unlocked, equipped to the emote wheel and opened in a match by pressing B.",
+          "impact": "Social animation only",
+          "classification": "Cosmetic only",
+          "boost": false
+        },
+        {
+          "name": "Limited Emotes",
+          "category": "Event Cosmetic",
+          "effect": "Special emotes are released through selected updates and limited events.",
+          "impact": "Social animation only",
+          "classification": "Cosmetic only",
+          "boost": false
+        },
+        {
+          "name": "Cosmetic Effects",
+          "category": "Gold Cosmetic",
+          "effect": "Visual effects, accessories and character presentation options unlocked through the in-game cosmetic system.",
+          "impact": "Appearance only",
+          "classification": "Cosmetic only",
+          "boost": false
+        },
+        {
+          "name": "Titles",
+          "category": "Profile Cosmetic",
+          "effect": "Displays an equipped title with the player's in-game identity.",
+          "impact": "Profile presentation only",
+          "classification": "Cosmetic only",
+          "boost": false
         }
       ]
     },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
+    "legendsBattlegroundsUpdates": {
+      "title": "Legends Battlegrounds Updates and Sneak Peeks",
+      "eyebrow": "Latest Development",
+      "subtitle": "Follow new characters, awakening moves, balance adjustments, cosmetics and developer previews. Each timeline entry tracks official Roblox and developer channel updates.",
+      "intro": "Arts of Vermillion and developer Zalekoth publish upcoming Legends Battlegrounds content through the Roblox community, official YouTube channel and X account. The timeline below covers major character releases, combat additions, cosmetics and current development previews.",
       "entries": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "date": "July 2026",
+          "title": "New Duels Lobby Preview",
+          "status": "Developer Preview",
+          "category": "Game Mode and Interface",
+          "summary": "A new official sneak peek presents the redesigned lobby being prepared for Duels.",
+          "changes": [
+            "New lobby environment for duel-focused play",
+            "Updated presentation for entering and organizing duels",
+            "Continued development of the competitive match experience"
+          ]
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "date": "Date Not Announced",
+          "title": "FREE SHINJI Event",
+          "status": "Scheduled",
+          "category": "Limited Event and Character Access",
+          "summary": "The official Roblox event will make Shinji available beyond his Early Access period.",
+          "changes": [
+            "Public Shinji access event",
+            "Shinji-focused update content",
+            "Official event page for schedule and launch details"
+          ]
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
-        {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "date": "August 2025",
+          "title": "Shinji Awakening Expansion",
+          "status": "Released",
+          "category": "Character and Combat Update",
+          "summary": "Shinji's Warrior's Grief content expanded his lightning-based awakening and large-scale pressure options.",
+          "changes": [
+            "Iron Onslaught cinematic attack",
+            "Lightning Rampage charge and rush sequence",
+            "Draco Meteor aimed area attack",
+            "Additional anti-team combat systems",
+            "New limited emotes and visual content"
+          ]
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "date": "March 2025",
+          "title": "Jun Public Release and Shinji Early Access",
+          "status": "Released",
+          "category": "Character Update",
+          "summary": "Jun became publicly playable while Shinji entered Early Access with a complete speed-focused base moveset.",
+          "changes": [
+            "Jun moved from Early Access to public availability",
+            "Shinji added with Nunchuck Flurry, Body Flicker, Lightning Flash and Flashstep Fury",
+            "Jun received Piercing Tempest and One Inch Punch",
+            "Skill Text customization gamepass added",
+            "Additional server, killstreak and competitive-play features"
+          ]
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "date": "March 2025",
+          "title": "Piercing Tempest Ending Sneak Peek",
+          "status": "Preview Released",
+          "category": "Jun Awakening Preview",
+          "summary": "The official preview showed the ending sequence for Jun's Piercing Tempest awakening move.",
+          "changes": [
+            "Ranged knife opening",
+            "Multi-angle teleport barrage",
+            "Expanded cinematic ending for Jun's awakening kit"
+          ]
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "date": "December 2024",
+          "title": "Jun Finishers, VIP and Private Server Tools",
+          "status": "Released",
+          "category": "Content and System Update",
+          "summary": "The update expanded Jun's moves, added finishing animations and introduced major customization and private-server features.",
+          "changes": [
+            "Phantom Sever added to Jun's awakening",
+            "Finishers added for Jun's base attacks",
+            "VIP cape, title and Gold-purchase benefits",
+            "Private Server+ commands and dual-moveset settings",
+            "Expanded emote collection",
+            "Wall-combo, ragdoll and downslam adjustments"
+          ]
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "date": "October 2024",
+          "title": "Virgule Cascade and Cosmetic System",
+          "status": "Released",
+          "category": "Jun and Cosmetics Update",
+          "summary": "Jun received a new dagger move with multiple variants alongside the game's expanded cosmetic progression system.",
+          "changes": [
+            "Virgule Cascade added to Jun's base kit",
+            "Normal, uppercut and Glimpse of Power variants",
+            "No More Games awakening and Savage Fangs",
+            "Gold-based cosmetics and additional emotes",
+            "Awakening Outfit gamepass",
+            "Photosensitive mode and shift-lock offset options"
+          ]
+        },
+        {
+          "date": "August 2024",
+          "title": "Fang Dance and Jun Wall Combo",
+          "status": "Released",
+          "category": "Combat Update",
+          "summary": "Jun's early moveset expanded with a new rush attack, environmental combo and first dedicated finisher.",
+          "changes": [
+            "Fang Dance added",
+            "Jun wall combo introduced",
+            "First Jun finishing animation",
+            "Additional Martial Legend awakening content"
+          ]
         }
       ]
     }
@@ -749,31 +992,39 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Legends Battlegrounds",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is Legends Battlegrounds?",
+        "answer": "Legends Battlegrounds is a fast-paced Roblox stickman PvP fighting game made by Arts of Vermillion. It focuses on dashes, blocking, ragdoll escapes, awakenings and character-specific combos across free and Early Access fighters."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "Is Legends Battlegrounds free to play?",
+        "answer": "Yes. Legends Battlegrounds is free to play on Roblox. Optional gamepasses such as Early Access, VIP and Private Server+ add characters, cosmetics and private-server tools, but they do not increase public-match damage."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Which Legends Battlegrounds character is best for beginners?",
+        "answer": "Martial Legend is the best starting character in Legends Battlegrounds. The kit is balanced and easy to read, with a reliable counter, a guard break and simple combo extenders that teach neutral play before moving to Jun or Shinji."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How do I unlock Shinji in Legends Battlegrounds?",
+        "answer": "Shinji is available through the Early Access gamepass in Legends Battlegrounds. The official FREE SHINJI Roblox event is also scheduled to release him publicly on a date announced by the developers."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "How do I activate awakening in Legends Battlegrounds?",
+        "answer": "Press G when your awakening bar is full to activate awakening in Legends Battlegrounds. Create space with a knockback first so opponents cannot interrupt the startup, then use awakening moves to secure the fight."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "What is the best combo to learn first in Legends Battlegrounds?",
+        "answer": "Start with the Martial Legend basic launch route in Legends Battlegrounds: Forward Dash, 3 M1, Uppercut, Panther Combo, Dragon Rush, Forward Dash, 3 M1, Uppercut, Tiger Palm. It teaches launcher timing and evasive awareness before harder routes."
+      },
+      {
+        "question": "Are there redeem codes in Legends Battlegrounds?",
+        "answer": "Legends Battlegrounds does not currently use a redeem-code system. Characters, cosmetics and private-server tools are unlocked through gamepasses and in-game progression instead of codes."
+      },
+      {
+        "question": "Where can I play Legends Battlegrounds?",
+        "answer": "You can play Legends Battlegrounds on Roblox across PC, mobile, tablet and console. The official game page and the Arts of Vermillion community are the primary entry points."
       }
     ]
   },
@@ -802,124 +1053,84 @@
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
+      "title": "Legends Battlegrounds Guides",
+      "description": "Complete gameplay guides from beginner basics to advanced combo and matchup strategies.",
+      "metaTitle": "Legends Battlegrounds Guides - Beginner to Advanced Strategies",
+      "metaDescription": "Complete Legends Battlegrounds guides covering beginner tips, controls, combos, awakenings, and matchup tactics for mastering fast stickman PvP.",
       "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
+      "whatIsDescription": "Comprehensive guides covering core mechanics, controls, combos, awakenings and matchup strategy for Legends Battlegrounds.",
       "why": "Why read guides?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
+        "step1Description": "Understand movement, blocking, evasive and awakening before chasing long combos",
         "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step2Description": "Follow proven first-session routes and universal starters",
+        "step3Title": "Master Matchups",
+        "step3Description": "Develop reads against Martial Legend, Jun and Shinji pressure"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "characters": {
+      "title": "Legends Battlegrounds Characters",
+      "description": "Detailed character and moveset guides for Martial Legend, Jun and Shinji with combos, awakenings and matchup notes.",
+      "metaTitle": "Legends Battlegrounds Characters - Movesets & Matchups",
+      "metaDescription": "Complete Legends Battlegrounds character database including Martial Legend, Jun and Shinji movesets, awakenings, combos and matchup strategy.",
+      "categoryLabel": "CHARACTERS & MOVESETS",
+      "whatIs": "What are Characters?",
+      "whatIsDescription": "Character and moveset guides covering base moves, variants, awakenings, finishers and wall combos for every Legends Battlegrounds fighter.",
+      "why": "Why study characters?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Learn Movesets",
+        "step1Description": "Understand every base move, variant and awakening input",
+        "step2Title": "Pick Your Main",
+        "step2Description": "Compare ease of use, combo ceiling and mobility across fighters",
+        "step3Title": "Win Matchups",
+        "step3Description": "Apply character-specific counters and punishes"
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Characters"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "combos": {
+      "title": "Legends Battlegrounds Combos",
+      "description": "Reliable beginner, advanced and high-damage combo routes for every playable fighter.",
+      "metaTitle": "Legends Battlegrounds Combos - Routes, Timing & Evasive Checks",
+      "metaDescription": "Master Legends Battlegrounds combos with step-by-step routes, M1 timing, wall conversions and evasive checks for Martial Legend, Jun and Shinji.",
+      "categoryLabel": "COMBO LAB",
+      "whatIs": "What are Combos?",
+      "whatIsDescription": "Combo guides covering ordered attack sequences, timing, evasive checks and wall conversions for each Legends Battlegrounds fighter.",
+      "why": "Why learn combos?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Reliable Routes",
+        "step1Description": "Start with stable starters before high-damage strings",
+        "step2Title": "Track Evasive",
+        "step2Description": "Learn when to stop a route and punish instead",
+        "step3Title": "Maximize Damage",
+        "step3Description": "Convert clean openings into full kills"
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Combos"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "updates": {
+      "title": "Legends Battlegrounds Updates",
+      "description": "Track new characters, awakenings, balance changes, cosmetics, events and developer previews.",
+      "metaTitle": "Legends Battlegrounds Updates - Patch Notes & Sneak Peeks",
+      "metaDescription": "Follow Legends Battlegrounds updates including new characters, awakening moves, balance changes, cosmetics and developer previews from Arts of Vermillion.",
+      "categoryLabel": "UPDATES & NEWS",
+      "whatIs": "What are Updates?",
+      "whatIsDescription": "Update and sneak-peek coverage tracking new characters, awakening moves, balance changes, cosmetics and developer previews for Legends Battlegrounds.",
+      "why": "Why follow updates?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "New Content",
+        "step1Description": "Stay current on characters, awakenings and events",
+        "step2Title": "Balance Changes",
+        "step2Description": "Adjust your routes when moves are updated",
+        "step3Title": "Developer Previews",
+        "step3Description": "Preview upcoming modes and features"
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
-    },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
-      "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
-    },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Updates"
     }
   }
 }

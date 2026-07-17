@@ -10,14 +10,7 @@
       "twitterDescription": "Explore Legends Battlegrounds characters, tier lists, movesets, combos, and the latest Roblox updates in one clear guide."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",

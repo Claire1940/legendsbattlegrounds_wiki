@@ -1,0 +1,181 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, Zap, Activity } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Cómo esquivar Phantom Sever en Legends Battlegrounds: Guía de evasión",
+  description: "Domina el tiempo y el posicionamiento para esquivar el Phantom Sever en Legends Battlegrounds. Aprende datos de fotogramas, contraestrategias y mecánicas de movimiento de Jun.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Dodge+Phantom+Sever+Guide",
+  date: "2026-07-17",
+  author: "Equipo de la Wiki de Legends Battlegrounds"
+}
+
+<Callout type="info" title="Guía rápida">
+- **Cómo esquivar Phantom Sever en Legends Battlegrounds**: El método principal consiste en realizar un **desplazamiento lateral (side-dash)** exactamente cuando el oponente alcanza el umbral de proximidad de 10 casillas.
+- **Pista visual**: Presta atención a la **animación de desenvainar la daga**; una vez que la hoja brilla, la caja de colisión (hitbox) se activa.
+- **Distanciamiento**: Mantén una distancia de al menos **14 casillas** para evitar la activación automática del remate cinematográfico.
+- **Uso de I-Frames**: Utiliza personajes con fotogramas de desplazamiento (dash frames) de alta prioridad para esquivar el rastreo inicial de "Vergo Cascade" o "Phantom".
+- **Castigo**: Tras esquivar con éxito, el atacante sufre una **ventana de recuperación de 1.2 segundos**, lo que lo deja expuesto a un combo M1 completo.
+</Callout>
+
+<Section icon={Activity} title="Comprendiendo las mecánicas de Phantom Sever">
+
+El Phantom Sever (a menudo asociado con el kit de dagas de alta movilidad de Jun) es uno de los movimientos más opresivos en el metajuego actual de 2026 de Legends Battlegrounds. Para entender **cómo esquivar Phantom Sever en Legends Battlegrounds**, primero debes comprender la "Zona de Activación". A diferencia de los proyectiles estándar, este movimiento depende de un sistema de activación basado en la proximidad que puede pillar desprevenidos a los jugadores si solo confían en moverse hacia atrás.
+
+**Puntos destacados del video:**
+- **Actualización de Jun**: Análisis de los nuevos remates y activadores de escenas cinematográficas para la última actualización de personaje.
+- **Mecánicas de casillas**: Demostración de las zonas de activación automática de 11 y 14 casillas para los movimientos con daga.
+- **Variaciones de remates**: Análisis profundo de los remates Wolf Fang Flash y Vergo Cascade.
+- **Análisis de la caja de colisión (Hitbox)**: Visualización de dónde ocurre el golpe de "separación de cabeza" en la secuencia del movimiento.
+
+<YouTubeEmbed videoId="74VJ9u_5vzs" title="CÓMO ACTIVAR las NUEVAS escenas cinematográficas de JUN en Legends Battlegrounds" />
+
+El movimiento suele iniciarse con un desplazamiento (dash). Si el oponente se encuentra dentro de la caja de colisión entre la casilla 11 y la 14, la escena cinematográfica se activa automáticamente. Esto significa que simplemente huir en línea recta es la forma menos efectiva de sobrevivir. Debes romper la línea de rastreo utilizando movimiento lateral.
+
+| Atributo del movimiento | Valor de datos | Impacto en la supervivencia |
+| :--- | :--- | :--- |
+| **Rango de activación** | 11 - 14 Casillas | Alto / Evitar proximidad |
+| **Fotogramas de inicio (Startup)** | 14 Fotogramas | Moderado / Basado en reacción |
+| **Tipo de daño** | Daño verdadero / Escena cinematográfica | Extremo / No se puede bloquear |
+| **Enfriamiento (Cooldown)** | 16 Segundos | Alto / Ventana para contraataque |
+| **Tipo de rastreo** | Lineal / Proximidad | Predictible / Esquivable |
+
+<Callout type="warning" title="Advertencia crítica">
+No intentes bloquear el Phantom Sever. Debido a que transiciona a un remate cinematográfico (como las seis estocadas intensas o el golpe de separación de cabeza), omite las mecánicas de guardia estándar. Esquivar es tu única opción defensiva viable.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="La técnica de evasión en 3 pasos">
+
+Dominar **cómo esquivar Phantom Sever en Legends Battlegrounds** requiere una combinación de conciencia espacial y sincronización rítmica. El movimiento está diseñado para castigar a los jugadores que saltan por pánico o mantienen presionada la tecla S (hacia atrás). En su lugar, debes apoyarte en las técnicas de "S-Dodge" o "Circle-Strafing" (desplazamiento en círculo).
+
+<Steps>
+  <Step num="1" title="Identifica la preparación">
+    Observa si el avatar del oponente baja su centro de gravedad. Para el kit de habilidades de Jun, esto suele ir acompañado de un efecto de sonido de desenvainado de daga. Si el oponente comienza a correr mientras sostiene una daga, está buscando activar la escena cinematográfica por proximidad a 11 casillas.
+  </Step>
+  <Step num="2" title="Atrae la activación por proximidad">
+    Muévete ligeramente hacia el oponente, luego realiza inmediatamente un desplazamiento **lateral** (teclas A o D). Al ingresar al rango de 14 casillas y salir de él de inmediato mediante un desplazamiento, fuerzas al movimiento a fallar ("whiff") su rastreo, ya que el juego calcula la comprobación de impacto al inicio de la casilla 11.
+  </Step>
+  <Step num="3" title="Ejecuta el contra-desplazamiento">
+    Una vez que el desplazamiento del "Phantom" pase por tu posición original, usa tu propia habilidad de movilidad para cerrar la distancia. El oponente quedará bloqueado en una breve animación de fallo, lo cual es el momento perfecto para iniciar un Wolf Fang Flash o el combo principal de tu propio personaje.
+  </Step>
+</Steps>
+
+<Callout type="tip" title="Consejo profesional">
+Si estás jugando en un servidor privado, usa el maniquí gratuito para probar la distancia exacta de 11 casillas. Saber exactamente dónde comienza esa "zona de peligro" es el 90% de la batalla en las partidas de alto rango de Legends Battlegrounds.
+</Callout>
+
+| Sincronización del esquive | Resultado | Estado del jugador |
+| :--- | :--- | :--- |
+| **Temprano (15+ Casillas)** | El movimiento se reinicia | Neutral / Reinicio |
+| **Perfecto (11 Casillas)** | Fallo (Whiff) / Ventana de contraataque | Ventaja / Combo completo |
+| **Tardío ( <10 Casillas)** | Escena cinematográfica activada | Derrota / Daño alto |
+
+</Section>
+
+<Section icon={Shield} title="Estrategias de contraataque específicas de personajes">
+
+Aunque las mecánicas generales de esquive se aplican a todos, algunos personajes en Legends Battlegrounds tienen herramientas específicas que facilitan significativamente el proceso de **cómo esquivar Phantom Sever en Legends Battlegrounds**. Usar estas herramientas de manera efectiva puede convertir una lucha defensiva en una ventaja ofensiva.
+
+<CardGrid cols={3}>
+  <Card title="Arquetipos de velocidad">
+    - **Gran distancia de desplazamiento**: Supera fácilmente la zona de activación de 14 casillas.
+    - **Prioridad de I-Frames**: Los desplazamientos tienen más fotogramas de invencibilidad.
+    - **Mejor estrategia**: Atraer y superar el rastreo por velocidad.
+  </Card>
+  <Card title="Arquetipos de tanque">
+    - **Superarmadura**: Ocasionalmente puede resistir el impacto inicial.
+    - **Movimientos de contraataque**: Usa mecánicas de choque ("clash") para cancelar el tajo.
+    - **Mejor estrategia**: Intercambiar golpes si esquivar es imposible.
+  </Card>
+  <Card title="Arquetipos de control de zona (Zoners)">
+    - **Presión con proyectiles**: Mantiene al oponente fuera del rango de 14 casillas.
+    - **Habilidades de empuje (Knockback)**: Interrumpe el sprint del oponente.
+    - **Mejor estrategia**: Nunca dejes que se acerquen lo suficiente como para activarlo.
+  </Card>
+</CardGrid>
+
+<Callout type="success" title="Estrategia de éxito">
+Los personajes con variantes de "Uppercut" (gancho), como el gancho de Vergo Cascade mencionado en la actualización de 2026, se pueden usar para lanzar al oponente por los aires antes de que inicie el Phantom Sever, reiniciando eficazmente sus enfriamientos sin recibir daño.
+</Callout>
+
+| Método de contraataque | Efectividad | Dificultad |
+| :--- | :--- | :--- |
+| **Desplazamiento lateral (Side-Dashing)** | 5/5 | Moderada |
+| **Salto hacia atrás** | 2/5 | Fácil |
+| **Habilidad de contraataque** | 4/5 | Difícil |
+| **Bucle con obstáculos** | 3/5 | Moderada |
+
+</Section>
+
+<Section icon={Map} title="Evasión ambiental y posicionamiento">
+
+El diseño del mapa en Legends Battlegrounds juega un papel fundamental en cómo manejas los movimientos de alta amenaza. Al considerar **cómo esquivar Phantom Sever en Legends Battlegrounds**, debes usar el terreno a tu favor. El rastreo de "Phantom" es estrictamente lineal, lo que significa que no puede navegar de manera efectiva alrededor de objetos sólidos o esquinas cerradas.
+
+- **Bucle en pilares (Pillar Looping)**: Mantén un objeto sólido entre tú y el atacante. Si intentan el desplazamiento de 11 casillas, colisionarán con el entorno.
+- **Cambios de elevación**: Estar en una plataforma más alta a menudo rompe el rastreo vertical del tajo de la daga.
+- **Peligros de agua**: Usar el agua para ralentizar la velocidad de sprint del oponente puede darte de 2 a 3 fotogramas adicionales para reaccionar a la preparación.
+
+| Elemento del mapa | Uso estratégico | Beneficio |
+| :--- | :--- | :--- |
+| **Paredes / Pilares** | Romper la línea de visión | Cancela el rastreo |
+| **Escalones / Escaleras** | Verticalidad | Desalineación de la caja de colisión |
+| **Campos abiertos** | Reacción pura | Requiere una sincronización perfecta |
+
+<Callout type="info" title="Información táctica">
+En la última actualización, se ha observado que el cuarto movimiento base de Jun (Vergo Cascade) tiene remates "brutales", que incluyen estocadas en el cuello y el pie. Evitar el golpe inicial es obligatorio para evitar que estas extensas escenas cinematográficas agoten tu barra de vida.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Lista de control de maestría y objetivos de práctica">
+
+Para realizar el esquive de manera consistente, necesitas desarrollar memoria muscular. Utiliza la siguiente lista de control durante tus sesiones de práctica en los campos de entrenamiento o servidores privados.
+
+<Checklist
+  id="dodge-mastery"
+  title="Hitos de práctica de esquive:"
+  items={[
+    "Identificar el punto de activación de 11 casillas sin marcadores",
+    "Realizar con éxito un desplazamiento lateral 10 veces seguidas contra un bot de Jun",
+    "Contraatacar dentro de los 0.5 segundos posteriores a un esquive exitoso",
+    "Usar pilares del entorno para romper el rastreo de Phantom Sever",
+    "Dominar el tiempo de I-frame de 'Esquive tardío' para obtener la máxima puntuación de estilo"
+  ]}
+/>
+
+<Callout type="warning" title="Advertencia">
+La "activación automática" ocurre en la casilla 11 si el jugador está dentro de la caja de colisión. Si tienes lag (latencia superior a 150 ms), debes esquivar **antes** (alrededor de la marca de 15 casillas) para compensar la latencia del servidor.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Preguntas frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Puedo bloquear el movimiento Phantom Sever en Legends Battlegrounds?",
+    answer: "No, el movimiento es un remate cinematográfico de tipo agarre. Bloquear no detendrá la animación una vez que estés dentro de la zona de activación de 11 casillas. Debes esquivar o usar una habilidad con fotogramas de invencibilidad (I-frame)."
+  },
+  {
+    question: "¿Cuál es el mejor personaje para contrarrestar los nuevos remates de Jun?",
+    answer: "Los personajes con alta movilidad o empujes de largo alcance son los mejores. Al mantenerte fuera del rango de 14 casillas, dejas inútiles los activadores principales de las escenas cinematográficas de Jun."
+  },
+  {
+    question: "¿Cómo sé si el Phantom Sever está a punto de golpearme?",
+    answer: "Presta atención a la animación de sprint del oponente mientras sostiene una daga. En la actualización de 2026, hay un brillo específico en la hoja que ocurre exactamente 3 fotogramas antes de que se active el activador de 11 casillas."
+  },
+  {
+    question: "¿Funciona el Phantom Sever en el aire?",
+    answer: "Sí, pero es mucho más difícil de asestar. Si estás en el aire, el rastreo es menos confiable, por lo que saltar es una estrategia común (aunque arriesgada) para esquivar Phantom Sever en Legends Battlegrounds."
+  }
+]} />
+
+</Section>

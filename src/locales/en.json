@@ -10,7 +10,15 @@
       "twitterDescription": "Explore Legends Battlegrounds characters, tier lists, movesets, combos, and the latest Roblox updates in one clear guide."
     }
   },
-  "nav": {},
+  "nav": {
+    "characters": "Characters",
+    "moves": "Moves",
+    "combos": "Combos",
+    "guide": "Guide",
+    "codes": "Codes",
+    "customization": "Customization",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -1052,45 +1060,45 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Legends Battlegrounds Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced combo and matchup strategies.",
-      "metaTitle": "Legends Battlegrounds Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Legends Battlegrounds guides covering beginner tips, controls, combos, awakenings, and matchup tactics for mastering fast stickman PvP.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering core mechanics, controls, combos, awakenings and matchup strategy for Legends Battlegrounds.",
-      "why": "Why read guides?",
-      "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand movement, blocking, evasive and awakening before chasing long combos",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven first-session routes and universal starters",
-        "step3Title": "Master Matchups",
-        "step3Description": "Develop reads against Martial Legend, Jun and Shinji pressure"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
-    },
     "characters": {
       "title": "Legends Battlegrounds Characters",
-      "description": "Detailed character and moveset guides for Martial Legend, Jun and Shinji with combos, awakenings and matchup notes.",
-      "metaTitle": "Legends Battlegrounds Characters - Movesets & Matchups",
-      "metaDescription": "Complete Legends Battlegrounds character database including Martial Legend, Jun and Shinji movesets, awakenings, combos and matchup strategy.",
-      "categoryLabel": "CHARACTERS & MOVESETS",
+      "description": "Complete roster of Legends Battlegrounds fighters including Martial Legend, Jun, Shinji and special guests with roles, unlock methods and playstyle breakdowns.",
+      "metaTitle": "Legends Battlegrounds Characters - Roster & Playstyles",
+      "metaDescription": "Browse every Legends Battlegrounds character including Martial Legend, Jun, Shinji and special guests. Compare roles, unlock methods, strengths and playstyles.",
+      "categoryLabel": "CHARACTERS",
       "whatIs": "What are Characters?",
-      "whatIsDescription": "Character and moveset guides covering base moves, variants, awakenings, finishers and wall combos for every Legends Battlegrounds fighter.",
+      "whatIsDescription": "Character guides covering each Legends Battlegrounds fighter's roster placement, unlock method, role, strengths, weaknesses and overall playstyle, without duplicating full moveset or combo data.",
       "why": "Why study characters?",
       "whySteps": {
-        "step1Title": "Learn Movesets",
-        "step1Description": "Understand every base move, variant and awakening input",
+        "step1Title": "Know the Roster",
+        "step1Description": "See every available, Early Access and special character in one place",
         "step2Title": "Pick Your Main",
         "step2Description": "Compare ease of use, combo ceiling and mobility across fighters",
-        "step3Title": "Win Matchups",
-        "step3Description": "Apply character-specific counters and punishes"
+        "step3Title": "Plan Unlocks",
+        "step3Description": "Decide which Early Access or special character fits your playstyle"
       },
       "featured": "Featured & Essential",
       "all": "All Characters"
+    },
+    "moves": {
+      "title": "Legends Battlegrounds Movesets",
+      "description": "Full moveset breakdowns for every fighter covering base moves, awakenings, input variants, finishers and activation conditions.",
+      "metaTitle": "Legends Battlegrounds Movesets - Moves, Awakenings & Variants",
+      "metaDescription": "Master every Legends Battlegrounds moveset with full base moves, awakening skills, input variants, finishers and activation conditions for each fighter.",
+      "categoryLabel": "MOVESETS",
+      "whatIs": "What are Movesets?",
+      "whatIsDescription": "Moveset references explaining each fighter's normal attacks, awakening skills, input variants, finisher animations and the conditions that trigger them, kept separate from full combo routes.",
+      "why": "Why learn movesets?",
+      "whySteps": {
+        "step1Title": "Master Inputs",
+        "step1Description": "Learn every base move and awakening input cleanly",
+        "step2Title": "Track Variants",
+        "step2Description": "Understand input variants and when each one fires",
+        "step3Title": "Trigger Awakenings",
+        "step3Description": "Know the exact conditions to activate and use awakenings"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Movesets"
     },
     "combos": {
       "title": "Legends Battlegrounds Combos",
@@ -1111,6 +1119,66 @@
       },
       "featured": "Featured & Essential",
       "all": "All Combos"
+    },
+    "guide": {
+      "title": "Legends Battlegrounds Guide",
+      "description": "Beginner-friendly guides covering controls, movement, blocking, wake-up evasives, awakenings and core battle strategy.",
+      "metaTitle": "Legends Battlegrounds Guide - Controls, Movement & Beginner Tips",
+      "metaDescription": "Start strong in Legends Battlegrounds with full controls, dashing, blocking, wake-up evasives, awakenings and beginner battle strategy for PC and mobile.",
+      "categoryLabel": "GAME GUIDES",
+      "whatIs": "What is the Guide?",
+      "whatIsDescription": "Core gameplay guides for new players covering controls, dashing, blocking, wake-up evasives, awakening usage and foundational battle strategy in Legends Battlegrounds.",
+      "why": "Why read the guide?",
+      "whySteps": {
+        "step1Title": "Learn Controls",
+        "step1Description": "Master PC and mobile inputs, blocking and awakenings",
+        "step2Title": "Survive Longer",
+        "step2Description": "Use dashing and wake-up evasives to escape pressure",
+        "step3Title": "Build Fundamentals",
+        "step3Description": "Develop reads and pressure habits before chasing long combos"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guides"
+    },
+    "codes": {
+      "title": "Legends Battlegrounds Codes",
+      "description": "How Legends Battlegrounds codes work as custom audio ID inputs for the Kill Sound system, plus working Roblox audio IDs to use.",
+      "metaTitle": "Legends Battlegrounds Codes - Kill Sound Audio ID Guide",
+      "metaDescription": "Learn how Legends Battlegrounds codes work as custom audio ID inputs for the Kill Sound system, with working Roblox audio IDs and setup steps.",
+      "categoryLabel": "CODES & AUDIO",
+      "whatIs": "What are Codes?",
+      "whatIsDescription": "In Legends Battlegrounds, codes are custom audio ID inputs used to personalize your Kill Sound rather than traditional promo codes for free stats or currency. This section explains how the audio system works and lists working Roblox audio IDs.",
+      "why": "Why use codes?",
+      "whySteps": {
+        "step1Title": "Customize Your Kill Sound",
+        "step1Description": "Enter audio IDs to play a personalized sound effect whenever you defeat an opponent",
+        "step2Title": "Set Up Correctly",
+        "step2Description": "Follow the exact steps to unlock the Kill Sound system and input IDs",
+        "step3Title": "Browse Working IDs",
+        "step3Description": "Pick from tested Roblox Library audio IDs that work in-game"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
+    "customization": {
+      "title": "Legends Battlegrounds Customization",
+      "description": "Every cosmetic, emote, kill sound and Roblox song ID in Legends Battlegrounds with how-to-equip instructions.",
+      "metaTitle": "Legends Battlegrounds Customization - Cosmetics, Emotes & Song IDs",
+      "metaDescription": "Browse all Legends Battlegrounds cosmetics, emotes, kill sound IDs and Roblox song IDs, plus step-by-step instructions to equip each item.",
+      "categoryLabel": "CUSTOMIZATION",
+      "whatIs": "What is Customization?",
+      "whatIsDescription": "Customization guides listing every cosmetic skin, emote, kill sound and Roblox song ID available in Legends Battlegrounds, with clear steps to unlock and equip each one.",
+      "why": "Why customize?",
+      "whySteps": {
+        "step1Title": "Stand Out",
+        "step1Description": "Equip skins and cosmetics to personalize your fighter",
+        "step2Title": "Express Yourself",
+        "step2Description": "Use emotes and kill sounds to style on opponents",
+        "step3Title": "Set the Vibe",
+        "step3Description": "Drop in Roblox song IDs to customize your lobby audio"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Customization"
     },
     "updates": {
       "title": "Legends Battlegrounds Updates",

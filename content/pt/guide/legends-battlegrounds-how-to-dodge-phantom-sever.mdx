@@ -1,0 +1,181 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, Zap, Activity } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Como Esquivar do Phantom Sever no Legends Battlegrounds: Guia de Evasão",
+  description: "Domine o tempo e o posicionamento para esquivar do Phantom Sever no Legends Battlegrounds. Aprenda dados de frames, contra-estratégias e as mecânicas de movimento do Jun.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Dodge+Phantom+Sever+Guide",
+  date: "2026-07-17",
+  author: "Equipe da Wiki do Legends Battlegrounds"
+}
+
+<Callout type="info" title="Guia Rápido">
+- **Como esquivar do phantom sever no Legends Battlegrounds**: O método principal envolve usar o **dash lateral (side-dash)** exatamente quando o oponente atinge o limite de proximidade de 10 blocos (tiles).
+- **Pista Visual**: Fique atento à **animação de saque da adaga**; assim que a lâmina brilhar, a hitbox se torna ativa.
+- **Espaçamento**: Mantenha uma distância de pelo menos **14 blocos** para evitar a ativação automática do finalizador de cutscene.
+- **Uso de I-Frames**: Utilize personagens com frames de dash de alta prioridade para ignorar o rastreamento inicial do "Vergo Cascade" ou do "Phantom".
+- **Punição**: Após uma esquiva bem-sucedida, o atacante sofre uma **janela de recuperação de 1,2 segundos**, ficando vulnerável a um combo M1 completo.
+</Callout>
+
+<Section icon={Activity} title="Entendendo as Mecânicas do Phantom Sever">
+
+O Phantom Sever (frequentemente associado ao kit de adaga de alta mobilidade do Jun) é um dos movimentos mais opressores no meta atual de 2026 do Legends Battlegrounds. Para entender **como esquivar do phantom sever no Legends Battlegrounds**, você deve primeiro compreender a "Zona de Ativação". Ao contrário dos projéteis padrão, este movimento depende de um sistema de ativação baseado em proximidade que pode pegar os jogadores desprevenidos se eles confiarem apenas no movimento para trás.
+
+**Destaques do Vídeo:**
+- **Atualização do Jun**: Análise dos novos finalizadores e gatilhos de cutscene para a atualização mais recente do personagem.
+- **Mecânicas de Blocos**: Demonstração das zonas de ativação automática de 11 e 14 blocos para movimentos de adaga.
+- **Variações de Finalizadores**: Análise aprofundada dos finalizadores Wolf Fang Flash e Vergo Cascade.
+- **Análise de Hitbox**: Visualização de onde ocorre o soco de "separação de cabeça" na sequência do movimento.
+
+<YouTubeEmbed videoId="74VJ9u_5vzs" title="COMO ATIVAR as NOVAS Cutscenes do JUN no Legends Battlegrounds" />
+
+O movimento geralmente começa com um dash. Se o oponente estiver dentro da hitbox entre o 11º e o 14º bloco, a cutscene é ativada automaticamente. Isso significa que simplesmente fugir em linha reta é a maneira menos eficaz de sobreviver. Você deve quebrar a linha de rastreamento utilizando movimento lateral.
+
+| Atributo do Movimento | Valor do Dado | Impacto na Sobrevivência |
+| :--- | :--- | :--- |
+| **Alcance de Ativação** | 11 - 14 Blocos | Alto / Evite proximidade |
+| **Frames de Inicialização** | 14 Frames | Moderado / Baseado em reação |
+| **Tipo de Dano** | Dano Verdadeiro / Cutscene | Extremo / Não pode ser bloqueado |
+| **Tempo de Recarga** | 16 Segundos | Alto / Janela para contra-ataque |
+| **Tipo de Rastreamento** | Linear / Proximidade | Previsível / Esquivável |
+
+<Callout type="warning" title="Aviso Crítico">
+Não tente bloquear o Phantom Sever. Como ele faz a transição para um finalizador cinematográfico (como as seis facadas intensas ou o soco de separação de cabeça), ele ignora as mecânicas padrão de defesa. Esquivar é a sua única opção defensiva viável.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="A Técnica de Evasão em 3 Passos">
+
+Dominar **como esquivar do phantom sever no Legends Battlegrounds** requer uma combinação de consciência espacial e sincronia rítmica. O movimento foi projetado para punir jogadores que pulam em pânico ou seguram S (para trás). Em vez disso, você deve se apoiar nas técnicas de "S-Dodge" ou "Circle-Strafing".
+
+<Steps>
+  <Step num="1" title="Identifique a Preparação">
+    Fique atento para o avatar do oponente abaixar seu centro de gravidade. No kit do Jun, isso geralmente é acompanhado por um efeito somoro de saque de adaga. Se o oponente começar a correr enquanto segura uma adaga, ele está tentando ativar a cutscene de proximidade de 11 blocos.
+  </Step>
+  <Step num="2" title="Iscas para o Gatilho de Proximidade">
+    Mova-se ligeiramente em direção ao oponente e, em seguida, use o dash imediatamente para as **laterais** (teclas A ou D). Ao entrar no alcance de 14 blocos e sair dele imediatamente através de um dash, você força o movimento a "errar" (whiff) seu rastreamento, pois o jogo calcula a verificação de acerto no início do 11º bloco.
+  </Step>
+  <Step num="3" title="Execute o Contra-Dash">
+    Assim que o dash do "Phantom" passar pela sua posição original, use sua própria habilidade de mobilidade para fechar a distância. O oponente ficará travado em uma breve animação de "erro", que é o momento perfeito para iniciar um Wolf Fang Flash ou o combo principal do seu próprio personagem.
+  </Step>
+</Steps>
+
+<Callout type="tip" title="Dica de Mestre">
+Se estiver jogando em um servidor privado, use o boneco de teste gratuito para testar a distância exata de 11 blocos. Saber exatamente onde essa "zona de perigo" começa é 90% da batalha em partidas de alto ranque no Legends Battlegrounds.
+</Callout>
+
+| Tempo da Esquiva | Resultado | Estado do Jogador |
+| :--- | :--- | :--- |
+| **Adiantado (15+ Blocos)** | O movimento reseta | Neutro / Reset |
+| **Perfeito (11 Blocos)** | Erro (Whiff) / Janela de contra-ataque | Vantagem / Combo Completo |
+| **Atrasado (<10 Blocos)** | Cutscene Ativada | Derrota / Dano Alto |
+
+</Section>
+
+<Section icon={Shield} title="Estratégias de Contra-ataque Específicas de Personagens">
+
+Embora as mecânicas gerais de esquiva se apliquem a todos, alguns personagens no Legends Battlegrounds possuem ferramentas específicas que tornam o processo de **como esquivar do phantom sever no Legends Battlegrounds** significativamente mais fácil. Usar essas ferramentas de forma eficaz pode transformar uma disputa defensiva em uma vantagem ofensiva.
+
+<CardGrid cols={3}>
+  <Card title="Arquétipos de Velocidade">
+    - **Grande Distância de Dash**: Limpa facilmente a zona de ativação de 14 blocos.
+    - **Prioridade de I-Frame**: Os dashes possuem mais frames de invencibilidade.
+    - **Melhor Estratégia**: Atrair e correr mais rápido que o rastreamento.
+  </Card>
+  <Card title="Arquétipos Tank">
+    - **Super Armadura**: Ocasionalmente pode aguentar o golpe inicial.
+    - **Movimentos de Contra-ataque**: Use mecânicas de "colisão" (clash) para cancelar o sever.
+    - **Melhor Estratégia**: Trocar golpes se a esquiva for impossível.
+  </Card>
+  <Card title="Arquétipos Zoner">
+    - **Pressão de Projéteis**: Mantém o oponente fora do alcance de 14 blocos.
+    - **Habilidades de Recuo (Knockback)**: Interrompe a corrida do oponente.
+    - **Melhor Estratégia**: Nunca os deixe chegar perto o suficiente para ativar.
+  </Card>
+</CardGrid>
+
+<Callout type="success" title="Estratégia de Sucesso">
+Personagens com variantes de "Gancho" (Uppercut), como o gancho Vergo Cascade mencionado na atualização de 2026, podem ser usados para lançar o oponente antes mesmo que ele inicie o Phantom Sever, resetando efetivamente seus tempos de recarga sem sofrer dano.
+</Callout>
+
+| Método de Contra-ataque | Eficácia | Dificuldade |
+| :--- | :--- | :--- |
+| **Dash Lateral** | 5/5 | Moderada |
+| **Pulo para Trás** | 2/5 | Fácil |
+| **Habilidade de Contra-ataque** | 4/5 | Difícil |
+| **Desvios com Obstáculos** | 3/5 | Moderada |
+
+</Section>
+
+<Section icon={Map} title="Evasão Ambiental e Posicionamento">
+
+O layout do mapa no Legends Battlegrounds desempenha um papel enorme em como você lida com movimentos de alta ameaça. Ao considerar **como esquivar do phantom sever no Legends Battlegrounds**, você deve usar o terreno a seu favor. O rastreamento do "Phantom" é estritamente linear, o que significa que ele não consegue contornar objetos sólidos ou esquinas fechadas de forma eficaz.
+
+- **Contorno de Pilares**: Mantenha um objeto sólido entre você e o atacante. Se eles tentarem o dash de 11 blocos, colidirão com o cenário.
+- **Mudanças de Elevação**: Ficar em uma plataforma mais alta frequentemente quebra o rastreamento vertical do corte de adaga.
+- **Obstáculos de Água**: Usar a água para desacelerar a velocidade de corrida do oponente pode lhe dar de 2 a 3 frames extras para reagir à preparação.
+
+| Elemento do Mapa | Uso Estratégico | Benefício |
+| :--- | :--- | :--- |
+| **Paredes / Pilares** | Quebra de Linha de Visão | Cancela o Rastreamento |
+| **Degraus / Escadas** | Verticalidade | Desalinhamento de Hitbox |
+| **Campos Abertos** | Reação Pura | Requer Sincronia Perfeita |
+
+<Callout type="info" title="Informação Tática">
+Na atualização mais recente, o quarto movimento básico de Jun (Vergo Cascade) foi notado por ter finalizadores "brutais", incluindo facadas no pescoço e nos pés. Evitar o golpe inicial é obrigatório para impedir que essas cutscenes prolongadas esvaziem sua barra de vida.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Lista de Verificação de Maestria e Metas de Treino">
+
+Para realizar a esquiva de forma consistente, você precisa desenvolver memória muscular. Use a seguinte lista de verificação durante suas sessões de treino nos campos de treinamento ou servidores privados.
+
+<Checklist
+  id="dodge-mastery"
+  title="Marcos de Prática de Esquiva:"
+  items={[
+    "Identificar o ponto de ativação de 11 blocos sem marcadores",
+    "Realizar com sucesso o dash lateral 10 vezes seguidas contra um bot do Jun",
+    "Contra-atacar em até 0,5 segundos após uma esquiva bem-sucedida",
+    "Usar pilares do cenário para quebrar o rastreamento do Phantom Sever",
+    "Dominar o tempo de I-frame da 'Esquiva Atrasada' para o máximo de pontos de estilo"
+  ]}
+/>
+
+<Callout type="warning" title="Aviso">
+O "gatilho automático" ocorre no 11º bloco se o jogador estiver dentro da hitbox. Se você estiver com lag (ping acima de 150ms), deve esquivar **mais cedo** (por volta do 15º bloco) para compensar a latência do servidor.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Perguntas Frequentes">
+
+<FAQ items={[
+  {
+    question: "Posso bloquear o movimento Phantom Sever no Legends Battlegrounds?",
+    answer: "Não, o movimento é um finalizador de cutscene em estilo agarrão. Bloquear não interromperá a animação uma vez que você esteja dentro da zona de ativação de 11 blocos. Você deve se esquivar ou usar uma habilidade com I-frame."
+  },
+  {
+    question: "Qual é o melhor personagem para contra-atacar os novos finalizadores do Jun?",
+    answer: "Personagens com alta mobilidade ou recuos de longo alcance são os melhores. Ao permanecer fora do alcance de 14 blocos, você torna os principais gatilhos de cutscene do Jun inúteis."
+  },
+  {
+    question: "Como sei se o Phantom Sever está prestes a me atingir?",
+    answer: "Fique atento à animação de corrida do oponente enquanto ele segura uma adaga. Na atualização de 2026, há um brilho específico na lâmina que ocorre exatamente 3 frames antes de o gatilho de 11 blocos se tornar ativo."
+  },
+  {
+    question: "O Phantom Sever funciona no ar?",
+    answer: "Sim, mas é muito mais difícil de acertar. Se você estiver no ar, o rastreamento é menos confiável, razão pela qual pular é uma estratégia comum (ambora arriscada) para se esquivar do Phantom Sever no Legends Battlegrounds."
+  }
+]} />
+
+</Section>

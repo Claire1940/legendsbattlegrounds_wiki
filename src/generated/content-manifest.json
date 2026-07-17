@@ -1,1 +1,658 @@
-{}
+{
+  "en": {
+    "characters": [
+      {
+        "slug": "legends-battlegrounds-all-characters",
+        "file": "legends-battlegrounds-all-characters"
+      },
+      {
+        "slug": "legends-battlegrounds-dark-lord",
+        "file": "legends-battlegrounds-dark-lord"
+      },
+      {
+        "slug": "legends-battlegrounds-jun",
+        "file": "legends-battlegrounds-jun"
+      },
+      {
+        "slug": "legends-battlegrounds-kratos",
+        "file": "legends-battlegrounds-kratos"
+      },
+      {
+        "slug": "legends-battlegrounds-martial-legend",
+        "file": "legends-battlegrounds-martial-legend"
+      },
+      {
+        "slug": "legends-battlegrounds-new-character",
+        "file": "legends-battlegrounds-new-character"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji",
+        "file": "legends-battlegrounds-shinji"
+      },
+      {
+        "slug": "legends-battlegrounds-tier-list",
+        "file": "legends-battlegrounds-tier-list"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "legends-battlegrounds-codes",
+        "file": "legends-battlegrounds-codes"
+      }
+    ],
+    "combos": [
+      {
+        "slug": "legends-battlegrounds-best-combos",
+        "file": "legends-battlegrounds-best-combos"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-combo",
+        "file": "legends-battlegrounds-jun-combo"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-counter",
+        "file": "legends-battlegrounds-jun-counter"
+      },
+      {
+        "slug": "legends-battlegrounds-martial-legend-combo",
+        "file": "legends-battlegrounds-martial-legend-combo"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-combo",
+        "file": "legends-battlegrounds-shinji-combo"
+      },
+      {
+        "slug": "legends-battlegrounds-techs",
+        "file": "legends-battlegrounds-techs"
+      },
+      {
+        "slug": "legends-battlegrounds-wall-combo",
+        "file": "legends-battlegrounds-wall-combo"
+      }
+    ],
+    "customization": [
+      {
+        "slug": "legends-battlegrounds-all-cosmetics",
+        "file": "legends-battlegrounds-all-cosmetics"
+      },
+      {
+        "slug": "legends-battlegrounds-all-emotes",
+        "file": "legends-battlegrounds-all-emotes"
+      },
+      {
+        "slug": "legends-battlegrounds-kill-sound-id",
+        "file": "legends-battlegrounds-kill-sound-id"
+      },
+      {
+        "slug": "legends-battlegrounds-roblox-song-id",
+        "file": "legends-battlegrounds-roblox-song-id"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "legends-battlegrounds-controls",
+        "file": "legends-battlegrounds-controls"
+      },
+      {
+        "slug": "legends-battlegrounds-how-to-dodge-phantom-sever",
+        "file": "legends-battlegrounds-how-to-dodge-phantom-sever"
+      },
+      {
+        "slug": "legends-battlegrounds-how-to-move-with-abilities",
+        "file": "legends-battlegrounds-how-to-move-with-abilities"
+      },
+      {
+        "slug": "legends-battlegrounds-how-to-use-jun",
+        "file": "legends-battlegrounds-how-to-use-jun"
+      },
+      {
+        "slug": "legends-battlegrounds-private-server-commands",
+        "file": "legends-battlegrounds-private-server-commands"
+      }
+    ],
+    "moves": [
+      {
+        "slug": "legends-battlegrounds-all-moves",
+        "file": "legends-battlegrounds-all-moves"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-awakening",
+        "file": "legends-battlegrounds-jun-awakening"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-moveset",
+        "file": "legends-battlegrounds-jun-moveset"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-one-inch-punch",
+        "file": "legends-battlegrounds-jun-one-inch-punch"
+      },
+      {
+        "slug": "legends-battlegrounds-piercing-tempest",
+        "file": "legends-battlegrounds-piercing-tempest"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-awakening",
+        "file": "legends-battlegrounds-shinji-awakening"
+      },
+      {
+        "slug": "legends-battlegrounds-virgule-cascade-variants",
+        "file": "legends-battlegrounds-virgule-cascade-variants"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "legends-battlegrounds-leaks",
+        "file": "legends-battlegrounds-leaks"
+      },
+      {
+        "slug": "legends-battlegrounds-sneak-peek",
+        "file": "legends-battlegrounds-sneak-peek"
+      },
+      {
+        "slug": "legends-battlegrounds-update-log",
+        "file": "legends-battlegrounds-update-log"
+      },
+      {
+        "slug": "legends-battlegrounds-update-release-date",
+        "file": "legends-battlegrounds-update-release-date"
+      },
+      {
+        "slug": "legends-battlegrounds-update",
+        "file": "legends-battlegrounds-update"
+      }
+    ]
+  },
+  "es": {
+    "characters": [
+      {
+        "slug": "legends-battlegrounds-all-characters",
+        "file": "legends-battlegrounds-all-characters"
+      },
+      {
+        "slug": "legends-battlegrounds-dark-lord",
+        "file": "legends-battlegrounds-dark-lord"
+      },
+      {
+        "slug": "legends-battlegrounds-jun",
+        "file": "legends-battlegrounds-jun"
+      },
+      {
+        "slug": "legends-battlegrounds-kratos",
+        "file": "legends-battlegrounds-kratos"
+      },
+      {
+        "slug": "legends-battlegrounds-martial-legend",
+        "file": "legends-battlegrounds-martial-legend"
+      },
+      {
+        "slug": "legends-battlegrounds-new-character",
+        "file": "legends-battlegrounds-new-character"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji",
+        "file": "legends-battlegrounds-shinji"
+      },
+      {
+        "slug": "legends-battlegrounds-tier-list",
+        "file": "legends-battlegrounds-tier-list"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "legends-battlegrounds-codes",
+        "file": "legends-battlegrounds-codes"
+      }
+    ],
+    "combos": [
+      {
+        "slug": "legends-battlegrounds-best-combos",
+        "file": "legends-battlegrounds-best-combos"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-combo",
+        "file": "legends-battlegrounds-jun-combo"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-counter",
+        "file": "legends-battlegrounds-jun-counter"
+      },
+      {
+        "slug": "legends-battlegrounds-martial-legend-combo",
+        "file": "legends-battlegrounds-martial-legend-combo"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-combo",
+        "file": "legends-battlegrounds-shinji-combo"
+      },
+      {
+        "slug": "legends-battlegrounds-techs",
+        "file": "legends-battlegrounds-techs"
+      },
+      {
+        "slug": "legends-battlegrounds-wall-combo",
+        "file": "legends-battlegrounds-wall-combo"
+      }
+    ],
+    "customization": [
+      {
+        "slug": "legends-battlegrounds-all-cosmetics",
+        "file": "legends-battlegrounds-all-cosmetics"
+      },
+      {
+        "slug": "legends-battlegrounds-all-emotes",
+        "file": "legends-battlegrounds-all-emotes"
+      },
+      {
+        "slug": "legends-battlegrounds-kill-sound-id",
+        "file": "legends-battlegrounds-kill-sound-id"
+      },
+      {
+        "slug": "legends-battlegrounds-roblox-song-id",
+        "file": "legends-battlegrounds-roblox-song-id"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "legends-battlegrounds-controls",
+        "file": "legends-battlegrounds-controls"
+      },
+      {
+        "slug": "legends-battlegrounds-how-to-dodge-phantom-sever",
+        "file": "legends-battlegrounds-how-to-dodge-phantom-sever"
+      },
+      {
+        "slug": "legends-battlegrounds-how-to-move-with-abilities",
+        "file": "legends-battlegrounds-how-to-move-with-abilities"
+      },
+      {
+        "slug": "legends-battlegrounds-how-to-use-jun",
+        "file": "legends-battlegrounds-how-to-use-jun"
+      },
+      {
+        "slug": "legends-battlegrounds-private-server-commands",
+        "file": "legends-battlegrounds-private-server-commands"
+      }
+    ],
+    "moves": [
+      {
+        "slug": "legends-battlegrounds-all-moves",
+        "file": "legends-battlegrounds-all-moves"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-awakening",
+        "file": "legends-battlegrounds-jun-awakening"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-moveset",
+        "file": "legends-battlegrounds-jun-moveset"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-one-inch-punch",
+        "file": "legends-battlegrounds-jun-one-inch-punch"
+      },
+      {
+        "slug": "legends-battlegrounds-piercing-tempest",
+        "file": "legends-battlegrounds-piercing-tempest"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-awakening",
+        "file": "legends-battlegrounds-shinji-awakening"
+      },
+      {
+        "slug": "legends-battlegrounds-virgule-cascade-variants",
+        "file": "legends-battlegrounds-virgule-cascade-variants"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "legends-battlegrounds-leaks",
+        "file": "legends-battlegrounds-leaks"
+      },
+      {
+        "slug": "legends-battlegrounds-sneak-peek",
+        "file": "legends-battlegrounds-sneak-peek"
+      },
+      {
+        "slug": "legends-battlegrounds-update-log",
+        "file": "legends-battlegrounds-update-log"
+      },
+      {
+        "slug": "legends-battlegrounds-update-release-date",
+        "file": "legends-battlegrounds-update-release-date"
+      },
+      {
+        "slug": "legends-battlegrounds-update",
+        "file": "legends-battlegrounds-update"
+      }
+    ]
+  },
+  "pt": {
+    "characters": [
+      {
+        "slug": "legends-battlegrounds-all-characters",
+        "file": "legends-battlegrounds-all-characters"
+      },
+      {
+        "slug": "legends-battlegrounds-dark-lord",
+        "file": "legends-battlegrounds-dark-lord"
+      },
+      {
+        "slug": "legends-battlegrounds-jun",
+        "file": "legends-battlegrounds-jun"
+      },
+      {
+        "slug": "legends-battlegrounds-kratos",
+        "file": "legends-battlegrounds-kratos"
+      },
+      {
+        "slug": "legends-battlegrounds-martial-legend",
+        "file": "legends-battlegrounds-martial-legend"
+      },
+      {
+        "slug": "legends-battlegrounds-new-character",
+        "file": "legends-battlegrounds-new-character"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji",
+        "file": "legends-battlegrounds-shinji"
+      },
+      {
+        "slug": "legends-battlegrounds-tier-list",
+        "file": "legends-battlegrounds-tier-list"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "legends-battlegrounds-codes",
+        "file": "legends-battlegrounds-codes"
+      }
+    ],
+    "combos": [
+      {
+        "slug": "legends-battlegrounds-best-combos",
+        "file": "legends-battlegrounds-best-combos"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-combo",
+        "file": "legends-battlegrounds-jun-combo"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-counter",
+        "file": "legends-battlegrounds-jun-counter"
+      },
+      {
+        "slug": "legends-battlegrounds-martial-legend-combo",
+        "file": "legends-battlegrounds-martial-legend-combo"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-combo",
+        "file": "legends-battlegrounds-shinji-combo"
+      },
+      {
+        "slug": "legends-battlegrounds-techs",
+        "file": "legends-battlegrounds-techs"
+      },
+      {
+        "slug": "legends-battlegrounds-wall-combo",
+        "file": "legends-battlegrounds-wall-combo"
+      }
+    ],
+    "customization": [
+      {
+        "slug": "legends-battlegrounds-all-cosmetics",
+        "file": "legends-battlegrounds-all-cosmetics"
+      },
+      {
+        "slug": "legends-battlegrounds-all-emotes",
+        "file": "legends-battlegrounds-all-emotes"
+      },
+      {
+        "slug": "legends-battlegrounds-kill-sound-id",
+        "file": "legends-battlegrounds-kill-sound-id"
+      },
+      {
+        "slug": "legends-battlegrounds-roblox-song-id",
+        "file": "legends-battlegrounds-roblox-song-id"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "legends-battlegrounds-controls",
+        "file": "legends-battlegrounds-controls"
+      },
+      {
+        "slug": "legends-battlegrounds-how-to-dodge-phantom-sever",
+        "file": "legends-battlegrounds-how-to-dodge-phantom-sever"
+      },
+      {
+        "slug": "legends-battlegrounds-how-to-move-with-abilities",
+        "file": "legends-battlegrounds-how-to-move-with-abilities"
+      },
+      {
+        "slug": "legends-battlegrounds-how-to-use-jun",
+        "file": "legends-battlegrounds-how-to-use-jun"
+      },
+      {
+        "slug": "legends-battlegrounds-private-server-commands",
+        "file": "legends-battlegrounds-private-server-commands"
+      }
+    ],
+    "moves": [
+      {
+        "slug": "legends-battlegrounds-all-moves",
+        "file": "legends-battlegrounds-all-moves"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-awakening",
+        "file": "legends-battlegrounds-jun-awakening"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-moveset",
+        "file": "legends-battlegrounds-jun-moveset"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-one-inch-punch",
+        "file": "legends-battlegrounds-jun-one-inch-punch"
+      },
+      {
+        "slug": "legends-battlegrounds-piercing-tempest",
+        "file": "legends-battlegrounds-piercing-tempest"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-awakening",
+        "file": "legends-battlegrounds-shinji-awakening"
+      },
+      {
+        "slug": "legends-battlegrounds-virgule-cascade-variants",
+        "file": "legends-battlegrounds-virgule-cascade-variants"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "legends-battlegrounds-leaks",
+        "file": "legends-battlegrounds-leaks"
+      },
+      {
+        "slug": "legends-battlegrounds-sneak-peek",
+        "file": "legends-battlegrounds-sneak-peek"
+      },
+      {
+        "slug": "legends-battlegrounds-update-log",
+        "file": "legends-battlegrounds-update-log"
+      },
+      {
+        "slug": "legends-battlegrounds-update-release-date",
+        "file": "legends-battlegrounds-update-release-date"
+      },
+      {
+        "slug": "legends-battlegrounds-update",
+        "file": "legends-battlegrounds-update"
+      }
+    ]
+  },
+  "ru": {
+    "characters": [
+      {
+        "slug": "legends-battlegrounds-all-characters",
+        "file": "legends-battlegrounds-all-characters"
+      },
+      {
+        "slug": "legends-battlegrounds-dark-lord",
+        "file": "legends-battlegrounds-dark-lord"
+      },
+      {
+        "slug": "legends-battlegrounds-jun",
+        "file": "legends-battlegrounds-jun"
+      },
+      {
+        "slug": "legends-battlegrounds-kratos",
+        "file": "legends-battlegrounds-kratos"
+      },
+      {
+        "slug": "legends-battlegrounds-martial-legend",
+        "file": "legends-battlegrounds-martial-legend"
+      },
+      {
+        "slug": "legends-battlegrounds-new-character",
+        "file": "legends-battlegrounds-new-character"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji",
+        "file": "legends-battlegrounds-shinji"
+      },
+      {
+        "slug": "legends-battlegrounds-tier-list",
+        "file": "legends-battlegrounds-tier-list"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "legends-battlegrounds-codes",
+        "file": "legends-battlegrounds-codes"
+      }
+    ],
+    "combos": [
+      {
+        "slug": "legends-battlegrounds-best-combos",
+        "file": "legends-battlegrounds-best-combos"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-combo",
+        "file": "legends-battlegrounds-jun-combo"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-counter",
+        "file": "legends-battlegrounds-jun-counter"
+      },
+      {
+        "slug": "legends-battlegrounds-martial-legend-combo",
+        "file": "legends-battlegrounds-martial-legend-combo"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-combo",
+        "file": "legends-battlegrounds-shinji-combo"
+      },
+      {
+        "slug": "legends-battlegrounds-techs",
+        "file": "legends-battlegrounds-techs"
+      },
+      {
+        "slug": "legends-battlegrounds-wall-combo",
+        "file": "legends-battlegrounds-wall-combo"
+      }
+    ],
+    "customization": [
+      {
+        "slug": "legends-battlegrounds-all-cosmetics",
+        "file": "legends-battlegrounds-all-cosmetics"
+      },
+      {
+        "slug": "legends-battlegrounds-all-emotes",
+        "file": "legends-battlegrounds-all-emotes"
+      },
+      {
+        "slug": "legends-battlegrounds-kill-sound-id",
+        "file": "legends-battlegrounds-kill-sound-id"
+      },
+      {
+        "slug": "legends-battlegrounds-roblox-song-id",
+        "file": "legends-battlegrounds-roblox-song-id"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "legends-battlegrounds-controls",
+        "file": "legends-battlegrounds-controls"
+      },
+      {
+        "slug": "legends-battlegrounds-how-to-dodge-phantom-sever",
+        "file": "legends-battlegrounds-how-to-dodge-phantom-sever"
+      },
+      {
+        "slug": "legends-battlegrounds-how-to-move-with-abilities",
+        "file": "legends-battlegrounds-how-to-move-with-abilities"
+      },
+      {
+        "slug": "legends-battlegrounds-how-to-use-jun",
+        "file": "legends-battlegrounds-how-to-use-jun"
+      },
+      {
+        "slug": "legends-battlegrounds-private-server-commands",
+        "file": "legends-battlegrounds-private-server-commands"
+      }
+    ],
+    "moves": [
+      {
+        "slug": "legends-battlegrounds-all-moves",
+        "file": "legends-battlegrounds-all-moves"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-awakening",
+        "file": "legends-battlegrounds-jun-awakening"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-moveset",
+        "file": "legends-battlegrounds-jun-moveset"
+      },
+      {
+        "slug": "legends-battlegrounds-jun-one-inch-punch",
+        "file": "legends-battlegrounds-jun-one-inch-punch"
+      },
+      {
+        "slug": "legends-battlegrounds-piercing-tempest",
+        "file": "legends-battlegrounds-piercing-tempest"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-awakening",
+        "file": "legends-battlegrounds-shinji-awakening"
+      },
+      {
+        "slug": "legends-battlegrounds-virgule-cascade-variants",
+        "file": "legends-battlegrounds-virgule-cascade-variants"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "legends-battlegrounds-leaks",
+        "file": "legends-battlegrounds-leaks"
+      },
+      {
+        "slug": "legends-battlegrounds-sneak-peek",
+        "file": "legends-battlegrounds-sneak-peek"
+      },
+      {
+        "slug": "legends-battlegrounds-update-log",
+        "file": "legends-battlegrounds-update-log"
+      },
+      {
+        "slug": "legends-battlegrounds-update-release-date",
+        "file": "legends-battlegrounds-update-release-date"
+      },
+      {
+        "slug": "legends-battlegrounds-update",
+        "file": "legends-battlegrounds-update"
+      }
+    ]
+  }
+}

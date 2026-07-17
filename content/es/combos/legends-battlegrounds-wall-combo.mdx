@@ -1,0 +1,195 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, Zap } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Combo de pared en Legends Battlegrounds: Guía avanzada de presión en el mapa",
+  description: "Domina los combos de pared en Legends Battlegrounds para Martial Legend, Jun y Shinji. Aprende el timing, posicionamiento y reinicios ambientales de alto daño para 2026.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Wall+Combo+Mastery",
+  date: "2026-07-17",
+  author: "Equipo de la Wiki de Legends Battlegrounds",
+  keywords: "Legends Battlegrounds, combo de pared, Martial Legend, Jun, Shinji, guía de combate, Roblox"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Combo de pared de Legends Battlegrounds**: Una técnica de alta eficiencia que utiliza la geometría del mapa para extender el aturdimiento (hitstun) y maximizar el daño.
+- **Mecánica de activación**: La mayoría de las secuencias de pared se activan automáticamente cuando un oponente es lanzado contra una superficie sólida mediante movimientos específicos.
+- **Meta de Martial Legend**: Enfócate en usar el **Panther Combo** para llevar a los objetivos hacia las paredes y asegurar una secuencia garantizada.
+- **Tecnicismo de Jun**: Utiliza el lanzamiento de pared para confirmar la variante **Airborne Virgule Cascade** y obtener la máxima presión vertical.
+- **Contramedida defensiva**: Monitorea siempre el **Evasive (Q)** del oponente; los combos de pared son más efectivos cuando el escape del enemigo está en enfriamiento (cooldown).
+</Callout>
+
+<Section icon={Map} title="Entendiendo las mecánicas del combo de pared">
+
+El **combo de pared de Legends Battlegrounds** es una herramienta esencial para cualquier jugador competitivo que busque dominar la arena. A diferencia de los combos estándar en campo abierto, las interacciones con la pared permiten a los jugadores omitir ciertas limitaciones de retroceso (knockback), inmovilizando al oponente contra la geometría del mapa para ejecutar una secuencia cinematográfica de alto daño. Estos ataques ambientales no suelen costar estamina o medidor adicional, lo que los convierte en la forma más eficiente en recursos para asegurar una eliminación en el principal luchador de monigotes (stickman fighter) de Roblox.
+
+**Puntos destacados del video:**
+- Demostración del ángulo de retroceso específico requerido para la activación de pared.
+- Comparación de las transiciones de pared a aire de Martial Legend y Jun.
+- Visualización del timing para los ataques M1 de seguimiento después de que termina una secuencia de pared.
+
+<YouTubeEmbed videoId="a6meMvS9EUI" title="Técnica de pared de Martial Legend en Legends Battlegrounds" />
+
+Los combos de pared no son simplemente automáticos; requieren una conciencia espacial precisa. Si un jugador activa un movimiento de lanzamiento demasiado lejos de una pared, el objetivo caerá antes de que el activador ambiental conecte. Por el contrario, estar demasiado cerca puede ocasionalmente causar que el motor de física "atraviese" (clip) al objetivo detrás del atacante. Dominar la distancia del "punto ideal" es lo que separa a los jugadores casuales de los duelistas de alto nivel.
+
+| Personaje | Movimiento activador | Efecto de secuencia de pared | Potencial de seguimiento |
+| :--- | :--- | :--- | :--- |
+| **Martial Legend** | Panther Combo / Patada M1 | Rodillazo, patada al cuerpo y patada tornado | Alto (Dragon Rush) |
+| **Jun** | Retroceso M1 / Dash | Golpes de inmovilización y tajo de espada ascendente | Excelente (Airborne Virgule) |
+| **Shinji** | Retroceso M1 / Dash | Secuencia rápida de puñetazos eléctricos | Moderado (Lightning Flash) |
+
+<Callout type="tip" title="Consejo profesional de posicionamiento">
+Intenta siempre rodear a tu oponente para que su espalda esté orientada hacia la pared o el árbol más cercano. Esto los obliga a jugar a la defensiva, ya que cualquier cadena M1 exitosa que logres probablemente resultará en una inmovilización contra la pared que inflige un 30-40% más de daño que una cadena estándar en el suelo.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Martial Legend: El rey de la presión en pared">
+
+Martial Legend es a menudo considerado el personaje más confiable para ejecutar un **combo de pared de Legends Battlegrounds** debido a la gran distancia cubierta por su **Panther Combo**. Este movimiento actúa como un "acarreo" (carry), empujando al oponente a través del mapa. Si el último golpe del Panther Combo ocurre cerca de una pared, Martial Legend transiciona a una secuencia única que involucra un rodillazo, una patada fuerte al cuerpo y una patada tornado giratoria.
+
+<CardGrid cols={3}>
+  <Card title="Estrategia de acarreo">
+    Usa **Dragon Rush** para cerrar la brecha y empujar al enemigo hacia la pared antes de comenzar tu cadena M1.
+  </Card>
+  <Card title="Extensión de Panther">
+    Confirma la secuencia de pared, luego realiza un dash hacia adelante inmediatamente cuando termine la patada tornado para atrapar al objetivo que cae.
+  </Card>
+  <Card title="Sincronización de despertar">
+    Durante **Dragon's Fury**, los combos de pared infligen mayor daño de impacto y pueden transicionar hacia **Skyfall Bomb**.
+  </Card>
+</CardGrid>
+
+Para maximizar el daño, los jugadores de Martial Legend no deben usar su **Tiger Palm** antes del combo de pared. En su lugar, reserva el Tiger Palm para el final de la secuencia. Dado que Tiger Palm golpea a objetivos en estado de ragdoll e ignora el bloqueo, sirve como el rematador "OTG" (Off The Ground) perfecto una vez que el oponente cae de la pared.
+
+| Secuencia de movimientos | Requisito de timing | Propósito |
+| :--- | :--- | :--- |
+| **3 M1s + Uppercut** | Inmediato | Lanzamiento inicial para evitar un Evasive temprano |
+| **Panther Combo** | En el aire | Llevar al objetivo hacia la geometría de la pared |
+| **Secuencia de pared** | Automático | Principal fuente de daño y bloqueo por aturdimiento |
+| **Forward Dash + M1** | Frame perfect | Restablece la presión neutral o reinicia el combo |
+
+<Callout type="warning" title="Verificación de Evasive">
+Ten cuidado al usar el Panther Combo cerca de una pared si el oponente tiene su **Q (Evasive)** listo. Un jugador hábil esperará a que comience la secuencia de pared para escapar, dejándote atrapado en la animación mientras ellos se reposicionan para un contraataque.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Conversiones técnicas de pared de Jun">
+
+Jun ofrece un enfoque más técnico para el **combo de pared de Legends Battlegrounds**. Mientras que Martial Legend depende de la distancia de acarreo bruta, Jun utiliza la pared para configurar su poderosa variante **Airborne Virgule Cascade**. Cuando Jun lanza a un oponente contra una pared, el lanzamiento resultante los envía significativamente más alto que un uppercut estándar. Esta altura adicional es crítica para activar la secuencia de dagas aéreas que inflige un daño cinematográfico masivo.
+
+<Steps>
+  <Step num="1" title="La inmovilización en pared">
+    Acierta una cadena estándar de 4 golpes M1 o un **Fang Dance** que termine con el oponente golpeando una pared.
+  </Step>
+  <Step num="2" title="El activador de lanzamiento">
+    Jun realizará automáticamente un tajo de espada que lanza al oponente verticalmente contra la pared.
+  </Step>
+  <Step num="3" title="Transición aérea">
+    Presiona inmediatamente **4 (Virgule Cascade)** mientras el objetivo está en el punto más alto del lanzamiento de pared.
+  </Step>
+  <Step num="4" title="El rematador">
+    Cuando termine la secuencia aérea, usa un **Forward Dash** para mantenerte cerca y preparar un **Glimpse of Power**.
+  </Step>
+</Steps>
+
+El juego de pared de Jun es particularmente peligroso porque se integra con su despertar **No More Games**. En su estado despertado, una interacción con la pared puede llevar directamente a **Savage Fangs**, del cual es casi imposible escapar una vez que se ha aplicado el aturdimiento de pared.
+
+| Tipo de ruta de pared | Dificultad | Daño infligido | Confiabilidad |
+| :--- | :--- | :--- | :--- |
+| **Pin de pared M1 básico** | Fácil | Medio | ★★★★☆ |
+| **Acarreo de pared Fang Dance** | Medio | Alto | ★★★☆☆ |
+| **Variante de pared Virgule** | Difícil | Muy alto | ★★★★★ |
+
+<Callout type="success" title="Técnica avanzada de Jun">
+Puedes "dirigir" el puñetazo cargado **Wolf Fang Flash** para lanzar a los oponentes contra las paredes desde un ángulo. Esto te permite iniciar un combo de pared incluso si no estás parado directamente frente al objetivo.
+</Callout>
+
+</Section>
+
+<Section icon={Zap} title="Shinji: Reinicios eléctricos en pared">
+
+Como personaje de acceso anticipado, Shinji introduce una dinámica de alta velocidad al meta de los **combos de pared de Legends Battlegrounds**. Su **Secuencia eléctrica de pared** es más rápida que la de los otros personajes, enfocándose en puñetazos de disparo rápido que cargan el medidor de **Lightning Rage**. El objetivo principal de Shinji con un combo de pared no es solo el daño, sino reiniciar el enfriamiento de su **Flashstep Fury**.
+
+**Puntos destacados del video:**
+- Demostración del reinicio de Flashstep Fury después de una secuencia de pared.
+- Uso de Body Flicker para reposicionar a los objetivos hacia los bordes del mapa.
+- Sincronización de Lightning Flash para golpear a los objetivos mientras se deslizan por la pared.
+
+<YouTubeEmbed videoId="4_-YwNGfEzc" title="Guía de combo de pared y reinicio de Shinji" />
+
+Los jugadores de Shinji deben utilizar la pared para estabilizar su movimiento errático. Debido a que **Body Flicker** a veces puede enviar a Shinji en una dirección impredecible, usar una pared como tope asegura que tanto Shinji como su objetivo permanezcan a una distancia de ataque para un seguimiento con **Nunchuck Flurry**.
+
+| Estrategia de pared de Shinji | Beneficio | Riesgo |
+| :--- | :--- | :--- |
+| **Reinicio de Flashstep** | Restaura el Movimiento 4 inmediatamente | Requiere alta precisión de ejecución |
+| **Pin eléctrico** | Presión masiva contra múltiples objetivos | Bloqueable si el timing es incorrecto |
+| **Lightning Flash OTG** | Ignora el bloqueo en objetivos que caen | Recuperación larga si se falla |
+
+<Callout type="info" title="Actualización del evento de Shinji">
+Se espera que el próximo evento **FREE SHINJI** introduzca una cuarta ranura de despertar. Los avances sugieren que este nuevo movimiento tendrá un rematador de impacto contra la pared dedicado, haciendo que su juego ambiental sea aún más letal.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Pasos de ejecución universales">
+
+Independientemente del luchador que elijas, la lógica fundamental de un **combo de pared de Legends Battlegrounds** sigue siendo la misma. El éxito requiere una combinación de disciplina con los M1, gestión de enfriamientos y conciencia del mapa. Sigue esta lista de verificación estandarizada para mejorar tu consistencia al luchar cerca de obstáculos.
+
+<Checklist
+  id="wall-mastery-steps"
+  title="Lista de verificación para el éxito del combo de pared:"
+  items={[
+    "Verifica que el Evasive (Q) del oponente esté en enfriamiento antes de comprometerte.",
+    "Alinea el retroceso del M1 (4º golpe) directamente hacia la pared.",
+    "Retrasa el movimiento especial de seguimiento hasta que la animación de la secuencia de pared se complete totalmente.",
+    "Usa un Side Dash o Forward Dash inmediatamente después de la caída para mantener la presión.",
+    "Evita combos de pared cerca de geometría 'delgada' como postes donde la física podría fallar."
+  ]}
+/>
+
+<Callout type="warning" title="Conciencia del mapa">
+No todas las superficies en Legends Battlegrounds activan un combo de pared. Algunos objetos pequeños o destruibles simplemente se romperán o permitirán que el oponente se deslice. Limítate a paredes grandes, árboles gruesos y los bordes de la arena principal para obtener los resultados más consistentes.
+</Callout>
+
+| Factor de posicionamiento | Rango ideal | Resultado de error |
+| :--- | :--- | :--- |
+| **Distancia a la pared** | 5-10 Studs | Demasiado lejos: El objetivo cae antes; Demasiado cerca: Fallo de física |
+| **Ángulo de ataque** | 90 Grados | El objetivo se desliza si el ángulo es demasiado agudo |
+| **Altura** | Nivel del suelo | Los golpes de pared aéreos son más difíciles de transicionar a secuencias |
+
+</Section>
+
+<Section icon={Shield} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Cómo activo un combo de pared en Legends Battlegrounds?",
+    answer: "Se activa lanzando a un oponente contra una pared usando un movimiento con alto retroceso, como el golpe final de una cadena M1, el Panther Combo de Martial Legend o el Fang Dance de Jun. La secuencia se activa automáticamente al impactar."
+  },
+  {
+    question: "¿Pueden los oponentes escapar de un combo de pared?",
+    answer: "Sí, los oponentes pueden usar su Evasive (Q) para escapar de la secuencia de pared. Sin embargo, deben hacerlo durante el aturdimiento. Si ya han usado su cancelación de ragdoll, se verán obligados a recibir todo el daño de la secuencia."
+  },
+  {
+    question: "¿Qué personaje tiene el mejor combo de pared?",
+    answer: "Martial Legend se considera generalmente el mejor para principiantes debido a la facilidad de activarlo con Panther Combo. Jun tiene el mayor potencial de daño si logras transicionar con éxito a su variante Airborne Virgule Cascade."
+  },
+  {
+    question: "¿Funcionan los combos de pared en modo Despertar (Awakening)?",
+    answer: "Absolutamente. De hecho, la mayoría de los personajes infligen significativamente más daño durante las secuencias de pared mientras están despertados. Algunos movimientos, como el Skyfall Bomb de Martial Legend, están diseñados específicamente para usarse después de un lanzamiento de pared."
+  }
+]} />
+
+<Callout type="success" title="Veredicto Final">
+Dominar el **combo de pared de Legends Battlegrounds** es la forma más rápida de aumentar tu tasa de victorias en servidores públicos y duelos clasificados. Al combinar la conciencia ambiental con seguimientos específicos de cada personaje, puedes convertir cualquier pared en un arma letal.
+</Callout>
+
+</Section>

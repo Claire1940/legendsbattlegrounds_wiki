@@ -1,1 +1,1413 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Wiki de Legends Battlegrounds - Personajes, combos y actualizaciones",
+      "description": "Explora personajes de Legends Battlegrounds, listas de niveles, sets de movimientos, combos, controles, gamepasses, modos y las últimas actualizaciones de Roblox en una guía clara.",
+      "keywords": "Legends Battlegrounds, Roblox, personajes, lista de niveles, combos, sets de movimientos, controles, actualizaciones",
+      "ogTitle": "Wiki de Legends Battlegrounds - Personajes, combos y actualizaciones",
+      "ogDescription": "Explora personajes de Legends Battlegrounds, listas de niveles, sets de movimientos, combos, controles, gamepasses, modos y las últimas actualizaciones de Roblox en una guía clara.",
+      "twitterTitle": "Wiki de Legends Battlegrounds - Personajes, combos y actualizaciones",
+      "twitterDescription": "Explora personajes de Legends Battlegrounds, listas de niveles, sets de movimientos, combos y las últimas actualizaciones de Roblox en una guía clara."
+    }
+  },
+  "nav": {
+    "characters": "Personajes",
+    "moves": "Movimientos",
+    "combos": "Combos",
+    "guide": "Guía",
+    "codes": "Códigos",
+    "customization": "Personalización",
+    "updates": "Actualizaciones"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Jugar en Roblox",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que buscas no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos próximamente"
+  },
+  "hero": {
+    "badge": "Juego de lucha PvP de stickman de ritmo rápido",
+    "title": "Wiki de Legends Battlegrounds",
+    "description": "Domina el PvP de stickman de ritmo rápido con sets de movimientos de personajes, despertares, combos, contraataques, controles, gamepasses, duelos y guías de actualización.",
+    "getFreeCodesCTA": "Ver las últimas actualizaciones",
+    "playOnRobloxCTA": "Jugar en Roblox",
+    "stats": {
+      "stat1": {
+        "value": "466.8M+",
+        "label": "Visitas totales"
+      },
+      "stat2": {
+        "value": "3.9K+",
+        "label": "Jugadores en línea"
+      },
+      "stat3": {
+        "value": "56.7K",
+        "label": "Pico de usuarios simultáneos"
+      },
+      "stat4": {
+        "value": "86.8%",
+        "label": "Calificación de usuarios"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "---",
+    "description": "Jugabilidad de Legends Battlegrounds"
+  },
+  "tools": {
+    "title": "Haz dash, bloquea, escapa del ragdoll y despierta en rápidos duelos PvP de stickman en Roblox con Martial Legend, Jun y Shinji.",
+    "titleHighlight": "Legends Battlegrounds",
+    "subtitle": "Guías",
+    "cards": [
+      {
+        "icon": "Ve directamente a los personajes, combos, movesets y guías de actualización que necesitas para ganar más duelos.",
+        "title": "Brújula",
+        "description": "Guía para principiantes"
+      },
+      {
+        "icon": "Controles, primer luchador, movimiento y reglas defensivas",
+        "title": "Trofeo",
+        "description": "Tier List"
+      },
+      {
+        "icon": "Clasificaciones de luchadores PvP para principiantes y competitivos",
+        "title": "Espadas",
+        "description": "Mejores combos"
+      },
+      {
+        "icon": "Rutas de principiante, avanzadas y de alto daño por luchador",
+        "title": "Persona de pie",
+        "description": "Martial Legend"
+      },
+      {
+        "icon": "Movimientos base, despertar y counters de enfrentamiento",
+        "title": "Espada",
+        "description": "Guía de Jun"
+      },
+      {
+        "icon": "Kit base, variantes de movimientos, rutas de muro y despertar",
+        "title": "Viento",
+        "description": "Guía de Shinji"
+      },
+      {
+        "icon": "Presión con nunchaku, reinicios de rayo y enfrentamientos",
+        "title": "Corona",
+        "description": "Gamepasses"
+      },
+      {
+        "icon": "Emotes, cosméticos y pases de acceso al juego",
+        "title": "Periódico",
+        "description": "Actualizaciones"
+      }
+    ]
+  },
+  "modules": {
+    "legendsBattlegroundsBeginnerGuide": {
+      "title": "Nuevos personajes, despertares y avances de los desarrolladores",
+      "eyebrow": "Guía para principiantes de Legends Battlegrounds",
+      "subtitle": "Empieza aquí",
+      "intro": "Desarrolla hábitos confiables de movimiento, defensa y combos antes de buscar cadenas de daño largas. Esta ruta de primera sesión usa a Martial Legend como el luchador inicial más sencillo.",
+      "controlsTitle": "Legends Battlegrounds es un rápido juego de lucha de arena en Roblox centrado en ataques ligeros, dashes, bloqueos, escapes de ragdoll y movimientos de despertar. Empieza aprendiendo cuándo dejar de atacar: la presión bloqueada y un evasivo desperdiciado son dos de las formas más rápidas de perder una pelea.",
+      "controls": [
+        {
+          "input": "Controles oficiales",
+          "action": "Clic izquierdo"
+        },
+        {
+          "input": "Ataque ligero o M1",
+          "action": "Q"
+        },
+        {
+          "input": "Dash",
+          "action": "Q mientras estás en ragdoll"
+        },
+        {
+          "input": "F",
+          "action": "Bloqueo"
+        },
+        {
+          "input": "G",
+          "action": "Activar despertar"
+        },
+        {
+          "input": "B",
+          "action": "Abrir la rueda de emotes"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Elige un primer luchador",
+          "duration": "2 min",
+          "points": [
+            "Selecciona Martial Legend para un kit directo y equilibrado con un contraataque, un golpe de palma rompeguardias y extensores de combo claros.",
+            "Pasa a Jun una vez que puedas realizar desplazamientos consistentemente alrededor de los bloqueos y rastrear el evasivo de un oponente.",
+            "Usa a Shinji una vez que te sientas cómodo con el tiempo del rushdown, ya que la mayoría de sus movimientos base se pueden bloquear."
+          ]
+        },
+        {
+          "title": "Practica los controles básicos",
+          "duration": "3 min",
+          "points": [
+            "Memoriza la tarjeta de controles oficiales para que el desplazamiento, el bloqueo, el evasivo y el despertar estén siempre a una tecla de distancia.",
+            "Realiza diez desplazamientos, diez bloqueos y cinco cancelaciones de ragdoll hasta que se sientan automáticos.",
+            "Mantén un dedo cerca de Q y F para que puedas reaccionar a la presión en el momento en que comience."
+          ]
+        },
+        {
+          "title": "Practica el movimiento antes de atacar",
+          "duration": "4 min",
+          "points": [
+            "Usa desplazamientos laterales para cambiar el ángulo en lugar de lanzarte repetidamente contra el bloqueo de un oponente.",
+            "Reserva el desplazamiento frontal para cerrar distancia después de un retroceso o para alcanzar un movimiento fallido.",
+            "Circula a media distancia y observa si el oponente gasta la Q primero."
+          ]
+        },
+        {
+          "title": "Crea una regla defensiva",
+          "duration": "4 min",
+          "points": [
+            "Mantén pulsada la F contra la presión predecible de M1, luego suelta el bloqueo antes de reposicionarte.",
+            "Usa la Q mientras estás en estado ragdoll solo cuando el oponente aún tenga movimientos listos para extender el combo.",
+            "Después de gastar el evasivo, juega más lejos hasta que se recupere en lugar de volver a atacar de inmediato."
+          ]
+        },
+        {
+          "title": "Aprende dos iniciadores universales",
+          "duration": "5 min",
+          "points": [
+            "Iniciador con Uppercut: 3 M1 seguidos de Uppercut y un movimiento de personaje mantiene al objetivo cerca para opciones de lanzamiento y captura.",
+            "Iniciador con Downslam: 3 M1 seguidos de Downslam y un movimiento de impacto al suelo pone a prueba si el oponente gastará su evasivo.",
+            "Ejecuta cada iniciador tres veces sin presionar el siguiente movimiento antes de tiempo."
+          ]
+        },
+        {
+          "title": "Ejecuta una primera ruta de Martial Legend",
+          "duration": "5 min",
+          "points": [
+            "Secuencia: Desplazamiento frontal, 3 M1, Uppercut, Panther Combo, Dragon Rush, Desplazamiento frontal, 3 M1, Uppercut, Tiger Palm.",
+            "Pausa brevemente después de los lanzamientos para que el Dragon Rush y el siguiente desplazamiento frontal alcancen al oponente mientras cae.",
+            "Si el oponente usa su evasivo después de Panther Combo o un uppercut, detén la ruta, bloquea y castiga el siguiente acercamiento."
+          ]
+        },
+        {
+          "title": "Activa el despertar con un plan",
+          "duration": "2 min",
+          "points": [
+            "Presiona G solo cuando la barra de despertar esté lista.",
+            "Crea espacio con un retroceso antes de activar para que el oponente no pueda presionarte de inmediato.",
+            "Usa el awakening para asegurar un combate, no como un botón de pánico después de haber gastado todos los cooldowns."
+          ]
+        },
+        {
+          "title": "Evita los errores comunes de principiantes",
+          "duration": "En curso",
+          "points": [
+            "Hacer un dash hacia adelante contra un bloqueo: haz un dash lateral, espera un ataque y luego empieza los M1.",
+            "Gastar la evasiva en el primer derribo: comprueba si el oponente aún puede extender el combo antes de pulsar Q.",
+            "Usar todos los movimientos a la vez: mantén un movimiento listo para castigar un dash fallido o un combo fallido.",
+            "Repetir la misma apertura: alterna la presión al bloqueo, M1 con dash lateral y un amago de contraataque retrasado."
+          ]
+        }
+      ],
+      "quickTips": [
+        "Deja de atacar a un bloqueo sostenido y busca un dash lateral en su lugar.",
+        "Rastrea la evasiva del oponente antes de comprometerte con una secuencia larga.",
+        "Mantén un cooldown listo para castigar un movimiento fallido.",
+        "Practica una ruta hasta que sea confiable antes de aprender la siguiente."
+      ]
+    },
+    "legendsBattlegroundsTierList": {
+      "title": "Tier List de Legends Battlegrounds",
+      "eyebrow": "Clasificación de luchadores",
+      "subtitle": "El plantel estándar se centra en Martial Legend, Jun y Shinji. Las clasificaciones a continuación separan la facilidad de uso del potencial máximo en PvP.",
+      "intro": "Martial Legend es el personaje más limpio para aprender el juego neutral, Jun tiene el techo de combo técnico más alto y Shinji se especializa en movilidad, presión multi-objetivo y reinicios de Flashstep Fury. El conocimiento del enfrentamiento importa más que la posición bruta en la tier list una vez que ambos jugadores pueden rastrear las evasivas y los cooldowns.",
+      "rankings": [
+        {
+          "name": "Tier List para principiantes",
+          "entries": [
+            {
+              "tier": "S",
+              "fighter": "Martial Legend",
+              "tag": "Gratis",
+              "summary": "El kit es sencillo: Dragon Rush persigue, Tiger Palm ignora la guardia y golpea a objetivos en ragdoll, Panther Combo lanza y Triple Kick Counter castiga los ataques predecibles.",
+              "stats": [
+                {
+                  "label": "Facilidad de uso",
+                  "value": "Excelente"
+                },
+                {
+                  "label": "Defensa",
+                  "value": "Excelente"
+                },
+                {
+                  "label": "Combo",
+                  "value": "Alto"
+                }
+              ]
+            },
+            {
+              "tier": "A",
+              "fighter": "Jun",
+              "tag": "Gratis",
+              "summary": "Glimpse of Power ignora la guardia, Fang Dance acorta la distancia y Virgule Cascade tiene múltiples rutas, pero Jun pierde valor cuando no se controlan el espaciado y los tiempos de las variantes.",
+              "stats": [
+                {
+                  "label": "Facilidad de uso",
+                  "value": "Medio"
+                },
+                {
+                  "label": "Combo",
+                  "value": "Excelente"
+                },
+                {
+                  "label": "Daño",
+                  "value": "Muy alto"
+                }
+              ]
+            },
+            {
+              "tier": "B",
+              "fighter": "Shinji",
+              "tag": "Acceso anticipado",
+              "summary": "Body Flicker y Flashstep Fury crean una fuerte presión de persecución, pero la mayoría de los movimientos básicos se pueden bloquear y Body Flicker puede enviar al objetivo en una dirección incómoda.",
+              "stats": [
+                {
+                  "label": "---",
+                  "value": "Facilidad de uso"
+                },
+                {
+                  "label": "Baja",
+                  "value": "Movilidad"
+                },
+                {
+                  "label": "Excelente",
+                  "value": "Combo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Alto",
+          "entries": [
+            {
+              "tier": "Tier List de PvP para Experimentados",
+              "fighter": "S",
+              "tag": "Jun",
+              "summary": "Gratis",
+              "stats": [
+                {
+                  "label": "Jun puede convertir una apertura limpia en presión constante mediante Fang Dance, la técnica de movimiento de Wolf Fang Flash y la variante de Glimpse of Power a Virgule Cascade.",
+                  "value": "Combo"
+                },
+                {
+                  "label": "Excelente",
+                  "value": "Daño"
+                },
+                {
+                  "label": "Muy alto",
+                  "value": "Ejecución"
+                }
+              ]
+            },
+            {
+              "tier": "Alta",
+              "fighter": "A+",
+              "tag": "Martial Legend",
+              "summary": "Gratis",
+              "stats": [
+                {
+                  "label": "Triple Kick Counter puede interrumpir una ofensiva comprometida, mientras que Tiger Palm y las rutas de muro sólidas mantienen al personaje confiable contra oponentes pasivos y agresivos.",
+                  "value": "Defensa"
+                },
+                {
+                  "label": "Excelente",
+                  "value": "Combo"
+                },
+                {
+                  "label": "Alto",
+                  "value": "Ejecución"
+                }
+              ]
+            },
+            {
+              "tier": "Media",
+              "fighter": "A",
+              "tag": "Shinji",
+              "summary": "Acceso anticipado",
+              "stats": [
+                {
+                  "label": "Nunchuck Flurry o Body Flicker pueden reiniciar Flashstep Fury mediante la mecánica de reset, creando presión constante, pero un bloqueo disciplinado limita varios de sus abridores.",
+                  "value": "Movilidad"
+                },
+                {
+                  "label": "Excelente",
+                  "value": "Combo"
+                },
+                {
+                  "label": "Muy alto",
+                  "value": "Ejecución"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "legendsBattlegroundsBestCombos": {
+      "title": "Alta",
+      "eyebrow": "Mejores combos de Legends Battlegrounds",
+      "subtitle": "Laboratorio de combos",
+      "intro": "---",
+      "notation": "M1 significa un ataque ligero. Los uppercuts mantienen a los objetivos en el aire, los downslams ponen a prueba el timing de escape de ragdoll y los side dashes ayudan a realinearse tras los launchers. No fuerces el siguiente movimiento cuando el objetivo use Q mientras está en ragdoll; en su lugar, vuelve a bloquear y castigar.",
+      "fighters": [
+        {
+          "name": "M1 = ataque ligero. Detén la ruta y bloquea si el objetivo usa un evasivo.",
+          "combos": [
+            {
+              "difficulty": "Martial Legend",
+              "name": "Principiante",
+              "sequence": [
+                "Ruta de lanzamiento básica",
+                "Forward Dash",
+                "3 M1",
+                "Uppercut",
+                "Panther Combo",
+                "Dragon Rush",
+                "Forward Dash",
+                "3 M1",
+                "Uppercut"
+              ],
+              "timing": "Tiger Palm",
+              "useCase": "Deja que el objetivo empiece a caer tras el Panther Combo antes de que el Dragon Rush conecte, luego haz un forward dash justo antes de que termine el knockback del Dragon Rush."
+            },
+            {
+              "difficulty": "Daño 1v1 en espacio abierto con los cuatro movimientos base disponibles.",
+              "name": "Avanzado",
+              "sequence": [
+                "Conversión de Counter",
+                "Triple Kick Counter",
+                "Side Dash",
+                "Dragon Rush",
+                "Forward Dash",
+                "3 M1",
+                "Uppercut",
+                "Panther Combo",
+                "3 M1",
+                "Downslam"
+              ],
+              "timing": "Tiger Palm",
+              "useCase": "Haz un side dash inmediatamente después de la patada final del counter, luego apunta el Dragon Rush a la trayectoria de aterrizaje del objetivo."
+            },
+            {
+              "difficulty": "Castigar un Fang Dance predecible, presión de M1 o un dash agresivo.",
+              "name": "Daño alto",
+              "sequence": [
+                "Ruta de Wall Carry",
+                "Forward Dash",
+                "3 M1",
+                "Uppercut",
+                "Panther Combo",
+                "Dash hacia la pared",
+                "Wall Combo"
+              ],
+              "timing": "Tiger Palm",
+              "useCase": "Arenas pequeñas y combates cerca de la geometría sólida del mapa."
+            }
+          ]
+        },
+        {
+          "name": "Jun",
+          "combos": [
+            {
+              "difficulty": "Principiante",
+              "name": "Fang Dance Confirm",
+              "sequence": [
+                "3 M1",
+                "Wolf Fang Flash",
+                "Fang Dance",
+                "Dash lateral",
+                "Dash hacia adelante",
+                "3 M1",
+                "Glimpse of Power"
+              ],
+              "timing": "Usa el dash lateral para alinear el dash hacia adelante después de que Fang Dance aleje al oponente.",
+              "useCase": "Una ruta estable que enseña el espaciado de persecución de Jun."
+            },
+            {
+              "difficulty": "Avanzado",
+              "name": "Wolf Fang Miss Tech",
+              "sequence": [
+                "3 M1",
+                "Downslam",
+                "Miss tech de Wolf Fang Flash",
+                "Dash lateral",
+                "3 M1",
+                "Uppercut",
+                "Fang Dance"
+              ],
+              "timing": "Angula ligeramente hacia un lado durante la voltereta para que Wolf Fang Flash pase al lado del oponente, luego haz un dash lateral para volver al rango de M1.",
+              "useCase": "Mantener la presión sin recibir el retroceso normal de Wolf Fang Flash."
+            },
+            {
+              "difficulty": "Daño alto",
+              "name": "Ruta de Glimpse Cascade",
+              "sequence": [
+                "Dash hacia adelante",
+                "3 M1",
+                "Downslam",
+                "Fang Dance",
+                "Dash lateral",
+                "Dash hacia adelante",
+                "3 M1",
+                "Uppercut",
+                "Glimpse of Power",
+                "Virgule Cascade durante Glimpse",
+                "3 M1",
+                "Downslam",
+                "Wolf Fang Flash"
+              ],
+              "timing": "Activa Virgule Cascade durante la segunda sección de Glimpse of Power para activar la variante de patada combinada.",
+              "useCase": "Conversión máxima desde una apertura limpia con los cooldowns clave listos."
+            }
+          ]
+        },
+        {
+          "name": "Shinji",
+          "combos": [
+            {
+              "difficulty": "Principiante",
+              "name": "Ruta de derribo con nunchakus",
+              "sequence": [
+                "Dash hacia adelante",
+                "3 M1",
+                "Downslam",
+                "Nunchuck Flurry",
+                "Downslam",
+                "Lightning Flash"
+              ],
+              "timing": "Usa Nunchuck Flurry mientras el objetivo está derribado, luego apunta Lightning Flash cuando impacte el segundo downslam.",
+              "useCase": "Una ruta simple que termina con el movimiento básico de Shinji que ignora la guardia."
+            },
+            {
+              "difficulty": "Avanzado",
+              "name": "Seguimiento de Body Flicker",
+              "sequence": [
+                "3 M1",
+                "Downslam",
+                "Nunchuck Flurry",
+                "Body Flicker al aterrizar",
+                "2 M1",
+                "Downslam",
+                "Flashstep Fury"
+              ],
+              "timing": "Body Flicker puede atrapar el breve estado de flotación después de Nunchuck Flurry, pero su dirección de giro aleatoria significa que debes girar rápidamente.",
+              "useCase": "Practica la corrección de cámara y el límite de dos M1 de Shinji después de Body Flicker."
+            },
+            {
+              "difficulty": "Daño alto",
+              "name": "Ruta de reinicio de Flashstep",
+              "sequence": [
+                "Dash hacia adelante",
+                "3 M1",
+                "Downslam",
+                "Flashstep Fury",
+                "Downslam",
+                "Nunchuck Flurry",
+                "Downslam",
+                "Flashstep Fury",
+                "Downslam",
+                "Lightning Flash"
+              ],
+              "timing": "Usar Nunchuck Flurry mientras Flashstep Fury no está disponible lo restablece a través de Lightning Rage, permitiendo el segundo uso.",
+              "useCase": "Presión extendida que utiliza la mecánica insignia de reinicio de cooldown de Shinji."
+            }
+          ]
+        }
+      ]
+    },
+    "legendsBattlegroundsMartialLegend": {
+      "title": "Guía de Martial Legend de Legends Battlegrounds",
+      "eyebrow": "Guía de personaje",
+      "subtitle": "Martial Legend combina lanzadores simples, un rompeguardias confiable y un contraataque de castigo. El personaje es más fuerte cuando guardas un movimiento para la evasiva o el acercamiento fallido del oponente.",
+      "intro": "Usa Dragon Rush y Panther Combo para arrastrar a los oponentes, Tiger Palm para castigar a objetivos bloqueando o en el suelo, y Triple Kick Counter contra ataques comprometidos. Cerca de las paredes, Panther Combo puede conectar directamente con la secuencia de pared de Martial Legend para infligir daño de manera eficiente.",
+      "groups": [
+        {
+          "name": "Movimientos base",
+          "moves": [
+            {
+              "name": "Cadena de M1",
+              "role": "Iniciador",
+              "properties": [
+                "Cadena de ataque ligero de cuatro golpes",
+                "La patada baja final empuja al objetivo"
+              ],
+              "bestUse": "Deténte en tres M1 antes de un uppercut o un golpe hacia abajo al comenzar un combo."
+            },
+            {
+              "name": "Dragon Rush",
+              "role": "Persecución y lanzamiento",
+              "properties": [
+                "Embestida hacia adelante",
+                "Agarra y lanza al golpear",
+                "Bloqueable"
+              ],
+              "bestUse": "Atrapa al oponente mientras cae de Panther Combo, luego deslízate hacia el aterrizaje."
+            },
+            {
+              "name": "Tiger Palm",
+              "role": "Rompeguardias y remate",
+              "properties": [
+                "Golpe de palma rápido",
+                "Ignora el bloqueo",
+                "Golpea a objetivos en estado ragdoll",
+                "Bajo tiempo de recuperación al fallar"
+              ],
+              "bestUse": "Termina un combo, castiga el bloqueo pasivo o haz un dash lateral detrás del empuje reducido."
+            },
+            {
+              "name": "Panther Combo",
+              "role": "Extensor de combo",
+              "properties": [
+                "Secuencia de puñetazos de múltiples golpes",
+                "Termina con una patada con voltereta hacia atrás que lanza al oponente",
+                "Bloqueable"
+              ],
+              "bestUse": "Confirma después de un uppercut, luego retrasa Dragon Rush hasta que el objetivo comience a caer."
+            },
+            {
+              "name": "Triple Kick Counter",
+              "role": "Castigo defensivo",
+              "properties": [
+                "Postura de contraataque",
+                "Represalia de tres patadas",
+                "Largo tiempo de recuperación si nada lo activa"
+              ],
+              "bestUse": "Lee Fang Dance, un dash hacia adelante obvio o presión repetida de M1."
+            }
+          ]
+        },
+        {
+          "name": "Sistema y Despertar",
+          "moves": [
+            {
+              "name": "Draconic Instinct",
+              "role": "Pasiva",
+              "properties": [
+                "Se activa tras un Triple Kick Counter exitoso",
+                "Aumenta la velocidad de movimiento y de ataque"
+              ],
+              "bestUse": "Usa el aumento de velocidad para hacer un dash lateral hacia Dragon Rush o forzar una reentrada rápida con M1."
+            },
+            {
+              "name": "Combo de pared",
+              "role": "Conversión de mapa",
+              "properties": [
+                "Secuencia de rodillazo, patada al cuerpo, puñetazos y patada tornado",
+                "Requiere llevar al oponente contra la geometría sólida"
+              ],
+              "bestUse": "Cerca de una pared, conecta Panther Combo y haz un dash hacia el objetivo cuando termine el lanzamiento."
+            },
+            {
+              "name": "Dragon's Fury",
+              "role": "Activación del despertar",
+              "properties": [
+                "Tormenta de viento yin-yang",
+                "Crea espacio alrededor de Martial Legend",
+                "Desbloquea cuatro ataques de despertar"
+              ],
+              "bestUse": "Actívalo después de un retroceso para que el oponente no pueda presionar libremente el inicio."
+            },
+            {
+              "name": "Dragon Blitz",
+              "role": "Rushdown",
+              "properties": [
+                "Embestida direccional rápida",
+                "Secuencia larga de golpes al impactar"
+              ],
+              "bestUse": "Castiga un movimiento fallido o atrapa a un oponente que intente distanciarse."
+            },
+            {
+              "name": "Dropping Fang",
+              "role": "Ataque de área vertical",
+              "properties": [
+                "Lanza al objetivo",
+                "Sigue con un pisotón en picada"
+              ],
+              "bestUse": "Atrapa a objetivos en el suelo o castiga a oponentes agrupados cerca del punto de aterrizaje."
+            },
+            {
+              "name": "Skyfall Bomb",
+              "role": "Agarre y azote",
+              "properties": [
+                "Lanza hacia arriba",
+                "Agarre aéreo",
+                "Impacto de cabeza contra el suelo"
+              ],
+              "bestUse": "Úsalo después de una apertura confirmada en lugar de hacerlo contra un bloqueo o un dash lateral."
+            },
+            {
+              "name": "Draconic Honor",
+              "role": "Embestida definitiva",
+              "properties": [
+                "Invoca a un dragón negro que embiste",
+                "Arrastra al objetivo por el suelo",
+                "Inflige un impacto reducido cuando se bloquea"
+              ],
+              "bestUse": "Apunta hacia una trayectoria despejada después de que el oponente haya usado su dash."
+            }
+          ]
+        },
+        {
+          "name": "Enfrentamientos",
+          "moves": [
+            {
+              "name": "Contra Jun",
+              "role": "Contrarresta al especialista en combos",
+              "properties": [
+                "Guarda Triple Kick Counter para Fang Dance",
+                "Reserva el movimiento evasivo para Glimpse of Power seguido de Virgule Cascade",
+                "Acércate con Dragon Rush después de un Wolf Fang Flash o Fang Dance fallido"
+              ],
+              "bestUse": "Obliga a Jun a gastar primero una herramienta de movimiento, luego realiza el intercambio a corta distancia más limpio."
+            },
+            {
+              "name": "Contra Shinji",
+              "role": "Detén el rushdown",
+              "properties": [
+                "Bloquea Nunchuck Flurry, Body Flicker y Flashstep Fury usados como iniciadores directos",
+                "Respeta Lightning Flash porque ignora el bloqueo",
+                "Castiga la recuperación de Body Flicker o el inicio de Flashstep Fury"
+              ],
+              "bestUse": "Mantén la paciencia detrás del bloqueo, luego convierte la embestida fallida de Shinji en presión de Panther Combo."
+            }
+          ]
+        }
+      ]
+    },
+    "legendsBattlegroundsJunGuide": {
+      "title": "Guía de Jun de Legends Battlegrounds",
+      "eyebrow": "Guía de personaje",
+      "subtitle": "Aprende el kit básico completo de Jun, sus variantes de movimientos, rutas de pared y el despertar No More Games. Usa combos confirmados para conservar los tiempos de recarga y evitar aperturas castigables.",
+      "intro": "Jun es un luchador técnico de corto alcance diseñado en torno a embestidas confirmadas, variantes de movimientos especiales y secuencias de despertar de alto daño. Sus rutas más fuertes provienen de asestar un derribo de M1 o un combo de pared antes de comprometer Fang Dance, Virgule Cascade o Piercing Tempest.",
+      "groups": [
+        {
+          "name": "Movimientos básicos",
+          "moves": [
+            {
+              "name": "Glimpse of Power",
+              "input": "1",
+              "role": "Iniciador de corto alcance y extensor de combo",
+              "guard": "Imbloqueable",
+              "description": "Jun avanza con un golpe corporal, embiste a través del objetivo y termina con una patada. El golpe inicial puede atrapar a múltiples oponentes cercanos.",
+              "bestUse": "Confírmalo después de una serie de M1 o un downslam en lugar de lanzarlo desde el alcance máximo."
+            },
+            {
+              "name": "Wolf Fang Flash",
+              "input": "2",
+              "role": "Herramienta de persecución y ataque de reposicionamiento",
+              "guard": "Voltereta bloqueable, el golpe cargado ignora el bloqueo",
+              "description": "Jun comienza con una patada con voltereta y luego lanza un golpe cargado rápido con una hitbox de área.",
+              "bestUse": "Guárdalo para perseguir a un rival evasivo, extender un derribo o regresar al rango de cuerpo a cuerpo."
+            },
+            {
+              "name": "Fang Dance",
+              "input": "3",
+              "role": "Embestida confirmada de alto daño",
+              "guard": "La entrada con embestida puede romper la guardia",
+              "description": "Jun se lanza en una larga secuencia de artes marciales que arrastra al oponente antes de lanzarlo lejos.",
+              "bestUse": "Úsalo después de un downslam de M1, un aturdimiento contra la pared u otro golpe confirmado; un intento fallido deja a Jun vulnerable."
+            },
+            {
+              "name": "Virgule Cascade",
+              "input": "4",
+              "role": "Remate de secuencia y movimiento variante",
+              "guard": "Bloqueable",
+              "description": "Jun comienza con golpes de daga, se teletransporta alrededor del objetivo y termina con un ataque de área hacia abajo. El golpe de cuchillo inicial debe conectar para activar la secuencia completa.",
+              "bestUse": "Confirma el primer golpe a través de una serie de M1, un combo de pared o Glimpse of Power."
+            }
+          ]
+        },
+        {
+          "name": "Variantes de movimientos y combo de pared",
+          "moves": [
+            {
+              "name": "Airborne Virgule Cascade",
+              "input": "Uppercut o lanzamiento a la pared, luego 4",
+              "role": "Extensión de combo aéreo",
+              "guard": "Bloqueable",
+              "description": "Usar Virgule Cascade después de un uppercut o un lanzamiento a la pared lo convierte en una secuencia de cortes aéreos.",
+              "bestUse": "Posiciona al oponente cerca de una pared, termina el combo de pared de Jun y activa Virgule Cascade mientras el objetivo es lanzado."
+            },
+            {
+              "name": "---",
+              "input": "Cascada de Destello",
+              "role": "1, luego 4 durante Destello de Poder",
+              "guard": "Ruta de movimiento base combinada",
+              "description": "Confirmado mediante Destello de Poder",
+              "bestUse": "Jun transiciona de Destello de Poder a una secuencia única de artes marciales y dagas en lugar de la Cascada Virgule estándar."
+            },
+            {
+              "name": "Mantén ambos movimientos disponibles al preparar esta ruta en lugar de gastarlos por separado.",
+              "input": "Secuencia de Muro de Jun",
+              "role": "Retroceso de M1 junto a un muro",
+              "description": "Iniciador de combo ambiental",
+              "bestUse": "Jun acorrala al oponente contra el muro, sigue con ataques de corto alcance y termina con un tajo de espada ascendente que los lanza."
+            }
+          ]
+        },
+        {
+          "name": "Usa el lanzamiento para confirmar Cascada Virgule Aérea o deslízate hacia adelante para continuar la presión de M1.",
+          "moves": [
+            {
+              "name": "Despertar No More Games",
+              "input": "No More Games",
+              "role": "G con la barra llena",
+              "description": "Despertar de Jun",
+              "bestUse": "Jun desenvaina su espada y reemplaza su kit base con cuatro habilidades cinemáticas de ráfaga y contraataque."
+            },
+            {
+              "name": "Actívalo tras crear distancia o lanzar al oponente lejos para que la transformación no pueda ser interrumpida.",
+              "input": "Colmillos Salvajes",
+              "role": "1 mientras está despertado",
+              "guard": "Ráfaga de un solo objetivo",
+              "description": "Agarre de aproximación bloqueable si se usa en frío",
+              "bestUse": "Jun comienza con tajos de espada y transiciona a un ataque cinemático largo cuando el agarre conecta."
+            },
+            {
+              "name": "Confírmalo después de que el oponente gaste su evasivo o se esté recuperando de un derribo.",
+              "input": "Corte Fantasma",
+              "role": "2 mientras está despertado",
+              "guard": "Tajo de rastreo y persecución",
+              "description": "Bloqueable",
+              "bestUse": "Jun arremete hacia adelante y realiza un tajo de desplazamiento rápido que puede ser redireccionado con su activación de seguimiento."
+            },
+            {
+              "name": "Castiga el movimiento, cierra la distancia o fuerza la defensa antes de otro movimiento de despertar.",
+              "input": "Tempestad Perforante",
+              "role": "3 mientras está despertado",
+              "guard": "Confirmación a distancia en ráfaga cinemática",
+              "description": "Cuchillos iniciales bloqueables",
+              "bestUse": "Jun lanza una ráfaga de cuchillos. Un impacto exitoso hace que se teletransporte alrededor del objetivo con una ráfaga multiangular."
+            },
+            {
+              "name": "Lánzalo tras un derribo, interacción con el muro o acción defensiva forzada, no a un oponente que esté bloqueando de forma estática.",
+              "input": "Puñetazo de una Pulgada",
+              "role": "4 mientras está despertado",
+              "guard": "Contraataque y remate",
+              "description": "Postura de contraataque",
+              "bestUse": "Anticipa un dash predecible, un ataque M1 o una respuesta inmediata. Usarlo durante Piercing Tempest convierte la secuencia en un remate combinado."
+            }
+          ]
+        },
+        {
+          "name": "Combos y recursos",
+          "moves": [
+            {
+              "name": "Combo terrestre confiable",
+              "input": "3 M1, downslam, Fang Dance, dash, 3 M1, Glimpse, Virgule Cascade",
+              "description": "El downslam confirma Fang Dance, mientras que la transición de Glimpse a Virgule usa la variante base más fuerte de Jun.",
+              "tip": "Rastrea el evasivo del oponente antes de comprometerte con la segunda mitad de la ruta."
+            },
+            {
+              "name": "Ruta de variante de pared",
+              "input": "3 M1, downslam cerca de la pared, combo de pared, Airborne Virgule Cascade",
+              "description": "El lanzamiento contra la pared crea la altura necesaria para la variante aérea de Virgule y evita usar el movimiento como un iniciador directo inseguro."
+            },
+            {
+              "name": "Ruta de variante de Awakening",
+              "input": "Impacto de Piercing Tempest, luego One Inch Punch",
+              "description": "Un golpe de cuchillo confirmado inicia Piercing Tempest y permite que One Inch Punch reemplace su final estándar con la variante combinada."
+            },
+            {
+              "name": "Gestión de recursos",
+              "input": "Estrategia neutral",
+              "description": "Mantén Glimpse of Power y Virgule Cascade juntos para su variante combinada. Confirma Fang Dance antes de usarlo, conserva Wolf Fang Flash como una opción de persecución y evita gastar los cuatro movimientos base durante un ataque no confirmado."
+            }
+          ]
+        }
+      ]
+    },
+    "legendsBattlegroundsShinjiGuide": {
+      "title": "Guía de Shinji de Legends Battlegrounds",
+      "eyebrow": "Personaje de acceso anticipado",
+      "subtitle": "Domina la presión de nunchaku de Shinji, su movimiento de rayo y la mecánica de reinicio de Flashstep Fury. Aprende cómo se compara su estilo de juego agresivo con Martial Legend y Jun.",
+      "intro": "Shinji es un luchador de presión rápida cuyo kit básico combina ráfagas de nunchaku, movimiento eléctrico y ataques repetidos de Flashstep Fury. Está disponible a través del acceso anticipado, mientras que el evento oficial FREE SHINJI está programado para hacer que el personaje esté disponible públicamente en una fecha anunciada por los desarrolladores.",
+      "groups": [
+        {
+          "name": "Acceso y conceptos básicos",
+          "cards": [
+            {
+              "name": "Acceso a Shinji",
+              "tag": "Acceso anticipado",
+              "description": "Shinji se puede seleccionar a través del gamepass de acceso anticipado. El evento oficial de Roblox FREE SHINJI marcará su lanzamiento público general."
+            },
+            {
+              "name": "Cadena de M1 de nunchaku",
+              "input": "Clic izquierdo",
+              "description": "La cadena básica de Shinji combina puñetazos, un giro de nunchaku en forma de ocho de múltiples golpes y una patada de gancho giratoria.",
+              "bestUse": "Detente en tres ataques al preparar un uppercut o un downslam, luego confirma un movimiento especial."
+            },
+            {
+              "name": "Lightning Rage",
+              "tag": "Pasiva",
+              "description": "Cuando Flashstep Fury no está disponible, acertar Nunchuck Flurry o Body Flicker puede restablecerlo una vez. Una barra pasiva separada debe recargarse antes de que otro reinicio esté disponible.",
+              "bestUse": "Gasta Flashstep Fury primero, activa el reinicio con otro movimiento y usa el Fury restablecido para continuar con la presión."
+            }
+          ]
+        },
+        {
+          "name": "Movimientos base",
+          "cards": [
+            {
+              "name": "Nunchuck Flurry",
+              "input": "1",
+              "tag": "Bloqueable",
+              "description": "Shinji realiza una ráfaga ascendente de nunchaku de múltiples golpes seguida de un golpe hacia abajo. Puede atrapar a objetivos en el suelo y a múltiples oponentes cercanos.",
+              "bestUse": "Confírmalo después de un downslam y úsalo para activar el reinicio de Flashstep Fury de Lightning Rage."
+            },
+            {
+              "name": "Body Flicker",
+              "input": "2",
+              "tag": "Bloqueable",
+              "description": "Shinji se agacha antes de abalanzarse a través de los objetivos cercanos con electricidad y desplazarlos a una nueva posición.",
+              "bestUse": "Úsalo como un reinicio de presión o un ataque grupal después de obligar al oponente a dejar de bloquear.",
+              "risk": "Un deslizamiento fallido o un aterrizaje incómodo pueden dejar a Shinji expuesto a un castigo."
+            },
+            {
+              "name": "Destello Relámpago",
+              "input": "3",
+              "tag": "Ignora el bloqueo",
+              "description": "Shinji lanza al objetivo por los aires, desaparece a través de una secuencia de patadas con paso rápido y termina con una potente patada voladora.",
+              "bestUse": "La respuesta principal de Shinji ante oponentes que bloquean o como castigo para objetivos en el suelo."
+            },
+            {
+              "name": "Furia de Paso Rápido",
+              "input": "4",
+              "tag": "Bloqueable",
+              "description": "Shinji rodea rápidamente al objetivo con una ráfaga eléctrica de múltiples golpes. Puede golpear a oponentes en el suelo y a varios enemigos en el área.",
+              "bestUse": "Consúmelo temprano en una ruta confirmada, luego restablece su tiempo de recarga a través de Ira de Relámpago para un segundo uso."
+            }
+          ]
+        },
+        {
+          "name": "Combo de pared y Despertar",
+          "cards": [
+            {
+              "name": "Secuencia de pared eléctrica",
+              "input": "Empuje de M1 junto a una pared",
+              "description": "Shinji inmoviliza al oponente, realiza una rápida secuencia de puñetazos eléctricos y termina con una patada giratoria.",
+              "bestUse": "Sigue la secuencia de pared con Destello Relámpago para un golpe seguro o Parpadeo Corporal para continuar la presión."
+            },
+            {
+              "name": "Pesar del Guerrero",
+              "input": "G con la barra llena",
+              "tag": "Despertar",
+              "description": "Shinji desata una onda eléctrica durante su transformación y obtiene ataques de rayos a gran escala para daño de ráfaga y combates en equipo.",
+              "bestUse": "La onda de activación puede interrumpir a los oponentes cercanos y crear espacio para el primer movimiento del despertar."
+            },
+            {
+              "name": "Embestida de Hierro",
+              "input": "1 durante el despertar",
+              "description": "Shinji se lanza hacia adelante e inicia una larga secuencia de nunchakus y rayos contra un solo objetivo cuando el ataque inicial conecta.",
+              "bestUse": "Confírmalo después de un aturdimiento, derribo o uso evasivo."
+            },
+            {
+              "name": "Frenesí de Relámpagos",
+              "input": "2 durante el despertar",
+              "description": "Shinji carga una onda de choque eléctrica, atraviesa al objetivo en zigzag y termina con una ráfaga aérea.",
+              "bestUse": "Usa la carga después de tomar distancia o cuando varios oponentes ya se estén recuperando."
+            },
+            {
+              "name": "Meteoro Draco",
+              "input": "3 durante el despertar",
+              "description": "Shinji se lanza al aire con un efecto de dragón eléctrico, selecciona un punto de aterrizaje y cae con una gran explosión en área.",
+              "bestUse": "Apunta el impacto directo a oponentes agrupados o derribados para infligir más daño que con la explosión externa."
+            }
+          ]
+        },
+        {
+          "name": "Rutas de combos",
+          "cards": [
+            {
+              "name": "Bucle de reinicio de paso rápido",
+              "input": "Desplazamiento frontal, 3 M1, golpe contra el suelo, Furia de Paso Rápido, golpe contra el suelo, Ráfaga de Nunchakus, Furia de Paso Rápido restablecida, Destello Relámpago",
+              "description": "Esta ruta consume Furia de Paso Rápido antes de que Ráfaga de Nunchakus active Ira de Relámpago y restablezca Furia para otra secuencia de presión."
+            },
+            {
+              "name": "Ruta de confirmación más segura",
+              "input": "---",
+              "description": "3 M1, golpe hacia abajo, Nunchuck Flurry, rastreo de aterrizaje, Lightning Flash"
+            },
+            {
+              "name": "Una ruta más corta que conserva Flashstep Fury como herramienta de persecución en caso de que el oponente escape.",
+              "input": "Ruta de presión contra la pared",
+              "description": "Empuje de M1, combo de pared, Lightning Flash, persecución con dash"
+            }
+          ]
+        },
+        {
+          "name": "La secuencia en la pared estabiliza Lightning Flash y deja a Shinji lo suficientemente cerca para perseguir el aterrizaje del objetivo.",
+          "cards": [
+            {
+              "name": "Enfrentamientos y estrategia",
+              "tag": "Shinji vs Martial Legend",
+              "description": "Enfrentamiento",
+              "recommendation": "Shinji aporta una persecución más rápida, una presión multiobjetivo más fuerte y una ofensiva repetible con Flashstep Fury, mientras que Martial Legend tiene un control más estable basado en contraataques."
+            },
+            {
+              "name": "Elige a Shinji para un movimiento agresivo y presión en peleas de equipo.",
+              "tag": "Shinji vs Jun",
+              "description": "Enfrentamiento",
+              "recommendation": "Shinji ofrece más movilidad y reinicios de presión más rápidos, mientras que Jun tiene más opciones imbloqueables, variantes de movimientos confirmados y rutas de ráfaga cinemática más fuertes."
+            },
+            {
+              "name": "Elige a Shinji para una presión constante; elige a Jun para confirmaciones técnicas y daño de castigo.",
+              "tag": "Presión sin comprometerse demasiado",
+              "description": "Estrategia"
+            }
+          ]
+        }
+      ]
+    },
+    "legendsBattlegroundsGamepasses": {
+      "title": "La mayoría de los especiales básicos de Shinji se pueden bloquear, así que alterna la presión de dash, ataques M1 y Lightning Flash en lugar de usar cada habilidad en secuencia. Conserva Body Flicker o Flashstep Fury para perseguir a un oponente evasivo.",
+      "eyebrow": "Gamepasses y cosméticos de Legends Battlegrounds",
+      "subtitle": "Personalización y pases",
+      "intro": "Compara los pases de acceso a personajes, herramientas de servidores privados y mejoras cosméticas. Mira qué compras desbloquean contenido de juego y cuáles solo cambian la apariencia o funciones sociales.",
+      "headers": {
+        "name": "Legends Battlegrounds separa el acceso a personajes del poder de combate. El Early Access desbloquea luchadores en desarrollo, mientras que la mayoría de los otros pases añaden controles de servidor privado, capacidad de emotes, efectos personalizados, atuendos o características de perfil sin aumentar el daño en partidas públicas.",
+        "category": "Objeto",
+        "effect": "Tipo",
+        "impact": "Qué hace",
+        "classification": "Impacto en el juego"
+      },
+      "items": [
+        {
+          "name": "Clasificación",
+          "category": "Early Access",
+          "effect": "Acceso a personajes",
+          "impact": "Desbloquea personajes que aún están en su periodo de desarrollo de Early Access, incluyendo a Shinji antes de su lanzamiento público.",
+          "classification": "Desbloquea movesets jugables adicionales",
+          "boost": true
+        },
+        {
+          "name": "Acceso a jugabilidad",
+          "category": "Private Server+",
+          "effect": "Servidor privado",
+          "impact": "Añade ajustes de práctica y administración como desactivar enfriamientos, otorgar awakening, forzar remates, habilitar movesets duales y gestionar jugadores.",
+          "classification": "Cambia las sesiones de entrenamiento y personalización en servidores privados.",
+          "boost": false
+        },
+        {
+          "name": "Utilidad de servidor privado",
+          "category": "VIP",
+          "effect": "Premium",
+          "impact": "Añade una capa personalizable, título VIP, mensaje de llegada opcional, ocultación de contador de bajas, acceso a servidores VIP y un descuento en compras de Oro.",
+          "classification": "---",
+          "boost": false
+        },
+        {
+          "name": "Cosmético y conveniencia",
+          "category": "Atuendo de despertar",
+          "effect": "Cosmético",
+          "impact": "Permite al jugador asignar un atuendo guardado de Roblox que aparece mientras su personaje está despertado.",
+          "classification": "Cambio visual durante el despertar",
+          "boost": false
+        },
+        {
+          "name": "Solo cosmético",
+          "category": "Espacios de gestos adicionales",
+          "effect": "Cosmético",
+          "impact": "Expande la rueda de gestos equipados de cuatro a ocho espacios.",
+          "classification": "Más animaciones sociales equipadas",
+          "boost": false
+        },
+        {
+          "name": "Solo cosmético",
+          "category": "Texto de habilidad",
+          "effect": "Personalización",
+          "impact": "Añade burbujas de texto o mensajes personalizables a habilidades seleccionadas y acciones de despertar.",
+          "classification": "Cambia cómo se presentan los ataques a los demás",
+          "boost": false
+        },
+        {
+          "name": "Cosmético y social",
+          "category": "Sonido de eliminación",
+          "effect": "Audio",
+          "impact": "Reproduce un sonido personalizado seleccionado tras conseguir una eliminación.",
+          "classification": "Solo respuesta de audio",
+          "boost": false
+        },
+        {
+          "name": "Solo cosmético",
+          "category": "Mensaje de eliminación+",
+          "effect": "Social",
+          "impact": "Muestra un mensaje personalizado cuando el jugador consigue una eliminación.",
+          "classification": "Solo chat y presentación",
+          "boost": false
+        },
+        {
+          "name": "Cosmético y social",
+          "category": "Gestos estándar",
+          "effect": "Cosmético de oro",
+          "impact": "Los gestos se pueden desbloquear, equipar en la rueda de gestos y abrir en una partida presionando B.",
+          "classification": "Solo animación social",
+          "boost": false
+        },
+        {
+          "name": "Solo cosmético",
+          "category": "Gestos limitados",
+          "effect": "Cosmético de evento",
+          "impact": "Se lanzan gestos especiales a través de actualizaciones seleccionadas y eventos limitados.",
+          "classification": "Solo animación social",
+          "boost": false
+        },
+        {
+          "name": "Solo cosmético",
+          "category": "Efectos cosméticos",
+          "effect": "Cosmético de oro",
+          "impact": "Efectos visuales, accesorios y opciones de presentación del personaje desbloqueados mediante el sistema cosmético del juego.",
+          "classification": "Solo cosmético",
+          "boost": false
+        },
+        {
+          "name": "Títulos",
+          "category": "Cosmético de perfil",
+          "effect": "Muestra un título equipado junto a la identidad del jugador en el juego.",
+          "impact": "Solo para presentación del perfil",
+          "classification": "Solo cosmético",
+          "boost": false
+        }
+      ]
+    },
+    "legendsBattlegroundsUpdates": {
+      "title": "Actualizaciones y adelantos de Legends Battlegrounds",
+      "eyebrow": "Últimos avances del desarrollo",
+      "subtitle": "Sigue a los nuevos personajes, movimientos de despertar, ajustes de equilibrio, cosméticos y avances de los desarrolladores. Cada entrada de la cronología rastrea las actualizaciones oficiales de Roblox y de los canales de los desarrolladores.",
+      "intro": "Arts of Vermillion y el desarrollador Zalekoth publican el próximo contenido de Legends Battlegrounds a través de la comunidad de Roblox, el canal oficial de YouTube y la cuenta de X. La siguiente cronología abarca los lanzamientos principales de personajes, adiciones al combate, cosméticos y avances actuales del desarrollo.",
+      "entries": [
+        {
+          "date": "Julio de 2026",
+          "title": "Adelanto del nuevo lobby de duelos",
+          "status": "Avance del desarrollador",
+          "category": "Modo de juego e interfaz",
+          "summary": "Un nuevo adelanto oficial presenta el lobby rediseñado que se está preparando para los duelos.",
+          "changes": [
+            "Nuevo entorno de lobby para partidas centradas en duelos",
+            "Presentación actualizada para entrar y organizar duelos",
+            "Desarrollo continuo de la experiencia de partidas competitivas"
+          ]
+        },
+        {
+          "date": "Fecha no anunciada",
+          "title": "Evento de SHINJI GRATIS",
+          "status": "Programado",
+          "category": "Evento limitado y acceso a personajes",
+          "summary": "El evento oficial de Roblox hará que Shinji esté disponible más allá de su periodo de acceso anticipado.",
+          "changes": [
+            "Evento de acceso público a Shinji",
+            "Contenido de actualización centrado en Shinji",
+            "Página oficial del evento para ver el calendario y los detalles de lanzamiento"
+          ]
+        },
+        {
+          "date": "Agosto de 2025",
+          "title": "Expansión del despertar de Shinji",
+          "status": "Lanzado",
+          "category": "Actualización de personaje y combate",
+          "summary": "El contenido Warrior's Grief de Shinji expandió su despertar basado en rayos y sus opciones de presión a gran escala.",
+          "changes": [
+            "Ataque cinemático Iron Onslaught",
+            "Secuencia de carga y embestida Lightning Rampage",
+            "Ataque de área dirigido Draco Meteor",
+            "Sistemas de combate adicionales contra equipos",
+            "Nuevos emotes limitados y contenido visual"
+          ]
+        },
+        {
+          "date": "Marzo de 2025",
+          "title": "Lanzamiento público de Jun y acceso anticipado de Shinji",
+          "status": "Lanzado",
+          "category": "Actualización de personaje",
+          "summary": "Jun pasó a ser jugable para el público mientras que Shinji entró en acceso anticipado con un conjunto de movimientos base completo centrado en la velocidad.",
+          "changes": [
+            "Jun pasó de acceso anticipado a disponibilidad pública",
+            "Se añadió a Shinji con Nunchuck Flurry, Body Flicker, Lightning Flash y Flashstep Fury",
+            "Jun recibió Piercing Tempest y One Inch Punch",
+            "Se añadió el gamepass de personalización de texto de habilidades",
+            "Funciones adicionales de servidor, rachas de bajas y juego competitivo"
+          ]
+        },
+        {
+          "date": "Marzo de 2025",
+          "title": "Adelanto del final de Piercing Tempest",
+          "status": "Avance publicado",
+          "category": "Avance del Despertar de Jun",
+          "summary": "El avance oficial mostró la secuencia final del movimiento de despertar Piercing Tempest de Jun.",
+          "changes": [
+            "Apertura con cuchillo a distancia",
+            "Ráfaga de teletransporte multiangular",
+            "Final cinematográfico ampliado para el kit de despertar de Jun"
+          ]
+        },
+        {
+          "date": "Diciembre de 2024",
+          "title": "Remates de Jun, VIP y herramientas de servidor privado",
+          "status": "Publicado",
+          "category": "Actualización de contenido y sistema",
+          "summary": "La actualización amplió los movimientos de Jun, añadió animaciones de remate e introdujo funciones importantes de personalización y servidores privados.",
+          "changes": [
+            "Se añadió Phantom Sever al despertar de Jun",
+            "Se añadieron remates para los ataques base de Jun",
+            "Capa VIP, título y beneficios por compra con Oro",
+            "Comandos de Servidor Privado+ y ajustes de conjunto de movimientos dual",
+            "Colección de emotes ampliada",
+            "Ajustes de combos de pared, ragdoll y downslam"
+          ]
+        },
+        {
+          "date": "Octubre de 2024",
+          "title": "Virgule Cascade y sistema de cosméticos",
+          "status": "Publicado",
+          "category": "Actualización de Jun y cosméticos",
+          "summary": "Jun recibió un nuevo movimiento de daga con múltiples variantes junto con el sistema de progresión cosmética ampliado del juego.",
+          "changes": [
+            "Se añadió Virgule Cascade al kit base de Jun",
+            "Variantes normal, uppercut y Glimpse of Power",
+            "Despertar No More Games y Savage Fangs",
+            "Cosméticos basados en Oro y emotes adicionales",
+            "Gamepass de atuendo de despertar",
+            "Modo fotosensible y opciones de desplazamiento de shift-lock"
+          ]
+        },
+        {
+          "date": "Agosto de 2024",
+          "title": "Fang Dance y combo de pared de Jun",
+          "status": "Publicado",
+          "category": "Actualización de combate",
+          "summary": "El conjunto de movimientos inicial de Jun se expandió con un nuevo ataque de embestida, un combo ambiental y su primer remate dedicado.",
+          "changes": [
+            "Se añadió Fang Dance",
+            "Se introdujo el combo de pared de Jun",
+            "Primera animación de remate de Jun",
+            "Contenido adicional del despertar de Martial Legend"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas",
+    "titleHighlight": "Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre Legends Battlegrounds",
+    "questions": [
+      {
+        "question": "¿Qué es Legends Battlegrounds?",
+        "answer": "Legends Battlegrounds es un juego de lucha PvP de stickman de ritmo rápido en Roblox creado por Arts of Vermillion. Se centra en dashes, bloqueos, escapes de ragdoll, despertares y combos específicos de cada personaje, tanto para luchadores gratuitos como de Early Access."
+      },
+      {
+        "question": "¿Es Legends Battlegrounds gratis?",
+        "answer": "Legends Battlegrounds es gratis en Roblox. Los gamepasses opcionales como Early Access, VIP y Private Server+ añaden personajes, cosméticos y herramientas de servidores privados, pero no aumentan el daño en partidas públicas."
+      },
+      {
+        "question": "¿Qué personaje de Legends Battlegrounds es el mejor para principiantes?",
+        "answer": "Martial Legend es el mejor personaje inicial en Legends Battlegrounds. Su kit es equilibrado y fácil de leer, con un contraataque confiable, un rompeguardias y extensores de combo simples que enseñan el juego neutral antes de pasar a Jun o Shinji."
+      },
+      {
+        "question": "¿Cómo desbloqueo a Shinji en Legends Battlegrounds?",
+        "answer": "Shinji está disponible a través del gamepass de Early Access en Legends Battlegrounds. El evento oficial de Roblox FREE SHINJI también está programado para lanzarlo públicamente en una fecha anunciada por los desarrolladores."
+      },
+      {
+        "question": "¿Cómo activo el despertar en Legends Battlegrounds?",
+        "answer": "Presiona G cuando tu barra de despertar esté llena para activar el despertar en Legends Battlegrounds. Primero crea espacio con un empuje para que los oponentes no interrumpan la animación de inicio, luego usa movimientos de despertar para asegurar la pelea."
+      },
+      {
+        "question": "¿Cuál es el mejor combo para aprender primero en Legends Battlegrounds?",
+        "answer": "Comienza con la ruta de lanzamiento básica de Martial Legend en Legends Battlegrounds: Forward Dash, 3 M1, Uppercut, Panther Combo, Dragon Rush, Forward Dash, 3 M1, Uppercut, Tiger Palm. Te enseña el timing del lanzador y la conciencia evasiva antes de pasar a rutas más difíciles."
+      },
+      {
+        "question": "¿Hay códigos de canje en Legends Battlegrounds?",
+        "answer": "Legends Battlegrounds no utiliza actualmente un sistema de códigos de canje. Los personajes, cosméticos y herramientas de servidores privados se desbloquean a través de gamepasses y el progreso en el juego en lugar de códigos."
+      },
+      {
+        "question": "¿Dónde puedo jugar Legends Battlegrounds?",
+        "answer": "Puedes jugar Legends Battlegrounds en Roblox en PC, móviles, tabletas y consolas. La página oficial del juego y la comunidad de Arts of Vermillion son los principales puntos de entrada."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para dominar Legends Battlegrounds?",
+    "description": "¡Únete a la comunidad de Legends Battlegrounds para obtener guías de personajes, consejos de combos, tier lists y las últimas actualizaciones de Roblox de Arts of Vermillion!",
+    "joinCommunity": "Unirse al grupo de Roblox",
+    "joinGame": "Jugar en Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Legends Battlegrounds",
+    "description": "Tu centro de recursos completo para personajes, movesets, combos, tier lists, técnicas, gamepasses y guías de actualización de Legends Battlegrounds.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "discord": "Grupo de Roblox",
+    "twitter": "X / Twitter",
+    "steamCommunity": "YouTube",
+    "steamStore": "Jugar en Roblox",
+    "about": "Acerca de",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Legends Battlegrounds Wiki. No afiliado con Arts of Vermillion ni Roblox Corporation.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+  },
+  "pages": {
+    "characters": {
+      "title": "Personajes de Legends Battlegrounds",
+      "description": "Plantilla completa de luchadores de Legends Battlegrounds, incluyendo a Martial Legend, Jun, Shinji e invitados especiales con roles, métodos de desbloqueo y análisis de estilo de juego.",
+      "metaTitle": "Personajes de Legends Battlegrounds - Plantilla y estilos de juego",
+      "metaDescription": "Explora todos los personajes de Legends Battlegrounds, incluyendo a Martial Legend, Jun, Shinji e invitados especiales. Compara roles, métodos de desbloqueo, fortalezas y estilos de juego.",
+      "categoryLabel": "PERSONAJES",
+      "whatIs": "¿Qué son los personajes?",
+      "whatIsDescription": "Guías de personajes que cubren la posición en la plantilla de cada luchador de Legends Battlegrounds, método de desbloqueo, rol, fortalezas, debilidades y estilo de juego general, sin duplicar los datos completos de sets de movimientos o combos.",
+      "why": "¿Por qué estudiar a los personajes?",
+      "whySteps": {
+        "step1Title": "Conoce la plantilla",
+        "step1Description": "Mira todos los personajes disponibles, de acceso anticipado y especiales en un solo lugar",
+        "step2Title": "Elige tu personaje principal",
+        "step2Description": "Compara la facilidad de uso, el límite de combos y la movilidad entre luchadores",
+        "step3Title": "Planifica los desbloqueos",
+        "step3Description": "Decide qué personaje de acceso anticipado o especial se adapta a tu estilo de juego"
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los personajes"
+    },
+    "moves": {
+      "title": "Sets de movimientos de Legends Battlegrounds",
+      "description": "Análisis completos de los sets de movimientos de cada luchador, que cubren movimientos básicos, despertares, variantes de comando, remates y condiciones de activación.",
+      "metaTitle": "Sets de movimientos de Legends Battlegrounds - Movimientos, despertares y variantes",
+      "metaDescription": "Domina cada set de movimientos de Legends Battlegrounds con todos los movimientos básicos, habilidades de despertar, variantes de comando, remates y condiciones de activación para cada luchador.",
+      "categoryLabel": "SETS DE MOVIMIENTOS",
+      "whatIs": "¿Qué son los sets de movimientos?",
+      "whatIsDescription": "Referencias de sets de movimientos que explican los ataques normales de cada luchador, habilidades de despertar, variantes de comando, animaciones de remate y las condiciones que los activan, manteniéndose separados de las rutas completas de combos.",
+      "why": "¿Por qué aprender los sets de movimientos?",
+      "whySteps": {
+        "step1Title": "Domina los comandos",
+        "step1Description": "Aprende con precisión cada movimiento básico y comando de despertar",
+        "step2Title": "Sigue las variantes",
+        "step2Description": "Comprende las variantes de comando y cuándo se activa cada una",
+        "step3Title": "Activa despertares",
+        "step3Description": "Conoce las condiciones exactas para activar y usar despertares"
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los sets de movimientos"
+    },
+    "combos": {
+      "title": "Combos de Legends Battlegrounds",
+      "description": "Rutas de combos confiables para principiantes, avanzados y de alto daño para cada luchador jugable.",
+      "metaTitle": "Combos de Legends Battlegrounds - Rutas, sincronización y controles evasivos",
+      "metaDescription": "LABORATORIO DE COMBOS",
+      "categoryLabel": "COMBO LAB",
+      "whatIs": "¿Qué son los combos?",
+      "whatIsDescription": "Guías de combos que cubren secuencias de ataque ordenadas, timing, comprobaciones de evasión y conversiones de pared para cada luchador de Legends Battlegrounds.",
+      "why": "¿Por qué aprender combos?",
+      "whySteps": {
+        "step1Title": "Rutas confiables",
+        "step1Description": "Comienza con iniciadores estables antes de cadenas de alto daño",
+        "step2Title": "Monitorea las evasivas",
+        "step2Description": "Aprende cuándo detener una ruta y castigar en su lugar",
+        "step3Title": "Maximiza el daño",
+        "step3Description": "Convierte aperturas limpias en eliminaciones completas"
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los combos"
+    },
+    "guide": {
+      "title": "Guía de Legends Battlegrounds",
+      "description": "Guías aptas para principiantes que cubren controles, movimiento, bloqueo, evasivas al levantarse, despertares y estrategia básica de batalla.",
+      "metaTitle": "Guía de Legends Battlegrounds - Controles, movimiento y consejos para principiantes",
+      "metaDescription": "Comienza con fuerza en Legends Battlegrounds con controles completos, desplazamientos, bloqueo, evasivas al levantarse, despertares y estrategia básica de batalla para PC y móviles.",
+      "categoryLabel": "GUÍAS DEL JUEGO",
+      "whatIs": "¿Qué es la guía?",
+      "whatIsDescription": "Guías de juego básicas para nuevos jugadores que cubren controles, desplazamientos, bloqueo, evasivas al levantarse, uso de despertares y estrategia de batalla fundamental en Legends Battlegrounds.",
+      "why": "¿Por qué leer la guía?",
+      "whySteps": {
+        "step1Title": "Aprende los controles",
+        "step1Description": "Domina los controles de PC y móviles, el bloqueo y los despertares",
+        "step2Title": "Sobrevive más tiempo",
+        "step2Description": "Usa los desplazamientos y las evasivas al levantarse para escapar de la presión",
+        "step3Title": "Desarrolla los fundamentos",
+        "step3Description": "Desarrolla lecturas y hábitos de presión antes de buscar combos largos"
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías"
+    },
+    "codes": {
+      "title": "Códigos de Legends Battlegrounds",
+      "description": "Cómo funcionan los códigos de Legends Battlegrounds como entradas de ID de audio personalizadas para el sistema Kill Sound, además de IDs de audio de Roblox activas para usar.",
+      "metaTitle": "Códigos de Legends Battlegrounds - Guía de ID de audio de Kill Sound",
+      "metaDescription": "Aprende cómo funcionan los códigos de Legends Battlegrounds como entradas de ID de audio personalizadas para el sistema Kill Sound, con IDs de audio de Roblox activas y los pasos de configuración.",
+      "categoryLabel": "CÓDIGOS Y AUDIO",
+      "whatIs": "¿Qué son los códigos?",
+      "whatIsDescription": "En Legends Battlegrounds, los códigos son entradas de ID de audio personalizadas que se usan para personalizar tu Kill Sound, en lugar de los tradicionales códigos promocionales para obtener estadísticas o monedas gratis. Esta sección explica cómo funciona el sistema de audio y enumera las IDs de audio de Roblox activas.",
+      "why": "¿Por qué usar códigos?",
+      "whySteps": {
+        "step1Title": "Personaliza tu Kill Sound",
+        "step1Description": "Introduce IDs de audio para reproducir un efecto de sonido personalizado cada vez que derrotes a un oponente",
+        "step2Title": "Configúralo correctamente",
+        "step2Description": "Sigue los pasos exactos para desbloquear el sistema Kill Sound e introducir las IDs",
+        "step3Title": "Explora las IDs activas",
+        "step3Description": "Elige entre IDs de audio de la biblioteca de Roblox probados que funcionan en el juego"
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los códigos"
+    },
+    "customization": {
+      "title": "Personalización de Legends Battlegrounds",
+      "description": "Cada objeto cosmético, emote, sonido de eliminación e ID de canción de Roblox en Legends Battlegrounds con instrucciones de cómo equiparlos.",
+      "metaTitle": "Personalización de Legends Battlegrounds - Cosméticos, emotes e IDs de canciones",
+      "metaDescription": "Explora todos los cosméticos, emotes, IDs de sonidos de eliminación e IDs de canciones de Roblox de Legends Battlegrounds, además de instrucciones paso a paso para equipar cada objeto.",
+      "categoryLabel": "PERSONALIZACIÓN",
+      "whatIs": "¿Qué es la personalización?",
+      "whatIsDescription": "Guías de personalización que listan cada skin cosmética, emote, sonido de eliminación e ID de canción de Roblox disponible en Legends Battlegrounds, con pasos claros para desbloquear y equipar cada uno.",
+      "why": "¿Por qué personalizar?",
+      "whySteps": {
+        "step1Title": "Destácate",
+        "step1Description": "Equipa skins y cosméticos para personalizar a tu luchador",
+        "step2Title": "Exprésate",
+        "step2Description": "Usa emotes y sonidos de eliminación para lucirte ante tus oponentes",
+        "step3Title": "Crea el ambiente",
+        "step3Description": "Introduce IDs de canciones de Roblox para personalizar el audio de tu lobby"
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Toda la personalización"
+    },
+    "updates": {
+      "title": "Actualizaciones de Legends Battlegrounds",
+      "description": "Sigue los nuevos personajes, despertares, cambios de equilibrio, cosméticos, eventos y adelantos de los desarrolladores.",
+      "metaTitle": "Actualizaciones de Legends Battlegrounds - Notas del parche y adelantos",
+      "metaDescription": "Sigue las actualizaciones de Legends Battlegrounds, incluyendo nuevos personajes, movimientos de despertar, cambios de equilibrio, cosméticos y adelantos de los desarrolladores de Arts of Vermillion.",
+      "categoryLabel": "ACTUALIZACIONES Y NOTICIAS",
+      "whatIs": "¿Qué son las actualizaciones?",
+      "whatIsDescription": "Cobertura de actualizaciones y adelantos que sigue los nuevos personajes, movimientos de despertar, cambios de equilibrio, cosméticos y adelantos de los desarrolladores para Legends Battlegrounds.",
+      "why": "¿Por qué seguir las actualizaciones?",
+      "whySteps": {
+        "step1Title": "Nuevo contenido",
+        "step1Description": "Mantente al día con los personajes, despertares y eventos",
+        "step2Title": "Cambios de equilibrio",
+        "step2Description": "Ajusta tus rutas cuando se actualicen los movimientos",
+        "step3Title": "Adelantos de los desarrolladores",
+        "step3Description": "Previsualiza los próximos modos y funciones"
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todas las actualizaciones"
+    }
+  }
+}

@@ -1,11 +1,11 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Legends Battlegrounds Wiki - Characters, Combos & Updates",
+  "short_name": "Legends Battlegrounds",
+  "description": "Legends Battlegrounds Wiki covers characters, movesets, combos, tier lists, techniques, gamepasses, and updates for the fast-paced Roblox stickman PvP fighter by Arts of Vermillion.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
+  "theme_color": "#d71c36",
   "background_color": "#0a0a0a",
   "icons": [
     {

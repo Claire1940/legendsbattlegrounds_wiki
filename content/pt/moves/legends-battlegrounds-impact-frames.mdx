@@ -1,0 +1,181 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Impact Frames em Legends Battlegrounds: Guia de Timing de Combate e Hitbox",
+  description: "Domine o timing de combate em Legends Battlegrounds. Aprenda sobre impact frames, mecânicas de hitbox e stuns específicos de movimentos para dominar cada batalha em 2026.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Impact+Frames+Guide",
+  date: "2026-07-21",
+  author: "Equipe da Wiki de Legends Battlegrounds"
+}
+
+<Callout type="info" title="Guia Rápido">
+- Os **impact frames de Legends Battlegrounds** determinam o momento exato em que uma hitbox se torna ativa durante uma animação.
+- **Jun** é um especialista de curto alcance cujas habilidades dependem fortemente de janelas de impacto imbloqueáveis.
+- **Dash Canceling** é a principal mecânica defensiva usada para escapar de sequências de impacto de alto dano.
+- As **Variantes de Virgule Cascade** oferecem a maior eficiência de dano por frame quando cronometradas corretamente durante os stuns.
+- O **One Inch Punch** serve como um movimento de contra-ataque universal contra quase todos os ataques no jogo.
+</Callout>
+
+<Section icon={Sparkles} title="As Mecânicas de Impact Frames em Legends Battlegrounds">
+
+Entender as mecânicas subjacentes dos **impact frames de Legends Battlegrounds** é a diferença entre um jogador casual e um veterano competitivo. No combate de alta velocidade, cada animação é dividida em três fases distintas: frames de inicialização (startup), frames ativos (impacto) e frames de recuperação (endlag). Os impact frames são a janela específica onde a arma ou membro do seu personagem possui uma \"hitbox\" capaz de interagir com a \"hurtbox\" de um oponente.
+
+Em Legends Battlegrounds, dominar essas janelas permite que você faça \"frame traps\" nos oponentes, forçando-os a situações onde não podem bloquear ou esquivar. Por exemplo, movimentos como o *Glimpse of Power* do Jun têm frames de inicialização muito rápidos, tornando-os difíceis de reagir, seguidos por impact frames imbloqueáveis que garantem um atordoamento (stun).
+
+| Fase do Frame | Descrição | Impacto na Gameplay |
+| :--- | :--- | :--- |
+| **Startup** | O início de uma animação antes do golpe ocorrer | Determina a facilidade com que um movimento pode ser interrompido |
+| **Ativo/Impacto** | A janela onde a hitbox é perigosa | O momento em que o dano e os stuns são aplicados ao inimigo |
+| **Recuperação** | A finalização da animação após o acerto ou erro | Deixa o jogador vulnerável a contra-ataques |
+
+<Callout type="tip" title="Dica de Timing Profissional">
+Para maximizar sua eficiência, sempre procure movimentos com baixos frames de recuperação (endlag). Se você errar um movimento como o *Wolf Fang Flash*, o baixo endlag permite que você se recupere rápido o suficiente para bloquear ou esquivar antes que o oponente possa punir seu erro.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Destaque de Personagem: A Vantagem de Frames do Jun">
+
+Jun se destaca como um dos personagens mecanicamente mais recompensadores no meta atual de 2026 devido ao seu conjunto de movimentos diversificado e propriedades de impacto únicas. Como um lutador de curto alcance, Jun é excelente em manter-se colado aos oponentes e utilizar \"I-Frames\" (frames de invencibilidade) para evitar danos recebidos enquanto desfere os seus próprios.
+
+Seu conjunto de movimentos base é projetado para sobrecarregar oponentes que falham em gerenciar seus cooldowns de esquiva. Ao analisar os dados de dano e recarga, os jogadores podem planejar suas rotações ofensivas em torno das janelas mais impactantes.
+
+| Nome do Movimento | Dano | Cooldown | Propriedade de Impacto |
+| :--- | :--- | :--- | :--- |
+| **Combo M1** | 14% | N/A | Soco no fígado atordoa para sequência |
+| **Glimpse Of Power** | 16.5% | 22 Segundos | Soco no estômago imbloqueável / Stun alto |
+| **Wolf Fang Flash** | 14.5% | 24 Segundos | Chute flip bloqueável / AoE imbloqueável |
+| **Wall Combo** | 15% | N/A | Corte vertical / Lança o oponente ao ar |
+
+<CardGrid cols={2}>
+  <Card title="Estratégia Glimpse of Power">
+    - **Impacto Imbloqueável**: Use isso para atravessar jogadores defensivos que estão bloqueando.
+    - **Iniciador de Combo**: A duração do stun é longa o suficiente para transicionar para o Virgule Cascade.
+    - **Alvos Múltiplos**: O primeiro soco pode atingir vários inimigos em lutas de equipe.
+  </Card>
+  <Card title="Técnica Wolf Fang Flash">
+    - **Extensão de Combo**: Erre intencionalmente o soco de investida para se reposicionar ao lado do inimigo.
+    - **Isca (Baiting)**: Use o chute flip para forçar um dash cancel do seu oponente.
+    - **Baixo Risco**: O endlag mínimo torna esta uma opção segura para cutucar no neutro.
+  </Card>
+</CardGrid>
+
+<Callout type="warning" title="Alerta de Endlag">
+Embora os movimentos do Jun sejam poderosos, errar o *Glimpse of Power* resulta em um endlag médio. Jogadores experientes esperarão por esta janela específica de recuperação para iniciar uma punição de combo completo.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Execução de Combos Avançados e Variantes">
+
+Uma das características únicas de Legends Battlegrounds é a habilidade de combinar movimentos em \"Variantes\" especializadas. Estas variantes frequentemente têm **impact frames de Legends Battlegrounds** diferentes em comparação com suas versões base, proporcionando mais dano, melhor AoE ou I-Frames mais longos.
+
+O *Virgule Cascade* do Jun é o núcleo deste sistema, oferecendo três variações distintas baseadas no movimento precedente ou no ambiente.
+
+<Steps>
+  <Step num="1" title="Virgule Cascade Variante 2 (Uppercut)">
+    Acionado ao usar o movimento após um Wall Combo. Esta variante corta o oponente para cima, envia uma faca para teletransporte e esmaga o inimigo de volta ao chão. Causa sólidos 15% de dano.
+  </Step>
+  <Step num="2" title="Virgule Cascade Variante 3 (Glimpse Combo)">
+    Ativado ao usar o Virgule Cascade durante a segunda parte do *Glimpse of Power*. Esta é a variante mais devastadora, causando 30% de dano e fornecendo longos I-Frames que permitem ao usuário curar aproximadamente 5% de HP durante a animação.
+  </Step>
+  <Step num="3" title="A Configuração de Morte Instantânea (One-Shot)">
+    Combine *Piercing Tempest* com a variante *One Inch Punch*. Esta sequência é inescapável, pois impede o oponente de usar sua evasiva, levando a uma eliminação garantida se os impact frames conectarem.
+  </Step>
+</Steps>
+
+| Tipo de Variante | Dano | Efeito Especial | Melhor Uso |
+| :--- | :--- | :--- | :--- |
+| **Variante 2** | 15% | Teletransporte / Esmagamento no Chão | Após um Wall Combo para dano extra |
+| **Variante 3** | 30% | Dano em Área / I-Frames de Cura | Contra times ou para finalização de alto dano |
+| **One Inch Punch** | Variável | Contra-ataque Universal | Para parar qualquer movimento (exceto Draco Meteor) |
+
+<Callout type="success" title="Fator de Cura">
+Como Legends Battlegrounds apresenta uma taxa de cura natural mais rápida do que outros jogos de battleground, usar os longos I-Frames da Variante 3 é uma estratégia viável para recuperar vida no meio da luta enquanto permanece intocável.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Enquadramento Defensivo e Contra-ataque">
+
+A sobrevivência em Legends Battlegrounds depende da sua habilidade de ler os impact frames do oponente e responder com um dash cancel ou um bloqueio. O cancelamento de dash é o seu recurso mais valioso, mas deve ser gerenciado com cuidado. Se você perder seu dash cancel contra um jogador habilidoso de Jun, isso frequentemente resulta em um combo de \"toque da morte\".
+
+Um contra-ataque eficaz envolve atrair os movimentos de alto impacto do oponente. Por exemplo, ao enfrentar Jun, você deve evitar usar o dash cancel para sair do *Fang Dance* imediatamente. Em vez disso, espere pelo acompanhamento do *Glimpse of Power*, pois é onde ocorre o dano mais significativo.
+
+<Checklist
+  id="defensive-mastery"
+  title="Lista de Prioridade Defensiva:"
+  items={[
+    "Atraia dash cancels com mini-uppercuts",
+    "Economize o dash para janelas de impacto imbloqueáveis",
+    "Use o One Inch Punch para combater investidas agressivas",
+    "Monitore os cooldowns do oponente para o Glimpse of Power",
+    "Utilize clones Anti-Time quando estiver em desvantagem numérica"
+  ]}
+/>
+
+<Callout type="info" title="Mecânica Anti-Time">
+Jun possui uma mecânica anti-time única que invoca um clone para distrair um atacante. Isso permite que você se concentre nos impact frames de um único alvo, equilibrando o campo de jogo em cenários 2v1.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Movimentos Ultimate: No More Games">
+
+Quando a barra de ultimate do Jun está cheia, ele ganha acesso ao *No More Games*, uma transformação que altera significativamente seus **impact frames de Legends Battlegrounds** e potencial de dano. Seu movimento ultimate, *Savage Fangs*, é uma obra-prima cinematográfica que originalmente funcionava como um hit fatal, mas foi balanceada para o lançamento público de 2026.
+
+| Movimento Ultimate | Dano | Comportamento de Impacto |
+| :--- | :--- | :--- |
+| **No More Games (Despertar)** | 30% - 50% | Clones de sombra colidem com o chão / AoE |
+| **Savage Fangs (Cutscene)** | 55% - 80% | Cortes imbloqueáveis levando a um combo de investida |
+| **Wolf Fang Flash (Finalizador)** | Alto | Golpe de palma contra o peito com efeitos de símbolos |
+
+<Callout type="warning" title="Equilíbrio da Ultimate">
+Note que o *Savage Fangs* só executará a cutscene completa uma vez por despertar. Se você acertar o movimento uma segunda vez antes da ultimate terminar, ele realizará apenas os cortes iniciais, evitando loops repetitivos de morte instantânea.
+</Callout>
+
+**Destaques em Vídeo:**
+- Análise detalhada do timing de impacto do M1 do Jun.
+- Guia visual para acertar o Virgule Cascade Variante 3.
+- Demonstração do \"Método Wolf Fang Flash\" para extensões de combo.
+
+<YouTubeEmbed videoId="dQw4w9WgXcQ" title="Legends Battlegrounds: Guia de Combate e Impact Frames do Jun" />
+
+</Section>
+
+<Section icon={Map} title="Dominando o Meta: FAQ">
+
+Para encerrar nosso guia sobre os **impact frames de Legends Battlegrounds**, compilamos as perguntas mais frequentes sobre o timing de combate e mecânicas de personagens.
+
+<FAQ items={[
+  {
+    question: "O que são impact frames em Legends Battlegrounds?",
+    answer: "Impact frames são os frames ativos em uma animação de ataque onde a hitbox pode causar dano ou atordoamento. Dominar essas janelas permite um melhor timing de combo e reações defensivas."
+  },
+  {
+    question: "O One Inch Punch do Jun é realmente um contra-ataque universal?",
+    answer: "Sim, o One Inch Punch do Jun pode contra-atacar quase todos os movimentos do jogo, com a única exceção do Draco Meteor. É uma ferramenta vital para interromper oponentes de alta pressão."
+  },
+  {
+    question: "Como eu realizo a extensão de combo do Wolf Fang Flash?",
+    answer: "Você deve errar intencionalmente a parte do soco de investida do movimento e, em vez disso, dar um dash para o lado do oponente. Ficar em um ângulo de 30 graus durante o mortal para trás aumenta a consistência."
+  },
+  {
+    question: "Por que meu personagem parece curar enquanto recebe dano?",
+    answer: "Legends Battlegrounds apresenta um sistema único de regeneração de vida onde os jogadores curam mais rápido do que em outros jogos de battleground, o que às vezes pode ocorrer mesmo durante combos de vários acertos."
+  }
+]} />
+
+<Callout type="tip" title="Conselho Final">
+Sempre fique de olho no kanji \"狼牙拳击\" (Wolf Fang Fist) durante a ultimate do Jun. Ele sinaliza o impacto final do combo *Savage Fangs*, que lança o oponente através do mapa. Use essa distância para resetar seus cooldowns ou preparar seu próximo engajamento.
+</Callout>
+
+</Section>

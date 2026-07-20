@@ -1,0 +1,181 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Legends Battlegrounds Impact Frames: Combat Timing & Hitbox Guide",
+  description: "Master the combat timing in Legends Battlegrounds. Learn about impact frames, hitbox mechanics, and move-specific stuns to dominate every battle in 2026.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Impact+Frames+Guide",
+  date: "2026-07-21",
+  author: "legends battlegrounds Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Legends battlegrounds impact frames** determine the exact moment a hitbox becomes active during an animation.
+- **Jun** is a premier close-range specialist whose kit relies heavily on unblockable impact windows.
+- **Dash Canceling** is the primary defensive mechanic used to escape high-damage impact sequences.
+- **Virgule Cascade Variants** offer the highest damage-per-frame efficiency when timed correctly during stuns.
+- **One Inch Punch** serves as a universal counter-frame move against almost every attack in the game.
+</Callout>
+
+<Section icon={Sparkles} title="The Mechanics of Legends Battlegrounds Impact Frames">
+
+Understanding the underlying mechanics of **legends battlegrounds impact frames** is the difference between a casual player and a competitive veteran. In high-speed combat, every animation is divided into three distinct phases: startup frames, active (impact) frames, and recovery (endlag) frames. Impact frames are the specific window where your character's weapon or limb possesses a "hitbox" capable of interacting with an opponent's "hurtbox."
+
+In Legends Battlegrounds, mastering these windows allows you to "frame trap" opponents, forcing them into situations where they cannot block or dash away. For instance, moves like Jun's *Glimpse of Power* have very fast startup frames, making them difficult to react to, followed by unblockable impact frames that guarantee a stun.
+
+| Frame Phase | Description | Gameplay Impact |
+| :--- | :--- | :--- |
+| **Startup** | The beginning of an animation before the hit occurs | Determines how easily a move can be interrupted |
+| **Active/Impact** | The window where the hitbox is dangerous | The moment damage and stuns are applied to the enemy |
+| **Recovery** | The animation finishing after the hit or miss | Leaves the player vulnerable to counter-attacks |
+
+<Callout type="tip" title="Pro Timing Tip">
+To maximize your efficiency, always look for moves with low recovery frames (endlag). If you miss a move like *Wolf Fang Flash*, the low endlag allows you to recover quickly enough to block or dash before the opponent can punish your mistake.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Character Spotlight: Jun's Frame Advantage">
+
+Jun stands as one of the most mechanically rewarding characters in the current 2026 meta due to his diverse moveset and unique impact properties. As a close-range fighter, Jun excels at sticking to opponents and utilizing "I-Frames" (invincibility frames) to bypass incoming damage while delivering his own.
+
+His base moveset is designed to overwhelm opponents who fail to manage their dash cooldowns. By analyzing the damage and cooldown data, players can plan their offensive rotations around the most impactful windows.
+
+| Move Name | Damage | Cooldown | Impact Property |
+| :--- | :--- | :--- | :--- |
+| **M1 Combo** | 14% | N/A | Liver punch stuns for follow-up |
+| **Glimpse Of Power** | 16.5% | 22 Seconds | Unblockable stomach punch / High stun |
+| **Wolf Fang Flash** | 14.5% | 24 Seconds | Blockable flip kick / Unblockable AoE |
+| **Wall Combo** | 15% | N/A | Vertical slash / Sends opponent airborne |
+
+<CardGrid cols={2}>
+  <Card title="Glimpse of Power Strategy">
+    - **Unblockable Impact**: Use this to break through defensive players holding block.
+    - **Combo Starter**: The stun duration is long enough to transition into Virgule Cascade.
+    - **Multi-Target**: The first punch can hit multiple enemies in team fights.
+  </Card>
+  <Card title="Wolf Fang Flash Tech">
+    - **Combo Extension**: Intentionally miss the dash punch to reposition beside the enemy.
+    - **Baiting**: Use the flip kick to force a dash cancel from your opponent.
+    - **Low Risk**: Minimal endlag makes this a safe option for neutral poking.
+  </Card>
+</CardGrid>
+
+<Callout type="warning" title="Endlag Alert">
+While Jun's moves are powerful, missing *Glimpse of Power* results in medium endlag. Experienced players will wait for this specific recovery window to initiate a full combo punish.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Advanced Combo Execution & Variants">
+
+One of the unique features of Legends Battlegrounds is the ability to combine moves into specialized "Variants." These variants often have different **legends battlegrounds impact frames** compared to their base versions, providing either more damage, better AoE, or longer I-Frames.
+
+Jun's *Virgule Cascade* is the core of this system, offering three distinct variations based on the preceding move or the environment.
+
+<Steps>
+  <Step num="1" title="Virgule Cascade Variant 2 (Uppercut)">
+    Triggered by using the move after a Wall Combo. This variant slashes the opponent upward, sends a knife for teleportation, and slams the enemy back to the ground. It deals a solid 15% damage.
+  </Step>
+  <Step num="2" title="Virgule Cascade Variant 3 (Glimpse Combo)">
+    Activated by using Virgule Cascade during the second part of *Glimpse of Power*. This is the most devastating variant, dealing 30% damage and providing long I-Frames that allow the user to heal approximately 5% HP during the animation.
+  </Step>
+  <Step num="3" title="The One-Shot Setup">
+    Combine *Piercing Tempest* with the *One Inch Punch* variant. This sequence is inescapable as it prevents the opponent from using their evasive, leading to a guaranteed kill if the impact frames connect.
+  </Step>
+</Steps>
+
+| Variant Type | Damage | Special Effect | Best Usage |
+| :--- | :--- | :--- | :--- |
+| **Variant 2** | 15% | Teleportation / Ground Slam | After a Wall Combo for extra damage |
+| **Variant 3** | 30% | AoE Damage / Healing I-Frames | Against teamers or for high-burst finish |
+| **One Inch Punch** | Variable | Universal Counter | To stop any incoming move (except Draco Meteor) |
+
+<Callout type="success" title="Healing Factor">
+Because Legends Battlegrounds features a faster natural healing rate than other battleground games, using the long I-Frames of Variant 3 is a viable strategy to recover health mid-fight while remaining untouchable.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Defensive Framing & Counter-Play">
+
+Survival in Legends Battlegrounds depends on your ability to read the opponent's impact frames and respond with a dash cancel or a block. Dash canceling is your most valuable resource, but it must be managed carefully. If you lose your dash cancel against a skilled Jun player, it often results in a "touch-of-death" combo.
+
+Effective counter-play involves baiting the opponent's high-impact moves. For example, when facing Jun, you should avoid dash canceling out of the *Fang Dance* immediately. Instead, wait for the *Glimpse of Power* follow-up, as this is where the most significant damage occurs.
+
+<Checklist
+  id="defensive-mastery"
+  title="Defensive Priority List:"
+  items={[
+    "Bait dash cancels with mini-uppercuts",
+    "Save dash for unblockable impact windows",
+    "Use One Inch Punch to counter aggressive rush-downs",
+    "Monitor opponent cooldowns for Glimpse of Power",
+    "Utilize Anti-Team clones when outnumbered"
+  ]}
+/>
+
+<Callout type="info" title="Anti-Team Mechanic">
+Jun features a unique anti-team mechanic that summons a clone to distract one attacker. This allows you to focus on the impact frames of a single target, leveling the playing field in 2v1 scenarios.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Ultimate Moves: No More Games">
+
+When Jun's ultimate bar is full, he gains access to *No More Games*, a transformation that significantly alters his **legends battlegrounds impact frames** and damage potential. His ultimate move, *Savage Fangs*, is a cinematic masterpiece that originally functioned as a one-shot but has been balanced for the 2026 public release.
+
+| Ultimate Move | Damage | Impact Behavior |
+| :--- | :--- | :--- |
+| **No More Games (Awakening)** | 30% - 50% | Shadow clones crash into the ground / AoE |
+| **Savage Fangs (Cutscene)** | 55% - 80% | Unblockable slashes leading into a rush combo |
+| **Wolf Fang Flash (Finisher)** | High | Palm strike against the chest with symbol effects |
+
+<Callout type="warning" title="Ultimate Balance">
+Note that *Savage Fangs* will only execute the full cutscene once per awakening. If you land the move a second time before the ultimate ends, it will only perform the initial slashes, preventing repetitive one-shot loops.
+</Callout>
+
+**Video Highlights:**
+- Detailed breakdown of Jun's M1 impact timing.
+- Visual guide to landing the Virgule Cascade Variant 3.
+- Showcase of the "Wolf Fang Flash Method" for combo extensions.
+
+<YouTubeEmbed videoId="dQw4w9WgXcQ" title="Legends Battlegrounds: Jun Combat & Impact Frames Guide" />
+
+</Section>
+
+<Section icon={Map} title="Mastering the Meta: FAQ">
+
+To wrap up our guide on **legends battlegrounds impact frames**, we have compiled the most frequently asked questions regarding combat timing and character mechanics.
+
+<FAQ items={[
+  {
+    question: "What are impact frames in Legends Battlegrounds?",
+    answer: "Impact frames are the active frames in an attack animation where the hitbox can deal damage or stun. Mastering these windows allows for better combo timing and defensive reactions."
+  },
+  {
+    question: "Is Jun's One Inch Punch really a universal counter?",
+    answer: "Yes, Jun's One Inch Punch can counter almost every move in the game, with the sole exception of Draco Meteor. It is a vital tool for interrupting high-pressure opponents."
+  },
+  {
+    question: "How do I perform the Wolf Fang Flash combo extension?",
+    answer: "You must intentionally miss the dash punch part of the move and instead dash to the side of the opponent. Facing at a 30-degree angle during the backflip increases consistency."
+  },
+  {
+    question: "Why does my character seem to heal while taking damage?",
+    answer: "Legends Battlegrounds features a unique health regeneration system where players heal faster than in other battleground games, which can sometimes occur even during multi-hit combos."
+  }
+]} />
+
+<Callout type="tip" title="Final Advice">
+Always keep an eye on the kanji "狼牙拳击" (Wolf Fang Fist) during Jun's ultimate. It signals the final impact of the *Savage Fangs* combo, which launches the opponent across the map. Use this distance to reset your cooldowns or prepare your next engagement.
+</Callout>
+
+</Section>

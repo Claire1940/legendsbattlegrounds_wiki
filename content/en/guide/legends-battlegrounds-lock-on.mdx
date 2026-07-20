@@ -1,0 +1,163 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "legends battlegrounds lock on: 2026 Setup Guide & PvP Tips",
+  description: "Master the legends battlegrounds lock on mechanics. Learn how to configure Shift Lock, adjust camera offset, and track fast targets for perfect combos.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Lock+On+Guide",
+  date: "2026-07-21",
+  author: "legends battlegrounds Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Primary keyword**: Master the **legends battlegrounds lock on** system to guarantee your high-speed stickman PvP combos land consistently.
+- **Core setting**: Enable **Roblox Shift Lock** and adjust your camera offset to prevent visual tracking errors.
+- **Combat benefit**: Aligning your camera prevents directional moves like **Dragon Rush** from missing their targets.
+- **Advanced tactic**: Toggle your lock-on off during **side dashes** to execute unpredictable flanking maneuvers.
+</Callout>
+
+<Section icon={Shield} title="legends battlegrounds lock on Core Mechanics">
+
+The **legends battlegrounds lock on** system serves as the foundational pillar for tracking opponents, aligning high-velocity physical strikes, and maintaining visual clarity amidst chaotic stickman PvP combat. Unlike traditional arena fighters where manual camera panning is required, this game heavily rewards structured camera centering. By locking your camera to a fixed orientation relative to your opponent, your character's directional inputs automatically align with the target, drastically reducing the likelihood of whiffing critical starters.
+
+In high-level PvP, relying on a completely free-roaming camera is a massive disadvantage. When executing fast-paced maneuvers such as side dashes, air launches, or wall combos, manual camera adjustments cannot keep pace with the rapid displacement of characters. Utilizing the lock-on mechanics ensures that every M1 strike, guard break, and cinematic awakening ability is directed exactly where the opponent is positioned.
+
+| Camera Mode | Control Scheme | Primary Benefit | Best Suited For |
+|---|---|---|---|
+| Shift Lock | Press Shift key | Centers camera on crosshair | High-speed 1v1 duels |
+| Free Camera | Mouse drag | Unrestricted map awareness | Multi-target team fights |
+| Toggle Lock | Custom keybind | Automatic target tracking | Mobile and controller players |
+
+<Callout type="tip" title="Pro Tip: The Neutral Reset">
+If you lose track of an opponent after a heavy knockback, quickly toggle your lock-on off and on again. This instantly snaps your camera back to the opponent's newest trajectory, letting you prepare a counter-attack.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Step-by-Step Lock-On Configuration">
+
+Configuring your camera settings properly is essential before entering competitive matches. Follow this step-by-step routing to optimize your interface, eliminate input delay, and set up your camera offset for maximum combat efficiency.
+
+<Steps>
+  <Step num="1" title="Enable Shift Lock Switch">
+    Open the Roblox game menu by pressing Escape, navigate to the Settings tab, and locate the Shift Lock Switch option. Ensure this is toggled to On. This allows you to press the Left Shift key during gameplay to lock your camera perspective.
+  </Step>
+  <Step num="2" title="Adjust Camera Offset Options">
+    Navigate to the in-game settings menu provided by Arts of Vermillion. Locate the shift-lock offset sliders introduced in the October 2024 update. Adjust the horizontal offset so your stickman sits slightly to the left of the screen, providing a clearer view of incoming frontal attacks.
+  </Step>
+  <Step num="3" title="Toggle Photosensitive and Performance Modes">
+    If you experience frame drops during intense visual effects, toggle on the Photosensitive Mode in the game settings. This reduces flash intensity and stabilizes your frame rate, ensuring your camera tracking remains smooth during rapid lightning or windstorm animations.
+  </Step>
+  <Step num="4" title="Configure Mobile Touch-Lock">
+    For players on mobile or tablet devices, tap the dedicated lock icon on the right side of the screen. This activates the touch-lock system, which replicates the PC Shift Lock functionality by centering your attacks on the nearest target within your visual arc.
+  </Step>
+</Steps>
+
+<Callout type="warning" title="Warning: Avoid Default Sensitivity Overload">
+Setting your camera sensitivity too high while locked on can cause extreme screen shaking during multi-hit moves like Shinji's Flashstep Fury or Jun's Virgule Cascade. Keep your camera sensitivity between 0.6 and 1.2 for optimal tracking.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Fighter-Specific Lock-On Strategies">
+
+Different characters interact with the lock-on camera in unique ways. Understanding how to utilize camera alignment for each fighter's kit can mean the difference between dropping a combo and securing a flawless elimination.
+
+<CardGrid cols={3}>
+  <Card title="Martial Legend Alignment">
+    - **Dragon Rush Accuracy**: Locks your forward movement straight toward the enemy.
+    - **Counter Tracking**: Automatically turns your character toward the attacker when Triple Kick Counter triggers.
+    - **Wall Combo Setup**: Helps you align the perfect angle to drive opponents into solid geometry.
+  </Card>
+  <Card title="Jun Variant Aiming">
+    - **Fang Dance Tracking**: Maintains focus during the long, sweeping dashes of this high-damage rush.
+    - **Glimpse Cascade Route**: Ensures the transition into Virgule Cascade connects seamlessly.
+    - **Airborne Variants**: Keeps the camera centered as you launch opponents upward for aerial slashes.
+  </Card>
+  <Card title="Shinji Reset Tracking">
+    - **Body Flicker Adjustments**: Corrects your camera angle instantly after random-direction teleportation rolls.
+    - **Flashstep Fury Loops**: Keeps the multi-hit electric barrage centered on grouped targets.
+    - **Lightning Flash Breaks**: Guarantees your guard-bypassing dropkick lands directly on blocking targets.
+  </Card>
+</CardGrid>
+
+To maximize your efficiency, analyze how specific moves behave when your camera is locked onto the target versus when it is free.
+
+| Fighter | Move Name | Lock-On Requirement | Tracking Behavior |
+|---|---|---|---|
+| Martial Legend | Dragon Rush | Mandatory | Straight-line lock-on grab |
+| Martial Legend | Tiger Palm | Recommended | Bypasses block, tracks downed targets |
+| Jun | Wolf Fang Flash | Optional | Can be steered past targets for miss-tech |
+| Jun | Piercing Tempest | Mandatory | Tracks knife spread toward target |
+| Shinji | Body Flicker | High | Requires quick camera correction on exit |
+| Shinji | Draco Meteor | Low | Manual ground-target selection is required |
+
+<Callout type="success" title="Success: The Jun Miss-Tech Strategy">
+Advanced Jun players can toggle lock-on off mid-combo to intentionally steer Wolf Fang Flash slightly to the side of a downslammed target. This bypasses their recovery frame, allowing you to quickly reactivate lock-on and continue with M1 pressure.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Performance Optimization and Troubleshooting">
+
+Using camera locks can sometimes lead to visual glitches or tracking errors, especially near walls or during high-ping scenarios. Use this checklist and troubleshooting matrix to keep your gameplay flawless.
+
+<Checklist
+  id="lock-on-readiness"
+  title="Combat Readiness Checklist:"
+  items={[
+    "Verify Shift Lock Switch is enabled in Roblox settings",
+    "Set camera offset to comfortable horizontal values",
+    "Activate Photosensitive Mode to reduce visual clutter",
+    "Practice camera toggling in a Private Server+",
+    "Calibrate mouse sensitivity to prevent screen stuttering"
+  ]}
+/>
+
+If you encounter camera issues during matches, refer to the troubleshooting guide below to resolve them quickly.
+
+| Issue | Probable Cause | Recommended Solution |
+|---|---|---|
+| Camera clips inside walls | Tight space geometry | Toggle lock-on off, side dash away, and re-engage |
+| Shift Lock fails to activate | Roblox UI focus error | Press Escape twice to reset focus on the game window |
+| Target tracking lags behind | High ping or server latency | Anticipate movement and use wider area-of-effect moves |
+| Touch-lock button missing | Mobile interface glitch | Rejoin the server or toggle mobile UI scaling |
+
+<Callout type="info" title="Development Note: Customization Options">
+The game separates cosmetic features from competitive mechanics. While gamepasses like VIP, Skill Text, and Awakening Outfits customize your visual flair, optimizing your camera and lock-on settings remains entirely free and accessible to all players.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Lock-On FAQ">
+
+<FAQ items={[
+  {
+    question: "Why does my lock-on keep turning off during certain combos?",
+    answer: "Some highly cinematic moves, such as Jun's Savage Fangs or Martial Legend's Draconic Honor, temporarily take control of the camera to play elimination animations. Once the animation ends, you must manually press Shift to re-engage your lock-on."
+  },
+  {
+    question: "Can I use the legends battlegrounds lock on system on mobile or tablet devices?",
+    answer: "Yes. Mobile players have access to a dedicated Touch-Lock button on the screen interface. Tapping this button centers your camera on the nearest opponent, replicating the exact functionality of the PC Shift Lock system."
+  },
+  {
+    question: "How does the shift-lock offset option affect my directional skills?",
+    answer: "Adjusting your camera offset shifts your character model slightly to the side. This prevents your own stickman from blocking your view of the opponent, making it much easier to react to fast counter-attacks or visual cues."
+  },
+  {
+    question: "Is it better to keep lock-on enabled during team fights?",
+    answer: "While lock-on is ideal for 1v1 duels, keeping it active during multi-target team fights can limit your peripheral vision. It is recommended to toggle lock-on off when tracking multiple incoming threats, then toggle it back on once you isolate a target."
+  }
+]} />
+
+<Callout type="tip" title="Practice Makes Perfect">
+Use a Private Server+ with cooldowns disabled to practice your movement routes. Toggling your camera lock on and off during fast side dashes will help you build the muscle memory needed for competitive arenas.
+</Callout>
+
+</Section>

@@ -6,12 +6,24 @@
         "file": "legends-battlegrounds-all-characters"
       },
       {
+        "slug": "legends-battlegrounds-characters",
+        "file": "legends-battlegrounds-characters"
+      },
+      {
         "slug": "legends-battlegrounds-dark-lord",
         "file": "legends-battlegrounds-dark-lord"
       },
       {
         "slug": "legends-battlegrounds-jun",
         "file": "legends-battlegrounds-jun"
+      },
+      {
+        "slug": "legends-battlegrounds-kade",
+        "file": "legends-battlegrounds-kade"
+      },
+      {
+        "slug": "legends-battlegrounds-kj",
+        "file": "legends-battlegrounds-kj"
       },
       {
         "slug": "legends-battlegrounds-kratos",
@@ -32,6 +44,10 @@
       {
         "slug": "legends-battlegrounds-tier-list",
         "file": "legends-battlegrounds-tier-list"
+      },
+      {
+        "slug": "legends-battlegrounds-zale",
+        "file": "legends-battlegrounds-zale"
       }
     ],
     "codes": [
@@ -44,6 +60,10 @@
       {
         "slug": "legends-battlegrounds-best-combos",
         "file": "legends-battlegrounds-best-combos"
+      },
+      {
+        "slug": "legends-battlegrounds-combos",
+        "file": "legends-battlegrounds-combos"
       },
       {
         "slug": "legends-battlegrounds-jun-combo",
@@ -80,18 +100,62 @@
         "file": "legends-battlegrounds-all-emotes"
       },
       {
+        "slug": "legends-battlegrounds-cosmetics",
+        "file": "legends-battlegrounds-cosmetics"
+      },
+      {
+        "slug": "legends-battlegrounds-emotes",
+        "file": "legends-battlegrounds-emotes"
+      },
+      {
+        "slug": "legends-battlegrounds-finishers",
+        "file": "legends-battlegrounds-finishers"
+      },
+      {
+        "slug": "legends-battlegrounds-gamepass",
+        "file": "legends-battlegrounds-gamepass"
+      },
+      {
+        "slug": "legends-battlegrounds-kill-emotes",
+        "file": "legends-battlegrounds-kill-emotes"
+      },
+      {
+        "slug": "legends-battlegrounds-kill-messages",
+        "file": "legends-battlegrounds-kill-messages"
+      },
+      {
         "slug": "legends-battlegrounds-kill-sound-id",
         "file": "legends-battlegrounds-kill-sound-id"
       },
       {
         "slug": "legends-battlegrounds-roblox-song-id",
         "file": "legends-battlegrounds-roblox-song-id"
+      },
+      {
+        "slug": "legends-battlegrounds-titles",
+        "file": "legends-battlegrounds-titles"
+      },
+      {
+        "slug": "legends-battlegrounds-variants",
+        "file": "legends-battlegrounds-variants"
       }
     ],
     "guide": [
       {
+        "slug": "legends-battlegrounds-clans",
+        "file": "legends-battlegrounds-clans"
+      },
+      {
         "slug": "legends-battlegrounds-controls",
         "file": "legends-battlegrounds-controls"
+      },
+      {
+        "slug": "legends-battlegrounds-developers",
+        "file": "legends-battlegrounds-developers"
+      },
+      {
+        "slug": "legends-battlegrounds-discord",
+        "file": "legends-battlegrounds-discord"
       },
       {
         "slug": "legends-battlegrounds-how-to-dodge-phantom-sever",
@@ -106,14 +170,46 @@
         "file": "legends-battlegrounds-how-to-use-jun"
       },
       {
+        "slug": "legends-battlegrounds-lock-on",
+        "file": "legends-battlegrounds-lock-on"
+      },
+      {
+        "slug": "legends-battlegrounds-ost",
+        "file": "legends-battlegrounds-ost"
+      },
+      {
         "slug": "legends-battlegrounds-private-server-commands",
         "file": "legends-battlegrounds-private-server-commands"
+      },
+      {
+        "slug": "legends-battlegrounds-reddit",
+        "file": "legends-battlegrounds-reddit"
+      },
+      {
+        "slug": "legends-battlegrounds-vs-combat-gods",
+        "file": "legends-battlegrounds-vs-combat-gods"
       }
     ],
     "moves": [
       {
         "slug": "legends-battlegrounds-all-moves",
         "file": "legends-battlegrounds-all-moves"
+      },
+      {
+        "slug": "legends-battlegrounds-draco-meteor",
+        "file": "legends-battlegrounds-draco-meteor"
+      },
+      {
+        "slug": "legends-battlegrounds-finishers",
+        "file": "legends-battlegrounds-finishers"
+      },
+      {
+        "slug": "legends-battlegrounds-glimpse-of-power",
+        "file": "legends-battlegrounds-glimpse-of-power"
+      },
+      {
+        "slug": "legends-battlegrounds-impact-frames",
+        "file": "legends-battlegrounds-impact-frames"
       },
       {
         "slug": "legends-battlegrounds-jun-awakening",
@@ -128,12 +224,44 @@
         "file": "legends-battlegrounds-jun-one-inch-punch"
       },
       {
+        "slug": "legends-battlegrounds-martial-legend-passive",
+        "file": "legends-battlegrounds-martial-legend-passive"
+      },
+      {
+        "slug": "legends-battlegrounds-moves",
+        "file": "legends-battlegrounds-moves"
+      },
+      {
+        "slug": "legends-battlegrounds-obliteration",
+        "file": "legends-battlegrounds-obliteration"
+      },
+      {
         "slug": "legends-battlegrounds-piercing-tempest",
         "file": "legends-battlegrounds-piercing-tempest"
       },
       {
+        "slug": "legends-battlegrounds-pillar-of-light",
+        "file": "legends-battlegrounds-pillar-of-light"
+      },
+      {
+        "slug": "legends-battlegrounds-savage-fangs",
+        "file": "legends-battlegrounds-savage-fangs"
+      },
+      {
         "slug": "legends-battlegrounds-shinji-awakening",
         "file": "legends-battlegrounds-shinji-awakening"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-ult",
+        "file": "legends-battlegrounds-shinji-ult"
+      },
+      {
+        "slug": "legends-battlegrounds-soda-pop",
+        "file": "legends-battlegrounds-soda-pop"
+      },
+      {
+        "slug": "legends-battlegrounds-uppercut",
+        "file": "legends-battlegrounds-uppercut"
       },
       {
         "slug": "legends-battlegrounds-virgule-cascade-variants",
@@ -142,8 +270,20 @@
     ],
     "updates": [
       {
+        "slug": "legends-battlegrounds-early-access",
+        "file": "legends-battlegrounds-early-access"
+      },
+      {
         "slug": "legends-battlegrounds-leaks",
         "file": "legends-battlegrounds-leaks"
+      },
+      {
+        "slug": "legends-battlegrounds-next-character",
+        "file": "legends-battlegrounds-next-character"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-release-date",
+        "file": "legends-battlegrounds-shinji-release-date"
       },
       {
         "slug": "legends-battlegrounds-sneak-peek",
@@ -170,12 +310,20 @@
         "file": "legends-battlegrounds-all-characters"
       },
       {
+        "slug": "legends-battlegrounds-characters",
+        "file": "legends-battlegrounds-characters"
+      },
+      {
         "slug": "legends-battlegrounds-dark-lord",
         "file": "legends-battlegrounds-dark-lord"
       },
       {
         "slug": "legends-battlegrounds-jun",
         "file": "legends-battlegrounds-jun"
+      },
+      {
+        "slug": "legends-battlegrounds-kj",
+        "file": "legends-battlegrounds-kj"
       },
       {
         "slug": "legends-battlegrounds-kratos",
@@ -208,6 +356,10 @@
       {
         "slug": "legends-battlegrounds-best-combos",
         "file": "legends-battlegrounds-best-combos"
+      },
+      {
+        "slug": "legends-battlegrounds-combos",
+        "file": "legends-battlegrounds-combos"
       },
       {
         "slug": "legends-battlegrounds-jun-combo",
@@ -244,18 +396,54 @@
         "file": "legends-battlegrounds-all-emotes"
       },
       {
+        "slug": "legends-battlegrounds-cosmetics",
+        "file": "legends-battlegrounds-cosmetics"
+      },
+      {
+        "slug": "legends-battlegrounds-emotes",
+        "file": "legends-battlegrounds-emotes"
+      },
+      {
+        "slug": "legends-battlegrounds-gamepass",
+        "file": "legends-battlegrounds-gamepass"
+      },
+      {
+        "slug": "legends-battlegrounds-kill-emotes",
+        "file": "legends-battlegrounds-kill-emotes"
+      },
+      {
+        "slug": "legends-battlegrounds-kill-messages",
+        "file": "legends-battlegrounds-kill-messages"
+      },
+      {
         "slug": "legends-battlegrounds-kill-sound-id",
         "file": "legends-battlegrounds-kill-sound-id"
       },
       {
         "slug": "legends-battlegrounds-roblox-song-id",
         "file": "legends-battlegrounds-roblox-song-id"
+      },
+      {
+        "slug": "legends-battlegrounds-variants",
+        "file": "legends-battlegrounds-variants"
       }
     ],
     "guide": [
       {
+        "slug": "legends-battlegrounds-clans",
+        "file": "legends-battlegrounds-clans"
+      },
+      {
         "slug": "legends-battlegrounds-controls",
         "file": "legends-battlegrounds-controls"
+      },
+      {
+        "slug": "legends-battlegrounds-developers",
+        "file": "legends-battlegrounds-developers"
+      },
+      {
+        "slug": "legends-battlegrounds-discord",
+        "file": "legends-battlegrounds-discord"
       },
       {
         "slug": "legends-battlegrounds-how-to-dodge-phantom-sever",
@@ -270,14 +458,34 @@
         "file": "legends-battlegrounds-how-to-use-jun"
       },
       {
+        "slug": "legends-battlegrounds-ost",
+        "file": "legends-battlegrounds-ost"
+      },
+      {
         "slug": "legends-battlegrounds-private-server-commands",
         "file": "legends-battlegrounds-private-server-commands"
+      },
+      {
+        "slug": "legends-battlegrounds-reddit",
+        "file": "legends-battlegrounds-reddit"
+      },
+      {
+        "slug": "legends-battlegrounds-vs-combat-gods",
+        "file": "legends-battlegrounds-vs-combat-gods"
       }
     ],
     "moves": [
       {
         "slug": "legends-battlegrounds-all-moves",
         "file": "legends-battlegrounds-all-moves"
+      },
+      {
+        "slug": "legends-battlegrounds-draco-meteor",
+        "file": "legends-battlegrounds-draco-meteor"
+      },
+      {
+        "slug": "legends-battlegrounds-impact-frames",
+        "file": "legends-battlegrounds-impact-frames"
       },
       {
         "slug": "legends-battlegrounds-jun-awakening",
@@ -292,6 +500,14 @@
         "file": "legends-battlegrounds-jun-one-inch-punch"
       },
       {
+        "slug": "legends-battlegrounds-martial-legend-passive",
+        "file": "legends-battlegrounds-martial-legend-passive"
+      },
+      {
+        "slug": "legends-battlegrounds-moves",
+        "file": "legends-battlegrounds-moves"
+      },
+      {
         "slug": "legends-battlegrounds-piercing-tempest",
         "file": "legends-battlegrounds-piercing-tempest"
       },
@@ -300,14 +516,34 @@
         "file": "legends-battlegrounds-shinji-awakening"
       },
       {
+        "slug": "legends-battlegrounds-shinji-ult",
+        "file": "legends-battlegrounds-shinji-ult"
+      },
+      {
+        "slug": "legends-battlegrounds-uppercut",
+        "file": "legends-battlegrounds-uppercut"
+      },
+      {
         "slug": "legends-battlegrounds-virgule-cascade-variants",
         "file": "legends-battlegrounds-virgule-cascade-variants"
       }
     ],
     "updates": [
       {
+        "slug": "legends-battlegrounds-early-access",
+        "file": "legends-battlegrounds-early-access"
+      },
+      {
         "slug": "legends-battlegrounds-leaks",
         "file": "legends-battlegrounds-leaks"
+      },
+      {
+        "slug": "legends-battlegrounds-next-character",
+        "file": "legends-battlegrounds-next-character"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-release-date",
+        "file": "legends-battlegrounds-shinji-release-date"
       },
       {
         "slug": "legends-battlegrounds-sneak-peek",
@@ -334,12 +570,20 @@
         "file": "legends-battlegrounds-all-characters"
       },
       {
+        "slug": "legends-battlegrounds-characters",
+        "file": "legends-battlegrounds-characters"
+      },
+      {
         "slug": "legends-battlegrounds-dark-lord",
         "file": "legends-battlegrounds-dark-lord"
       },
       {
         "slug": "legends-battlegrounds-jun",
         "file": "legends-battlegrounds-jun"
+      },
+      {
+        "slug": "legends-battlegrounds-kj",
+        "file": "legends-battlegrounds-kj"
       },
       {
         "slug": "legends-battlegrounds-kratos",
@@ -372,6 +616,10 @@
       {
         "slug": "legends-battlegrounds-best-combos",
         "file": "legends-battlegrounds-best-combos"
+      },
+      {
+        "slug": "legends-battlegrounds-combos",
+        "file": "legends-battlegrounds-combos"
       },
       {
         "slug": "legends-battlegrounds-jun-combo",
@@ -408,18 +656,54 @@
         "file": "legends-battlegrounds-all-emotes"
       },
       {
+        "slug": "legends-battlegrounds-cosmetics",
+        "file": "legends-battlegrounds-cosmetics"
+      },
+      {
+        "slug": "legends-battlegrounds-emotes",
+        "file": "legends-battlegrounds-emotes"
+      },
+      {
+        "slug": "legends-battlegrounds-gamepass",
+        "file": "legends-battlegrounds-gamepass"
+      },
+      {
+        "slug": "legends-battlegrounds-kill-emotes",
+        "file": "legends-battlegrounds-kill-emotes"
+      },
+      {
+        "slug": "legends-battlegrounds-kill-messages",
+        "file": "legends-battlegrounds-kill-messages"
+      },
+      {
         "slug": "legends-battlegrounds-kill-sound-id",
         "file": "legends-battlegrounds-kill-sound-id"
       },
       {
         "slug": "legends-battlegrounds-roblox-song-id",
         "file": "legends-battlegrounds-roblox-song-id"
+      },
+      {
+        "slug": "legends-battlegrounds-variants",
+        "file": "legends-battlegrounds-variants"
       }
     ],
     "guide": [
       {
+        "slug": "legends-battlegrounds-clans",
+        "file": "legends-battlegrounds-clans"
+      },
+      {
         "slug": "legends-battlegrounds-controls",
         "file": "legends-battlegrounds-controls"
+      },
+      {
+        "slug": "legends-battlegrounds-developers",
+        "file": "legends-battlegrounds-developers"
+      },
+      {
+        "slug": "legends-battlegrounds-discord",
+        "file": "legends-battlegrounds-discord"
       },
       {
         "slug": "legends-battlegrounds-how-to-dodge-phantom-sever",
@@ -434,14 +718,34 @@
         "file": "legends-battlegrounds-how-to-use-jun"
       },
       {
+        "slug": "legends-battlegrounds-ost",
+        "file": "legends-battlegrounds-ost"
+      },
+      {
         "slug": "legends-battlegrounds-private-server-commands",
         "file": "legends-battlegrounds-private-server-commands"
+      },
+      {
+        "slug": "legends-battlegrounds-reddit",
+        "file": "legends-battlegrounds-reddit"
+      },
+      {
+        "slug": "legends-battlegrounds-vs-combat-gods",
+        "file": "legends-battlegrounds-vs-combat-gods"
       }
     ],
     "moves": [
       {
         "slug": "legends-battlegrounds-all-moves",
         "file": "legends-battlegrounds-all-moves"
+      },
+      {
+        "slug": "legends-battlegrounds-draco-meteor",
+        "file": "legends-battlegrounds-draco-meteor"
+      },
+      {
+        "slug": "legends-battlegrounds-impact-frames",
+        "file": "legends-battlegrounds-impact-frames"
       },
       {
         "slug": "legends-battlegrounds-jun-awakening",
@@ -456,6 +760,14 @@
         "file": "legends-battlegrounds-jun-one-inch-punch"
       },
       {
+        "slug": "legends-battlegrounds-martial-legend-passive",
+        "file": "legends-battlegrounds-martial-legend-passive"
+      },
+      {
+        "slug": "legends-battlegrounds-moves",
+        "file": "legends-battlegrounds-moves"
+      },
+      {
         "slug": "legends-battlegrounds-piercing-tempest",
         "file": "legends-battlegrounds-piercing-tempest"
       },
@@ -464,14 +776,34 @@
         "file": "legends-battlegrounds-shinji-awakening"
       },
       {
+        "slug": "legends-battlegrounds-shinji-ult",
+        "file": "legends-battlegrounds-shinji-ult"
+      },
+      {
+        "slug": "legends-battlegrounds-uppercut",
+        "file": "legends-battlegrounds-uppercut"
+      },
+      {
         "slug": "legends-battlegrounds-virgule-cascade-variants",
         "file": "legends-battlegrounds-virgule-cascade-variants"
       }
     ],
     "updates": [
       {
+        "slug": "legends-battlegrounds-early-access",
+        "file": "legends-battlegrounds-early-access"
+      },
+      {
         "slug": "legends-battlegrounds-leaks",
         "file": "legends-battlegrounds-leaks"
+      },
+      {
+        "slug": "legends-battlegrounds-next-character",
+        "file": "legends-battlegrounds-next-character"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-release-date",
+        "file": "legends-battlegrounds-shinji-release-date"
       },
       {
         "slug": "legends-battlegrounds-sneak-peek",
@@ -498,12 +830,20 @@
         "file": "legends-battlegrounds-all-characters"
       },
       {
+        "slug": "legends-battlegrounds-characters",
+        "file": "legends-battlegrounds-characters"
+      },
+      {
         "slug": "legends-battlegrounds-dark-lord",
         "file": "legends-battlegrounds-dark-lord"
       },
       {
         "slug": "legends-battlegrounds-jun",
         "file": "legends-battlegrounds-jun"
+      },
+      {
+        "slug": "legends-battlegrounds-kj",
+        "file": "legends-battlegrounds-kj"
       },
       {
         "slug": "legends-battlegrounds-kratos",
@@ -536,6 +876,10 @@
       {
         "slug": "legends-battlegrounds-best-combos",
         "file": "legends-battlegrounds-best-combos"
+      },
+      {
+        "slug": "legends-battlegrounds-combos",
+        "file": "legends-battlegrounds-combos"
       },
       {
         "slug": "legends-battlegrounds-jun-combo",
@@ -572,18 +916,54 @@
         "file": "legends-battlegrounds-all-emotes"
       },
       {
+        "slug": "legends-battlegrounds-cosmetics",
+        "file": "legends-battlegrounds-cosmetics"
+      },
+      {
+        "slug": "legends-battlegrounds-emotes",
+        "file": "legends-battlegrounds-emotes"
+      },
+      {
+        "slug": "legends-battlegrounds-gamepass",
+        "file": "legends-battlegrounds-gamepass"
+      },
+      {
+        "slug": "legends-battlegrounds-kill-emotes",
+        "file": "legends-battlegrounds-kill-emotes"
+      },
+      {
+        "slug": "legends-battlegrounds-kill-messages",
+        "file": "legends-battlegrounds-kill-messages"
+      },
+      {
         "slug": "legends-battlegrounds-kill-sound-id",
         "file": "legends-battlegrounds-kill-sound-id"
       },
       {
         "slug": "legends-battlegrounds-roblox-song-id",
         "file": "legends-battlegrounds-roblox-song-id"
+      },
+      {
+        "slug": "legends-battlegrounds-variants",
+        "file": "legends-battlegrounds-variants"
       }
     ],
     "guide": [
       {
+        "slug": "legends-battlegrounds-clans",
+        "file": "legends-battlegrounds-clans"
+      },
+      {
         "slug": "legends-battlegrounds-controls",
         "file": "legends-battlegrounds-controls"
+      },
+      {
+        "slug": "legends-battlegrounds-developers",
+        "file": "legends-battlegrounds-developers"
+      },
+      {
+        "slug": "legends-battlegrounds-discord",
+        "file": "legends-battlegrounds-discord"
       },
       {
         "slug": "legends-battlegrounds-how-to-dodge-phantom-sever",
@@ -598,14 +978,34 @@
         "file": "legends-battlegrounds-how-to-use-jun"
       },
       {
+        "slug": "legends-battlegrounds-ost",
+        "file": "legends-battlegrounds-ost"
+      },
+      {
         "slug": "legends-battlegrounds-private-server-commands",
         "file": "legends-battlegrounds-private-server-commands"
+      },
+      {
+        "slug": "legends-battlegrounds-reddit",
+        "file": "legends-battlegrounds-reddit"
+      },
+      {
+        "slug": "legends-battlegrounds-vs-combat-gods",
+        "file": "legends-battlegrounds-vs-combat-gods"
       }
     ],
     "moves": [
       {
         "slug": "legends-battlegrounds-all-moves",
         "file": "legends-battlegrounds-all-moves"
+      },
+      {
+        "slug": "legends-battlegrounds-draco-meteor",
+        "file": "legends-battlegrounds-draco-meteor"
+      },
+      {
+        "slug": "legends-battlegrounds-impact-frames",
+        "file": "legends-battlegrounds-impact-frames"
       },
       {
         "slug": "legends-battlegrounds-jun-awakening",
@@ -620,6 +1020,14 @@
         "file": "legends-battlegrounds-jun-one-inch-punch"
       },
       {
+        "slug": "legends-battlegrounds-martial-legend-passive",
+        "file": "legends-battlegrounds-martial-legend-passive"
+      },
+      {
+        "slug": "legends-battlegrounds-moves",
+        "file": "legends-battlegrounds-moves"
+      },
+      {
         "slug": "legends-battlegrounds-piercing-tempest",
         "file": "legends-battlegrounds-piercing-tempest"
       },
@@ -628,14 +1036,34 @@
         "file": "legends-battlegrounds-shinji-awakening"
       },
       {
+        "slug": "legends-battlegrounds-shinji-ult",
+        "file": "legends-battlegrounds-shinji-ult"
+      },
+      {
+        "slug": "legends-battlegrounds-uppercut",
+        "file": "legends-battlegrounds-uppercut"
+      },
+      {
         "slug": "legends-battlegrounds-virgule-cascade-variants",
         "file": "legends-battlegrounds-virgule-cascade-variants"
       }
     ],
     "updates": [
       {
+        "slug": "legends-battlegrounds-early-access",
+        "file": "legends-battlegrounds-early-access"
+      },
+      {
         "slug": "legends-battlegrounds-leaks",
         "file": "legends-battlegrounds-leaks"
+      },
+      {
+        "slug": "legends-battlegrounds-next-character",
+        "file": "legends-battlegrounds-next-character"
+      },
+      {
+        "slug": "legends-battlegrounds-shinji-release-date",
+        "file": "legends-battlegrounds-shinji-release-date"
       },
       {
         "slug": "legends-battlegrounds-sneak-peek",
